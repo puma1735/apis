@@ -1,170 +1,198 @@
 [
   {
     "pais": "EEUU, Miami",
-    "nombre_corto": "Radio Maria",
-    "nombre_completo": "Radio Maria - EEUU, Miami",
-    "link": "https://dreamsiteradiocp5.com/proxy/rmusami?mp=/stream"
+    "nombre": "Radio Maria",
+    "descripcion": "Radio Maria - EEUU, Miami",
+    "link": "https://dreamsiteradiocp5.com",
+    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
   },
   {
     "pais": "EEUU, Miami",
-    "nombre_corto": "Radio Paz 830AM - Music",
-    "nombre_completo": "Radio Paz 830AM - Music - EEUU, Miami",
-    "link": "https://streaming6.locucionar.com:24006/stream"
+    "nombre": "Radio Paz 830AM - Music",
+    "descripcion": "Radio Paz 830AM - Music - EEUU, Miami",
+    "link": "https://locucionar.com",
+    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
   },
   {
     "pais": "EEUU, Miami",
-    "nombre_corto": "Radio Paz 830AM - En Vivo",
-    "nombre_completo": "Radio Paz 830AM - En Vivo - EEUU, Miami",
-    "link": "https://streaming6.locucionar.com:24004/stream"
+    "nombre": "Radio Paz 830AM - En Vivo",
+    "descripcion": "Radio Paz 830AM - En Vivo - EEUU, Miami",
+    "link": "https://locucionar.com",
+    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
   },
   {
     "pais": "EEUU, Alabama",
-    "nombre_corto": "EWTN Radio Católica Mundial",
-    "nombre_completo": "EWTN Radio Católica Mundial - EEUU, Alabama",
-    "link": "https://ewtn-sgrewind.streamguys1.com/sgrewind/spanish/playlist.m3u8"
+    "nombre": "EWTN Radio Católica Mundial",
+    "descripcion": "EWTN Radio Católica Mundial - EEUU, Alabama",
+    "link": "https://streamguys1.com",
+    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
   },
   {
     "pais": "Puerto Rico",
-    "nombre_corto": "WPUC-FM - Catolica Radio 88.9 FM",
-    "nombre_completo": "WPUC-FM - Catolica Radio 88.9 FM - Puerto Rico",
-    "link": "https://live.turadio.stream:7017/catolicaradiopr"
+    "nombre": "WPUC-FM - Catolica Radio 88.9 FM",
+    "descripcion": "WPUC-FM - Catolica Radio 88.9 FM - Puerto Rico",
+    "link": "https://turadio.stream",
+    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
   },
   {
     "pais": "México",
-    "nombre_corto": "Radio Maria",
-    "nombre_completo": "Radio Maria - México",
-    "link": "https://dreamsiteradiocp6.com/proxy/rmmessico?mp=/stream"
+    "nombre": "Radio Maria",
+    "descripcion": "Radio Maria - México",
+    "link": "https://dreamsiteradiocp6.com",
+    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
   },
   {
     "pais": "Costa Rica",
-    "nombre_corto": "Radio Maria",
-    "nombre_completo": "Radio Maria - Costa Rica",
-    "link": "https://dreamsiteradiocp2.com/proxy/rmcostarica?mp=/stream"
+    "nombre": "Radio Maria",
+    "descripcion": "Radio Maria - Costa Rica",
+    "link": "https://dreamsiteradiocp2.com",
+    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
   },
   {
     "pais": "El Salvador",
-    "nombre_corto": "Radio Maria",
-    "nombre_completo": "Radio Maria - El Salvador",
-    "link": "https://dreamsiteradiocp2.com/proxy/rmelsalvador2?mp=/stream"
+    "nombre": "Radio Maria",
+    "descripcion": "Radio Maria - El Salvador",
+    "link": "https://dreamsiteradiocp2.com",
+    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
   },
   {
     "pais": "Guatemala",
-    "nombre_corto": "Radio Maria",
-    "nombre_completo": "Radio Maria - Guatemala",
-    "link": "https://dreamsiteradiocp2.com/proxy/rmguatemala2?mp=/stream"
+    "nombre": "Radio Maria",
+    "descripcion": "Radio Maria - Guatemala",
+    "link": "https://dreamsiteradiocp2.com",
+    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
   },
   {
     "pais": "Guatemala",
-    "nombre_corto": "Radio Catolica - Dios es Amor",
-    "nombre_completo": "Radio Catolica - Dios es Amor - Guatemala",
-    "link": "https://stream.zenolive.com/ny8s998m9k0uv"
+    "nombre": "Radio Catolica - Dios es Amor",
+    "descripcion": "Radio Catolica - Dios es Amor - Guatemala",
+    "link": "https://zenolive.com",
+    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
   },
   {
     "pais": "Honduras",
-    "nombre_corto": "Radio Maria",
-    "nombre_completo": "Radio Maria - Honduras",
-    "link": "https://dreamsiteradiocp2.com/proxy/rmhonduras2?mp=/stream"
+    "nombre": "Radio Maria",
+    "descripcion": "Radio Maria - Honduras",
+    "link": "https://dreamsiteradiocp2.com",
+    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
   },
   {
     "pais": "Nicaragua",
-    "nombre_corto": "Radio Maria",
-    "nombre_completo": "Radio Maria - Nicaragua",
-    "link": "https://dreamsiteradiocp4.com/proxy/rmnicaragua?mp=/stream"
+    "nombre": "Radio Maria",
+    "descripcion": "Radio Maria - Nicaragua",
+    "link": "https://dreamsiteradiocp4.com",
+    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
   },
   {
     "pais": "Panamá",
-    "nombre_corto": "Radio Maria",
-    "nombre_completo": "Radio Maria - Panamá",
-    "link": "https://dreamsiteradiocp2.com/proxy/rmpanama2?mp=/stream"
+    "nombre": "Radio Maria",
+    "descripcion": "Radio Maria - Panamá",
+    "link": "https://dreamsiteradiocp2.com",
+    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
   },
   {
     "pais": "Cuba",
-    "nombre_corto": "Red Católica Juvenil Cubana",
-    "nombre_completo": "Red Católica Juvenil Cubana - Cuba",
-    "link": "https://usa6.fastcast4u.com/proxy/aserranog/stream"
+    "nombre": "Red Católica Juvenil Cubana",
+    "descripcion": "Red Católica Juvenil Cubana - Cuba",
+    "link": "https://fastcast4u.com",
+    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
   },
   {
     "pais": "República Dominicana",
-    "nombre_corto": "Radio Maria",
-    "nombre_completo": "Radio Maria - República Dominicana",
-    "link": "https://dreamsiteradiocp4.com/proxy/rmrepdom?mp=/stream"
+    "nombre": "Radio Maria",
+    "descripcion": "Radio Maria - República Dominicana",
+    "link": "https://dreamsiteradiocp4.com",
+    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
   },
   {
     "pais": "República Dominicana",
-    "nombre_corto": "Radio Católica Internacional",
-    "nombre_completo": "Radio Católica Internacional - República Dominicana",
-    "link": "https://radiocatolicaint.radioca.st/"
+    "nombre": "Radio Católica Internacional",
+    "descripcion": "Radio Católica Internacional - República Dominicana",
+    "link": "https://radioca.st",
+    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
   },
   {
     "pais": "Argentina",
-    "nombre_corto": "Radio Maria",
-    "nombre_completo": "Radio Maria - Argentina",
-    "link": "https://dreamsiteradiocp6.com/proxy/argentinarm?mp=/stream"
+    "nombre": "Radio Maria",
+    "descripcion": "Radio Maria - Argentina",
+    "link": "https://dreamsiteradiocp6.com",
+    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
   },
   {
     "pais": "Bolivia",
-    "nombre_corto": "Radio Maria",
-    "nombre_completo": "Radio Maria - Bolivia",
-    "link": "https://dreamsiteradiocp4.com/proxy/rmbolivia2?mp=/stream"
+    "nombre": "Radio Maria",
+    "descripcion": "Radio Maria - Bolivia",
+    "link": "https://dreamsiteradiocp4.com",
+    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
   },
   {
     "pais": "Brasil",
-    "nombre_corto": "Radio Maria",
-    "nombre_completo": "Radio Maria - Brasil",
-    "link": "https://dreamsiteradiocp6.com/proxy/rmbrasile?mp=/stream"
+    "nombre": "Radio Maria",
+    "descripcion": "Radio Maria - Brasil",
+    "link": "https://dreamsiteradiocp6.com",
+    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
   },
   {
     "pais": "Brasil",
-    "nombre_corto": "Rede Católica de Web rádio",
-    "nombre_completo": "Rede Católica de Web rádio - Brasil",
-    "link": "https://stm2.streaminghd.net.br:7418/stream"
+    "nombre": "Rede Católica de Web rádio",
+    "descripcion": "Rede Católica de Web rádio - Brasil",
+    "link": "https://streaminghd.net.br",
+    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
   },
   {
     "pais": "Chile",
-    "nombre_corto": "Radio Maria",
-    "nombre_completo": "Radio Maria - Chile",
-    "link": "http://dreamsiteradiocp.com:8066/"
+    "nombre": "Radio Maria",
+    "descripcion": "Radio Maria - Chile",
+    "link": "http://dreamsiteradiocp.com",
+    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
   },
   {
     "pais": "Colombia",
-    "nombre_corto": "Radio Maria",
-    "nombre_completo": "Radio Maria - Colombia",
-    "link": "https://dreamsiteradiocp2.com/proxy/rmcolombia2?mp=/stream"
+    "nombre": "Radio Maria",
+    "descripcion": "Radio Maria - Colombia",
+    "link": "https://dreamsiteradiocp2.com",
+    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
   },
   {
     "pais": "Ecuador",
-    "nombre_corto": "Radio Maria",
-    "nombre_completo": "Radio Maria - Ecuador",
-    "link": "https://dreamsiteradiocp4.com/proxy/rmequador2?mp=/stream"
+    "nombre": "Radio Maria",
+    "descripcion": "Radio Maria - Ecuador",
+    "link": "https://dreamsiteradiocp4.com",
+    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
   },
   {
     "pais": "Ecuador",
-    "nombre_corto": "Radio Talisman",
-    "nombre_completo": "Radio Talisman - Ecuador",
-    "link": "https://streaming.brol.tech/rtfmlounge"
+    "nombre": "Radio Talisman",
+    "descripcion": "Radio Talisman - Ecuador",
+    "link": "https://brol.tech",
+    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
   },
   {
     "pais": "Paraguay",
-    "nombre_corto": "Radio Maria",
-    "nombre_completo": "Radio Maria - Paraguay",
-    "link": "https://dreamsiteradiocp2.com/proxy/rmparaguay2?mp=/stream"
+    "nombre": "Radio Maria",
+    "descripcion": "Radio Maria - Paraguay",
+    "link": "https://dreamsiteradiocp2.com",
+    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
   },
   {
     "pais": "Perú",
-    "nombre_corto": "Radio Maria",
-    "nombre_completo": "Radio Maria - Perú",
-    "link": "https://dreamsiteradiocp6.com/proxy/rmperu?mp=/stream"
+    "nombre": "Radio Maria",
+    "descripcion": "Radio Maria - Perú",
+    "link": "https://dreamsiteradiocp6.com",
+    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
   },
   {
     "pais": "Uruguay",
-    "nombre_corto": "Radio Maria",
-    "nombre_completo": "Radio Maria - Uruguay",
-    "link": "https://dreamsiteradiocp2.com/proxy/rmuruguay2?mp=/stream"
+    "nombre": "Radio Maria",
+    "descripcion": "Radio Maria - Uruguay",
+    "link": "https://dreamsiteradiocp2.com",
+    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
   },
   {
     "pais": "Venezuela",
-    "nombre_corto": "Radio Maria",
-    "nombre_completo": "Radio Maria - Venezuela",
-    "link": "https://dreamsiteradiocp2.com/proxy/rmvenezuela?mp=/stream"
+    "nombre": "Radio Maria",
+    "descripcion": "Radio Maria - Venezuela",
+    "link": "https://dreamsiteradiocp2.com",
+    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
   }
 ]
