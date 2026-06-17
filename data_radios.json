@@ -127,6 +127,13 @@
   },
   {
     "pais": "Brasil",
+    "nombre": "Família Católica",
+    "descripcion": "Família Católica - Brasil",
+    "link": "https://str.softhost.com.br:2199/proxy/familiacatolica/stream",
+    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
+  },
+    {
+    "pais": "Brasil",
     "nombre": "Radio Maria",
     "descripcion": "Radio Maria - Brasil",
     "link": "https://dreamsiteradiocp6.com",
