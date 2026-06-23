@@ -1,199 +1,425 @@
 [
+   {
+      "pais":"EEUU",
+      "nombre":"Radio Maria - EEUU, Miami",
+      "descripcion":"Radio Maria - EEUU, Miami",
+      "link":"https://dreamsiteradiocp5.com/proxy/rmusami?mp=/stream",
+      "web":"https://www.radiomariasp.org/station/miami/",
+	  "categoria":"Mixta",
+      "logo":"radiomaria"
+   },
+   {
+      "pais":"EEUU",
+      "nombre":"Radio Paz 830AM - Music",
+      "descripcion":"Radio Paz 830AM - Music - EEUU, Miami",
+      "link":"https://streaming6.locucionar.com:24006/stream",
+      "web":"https://paxcc.org/",
+	  "categoria":"Mixta",
+      "logo":"radio_paz_830_miami"
+   },
+   {
+      "pais":"EEUU",
+      "nombre":"Radio Paz 830AM - En Vivo",
+      "descripcion":"Radio Paz 830AM - En Vivo - EEUU, Miami",
+      "link":"https://streaming6.locucionar.com:24004/stream",
+      "web":"https://paxcc.org/",
+	  "categoria":"Mixta",
+      "logo":"radio_paz_830_miami"
+   },
+   {
+      "pais":"Alemania",
+      "nombre":"Solo Piano - Instrumental",
+      "descripcion":"Klassik Radio Plus - Alemania",
+      "link":"https://stream.klassikradio.de/piano/aac-128/",
+      "web":"https://klassikradioplus.de/en",
+	  "categoria":"Musica",
+      "logo":"solo_piano"
+   },
+   {
+      "pais":"Alemania",
+      "nombre":"Clasicos suaves - Instrumental",
+      "descripcion":"Klassik Radio Plus - Alemania",
+      "link":"https://stream.klassikradio.de/dreams/aac-128/",
+      "web":"https://klassikradioplus.de/en",
+	  "categoria":"Musica",
+      "logo":"clasicos_suaves"
+   },
+   {
+      "pais":"Alemania",
+      "nombre":"Navidad Clasica - Instrumental",
+      "descripcion":"Klassik Radio Plus - Alemania",
+      "link":"https://stream.klassikradio.de/christmas/aac-128/",
+      "web":"https://klassikradioplus.de/en",
+	  "categoria":"Musica",
+      "logo":"navidad_clasica"
+   },
+	{
+      "pais":"Alemania",
+      "nombre":"Meditación - Instrumental",
+      "descripcion":"Klassik Radio Plus - Alemania",
+      "link":"https://stream.klassikradio.de/meditation/aac-128/",
+      "web":"https://klassikradioplus.de/en",
+	  "categoria":"Musica",
+      "logo":"meditacion"
+   },
+   {
+      "pais":"Alemania",
+      "nombre":"Meditación II - Musical, Instrumental",
+      "descripcion":"Klassik Radio Plus - Alemania",
+      "link":"https://stream.klassikradio.de/yoga/aac-128/",
+      "web":"https://klassikradioplus.de/en",
+	  "categoria":"Musica",
+      "logo":"meditacion2"
+   },
+   {
+      "pais":"Alemania",
+      "nombre":"Nuevos Clasicos -  Instrumental",
+      "descripcion":"Klassik Radio Plus - Alemania",
+      "link":"https://stream.klassikradio.de/newclassics/aac-128/",
+      "web":"https://klassikradioplus.de/en",
+	  "categoria":"Musica",
+      "logo":"nuevos_clasicos"
+   },
+   {
+      "pais":"Alemania",
+      "nombre":"Clasica de conscentración  -  Instrumental",
+      "descripcion":"Klassik Radio Plus - Alemania",
+      "link":"https://stream.klassikradio.de/freesender1/aac-128/",
+      "web":"https://klassikradioplus.de/en",
+	  "categoria":"Musica",
+      "logo":"clasica_concentracion"
+   },
+   {
+      "pais":"Alemania",
+      "nombre":"Piano Atmosfera  -  Instrumental",
+      "descripcion":"Klassik Radio Plus - Alemania",
+      "link":"https://stream.klassikradio.de/pianonewclassics/aac-128/",
+      "web":"https://klassikradioplus.de/en",
+	  "categoria":"Musica",
+      "logo":"piano_atmosfera"
+   },
+   {
+      "pais":"Alemania",
+      "nombre":"Clasicos de Pelicula - Instrumental",
+      "descripcion":"Klassik Radio Plus - Alemania",
+      "link":"https://stream.klassikradio.de/moviedreams/aac-128/",
+      "web":"https://klassikradioplus.de/en",
+	  "categoria":"Musica",
+      "logo":"clasicos_pelicula"
+   },
+   {
+      "pais":"Alemania",
+      "nombre":"Ritmos Relajantes  -  Musical, Instrumental",
+      "descripcion":"Klassik Radio Plus - Alemania",
+      "link":"https://stream.klassikradio.de/Chilloutbeats/aac-128/",
+      "web":"https://klassikradioplus.de/en",
+	  "categoria":"Musica",
+      "logo":"ritmos_relajantes"
+   },
+    {
+      "pais":"Alemania",
+      "nombre":"Mozart - Instrumental",
+      "descripcion":"Klassik Radio Plus - Alemania",
+      "link":"https://stream.klassikradio.de/mozart/aac-128/",
+      "web":"https://klassikradioplus.de/en",
+	  "categoria":"Musica",
+      "logo":"mozart"
+   },
+   {
+      "pais":"Alemania",
+      "nombre":"Beethoven - Instrumental",
+      "descripcion":"Klassik Radio Plus - Alemania",
+      "link":"https://stream.klassikradio.de/beethoven/aac-128/",
+      "web":"https://klassikradioplus.de/en",
+	  "categoria":"Musica",
+      "logo":"beethoven"
+   },
+   {
+      "pais":"Alemania",
+      "nombre":"Bach - Instrumental",
+      "descripcion":"Klassik Radio Plus - Alemania",
+      "link":"https://stream.klassikradio.de/purebach/aac-128/",
+      "web":"https://klassikradioplus.de/en",
+	  "categoria":"Musica",
+      "logo":"bach"
+   },
+   {
+      "pais":"EEUU",
+      "nombre":"EWTN Radio Católica Mundial",
+      "descripcion":"EWTN Radio Católica Mundial - EEUU, Alabama",
+      "link":"https://ewtn-sgrewind.streamguys1.com/sgrewind/spanish/playlist.m3u8",
+      "web":"https://www.ewtn.com/es/en-vivo/radio",
+	  "categoria":"Mixta",
+      "logo":"ewtn_radio_catolica_mundial"
+   },
+   {
+      "pais":"Puerto Rico",
+      "nombre":"WPUC-FM - Catolica Radio 88.9 FM - Puerto Rico",
+      "descripcion":"WPUC-FM - Catolica Radio 88.9 FM - Puerto Rico",
+      "link":"https://live.turadio.stream:7017/catolicaradiopr",
+      "web":"https://catolicaradiopr.com/",
+	  "categoria":"Mixta",
+      "logo":"catolica_radio"
+   },
+   {
+      "pais":"México",
+      "nombre":"Radio Maria- México",
+      "descripcion":"Radio Maria - México",
+      "link":"https://dreamsiteradiocp6.com/proxy/rmmessico?mp=/stream",
+      "web":"https://www.radiomaria.mx/",
+	  "categoria":"Mixta",
+      "logo":"radiomaria"
+   },
+   {
+      "pais":"Costa Rica",
+      "nombre":"Radio Maria - Costa Rica",
+      "descripcion":"Radio Maria - Costa Rica",
+      "link":"https://dreamsiteradiocp2.com/proxy/rmcostarica?mp=/stream",
+      "web":"https://www.radiomaria.cr/",
+	  "categoria":"Mixta",
+      "logo":"radiomaria"
+   },
+   {
+      "pais":"El Salvador",
+      "nombre":"Radio Maria - El Salvador",
+      "descripcion":"Radio Maria - El Salvador",
+      "link":"https://dreamsiteradiocp2.com/proxy/rmelsalvador2?mp=/stream",
+      "web":"https://www.radiomaria.org.sv/",
+	  "categoria":"Mixta",
+      "logo":"radiomaria"
+   },
+   {
+      "pais":"Guatemala",
+      "nombre":"Radio Maria - Guatemala",
+      "descripcion":"Radio Maria - Guatemala",
+      "link":"https://dreamsiteradiocp2.com/proxy/rmguatemala2?mp=/stream",
+      "web":"https://www.radiomaria.org.gt/",
+	  "categoria":"Mixta",
+      "logo":"radiomaria"
+   },
+   {
+      "pais":"Guatemala",
+      "nombre":"Radio Catolica - Dios es Amor",
+      "descripcion":"Radio Catolica - Dios es Amor - Guatemala",
+      "link":"https://stream.zenolive.com/ny8s998m9k0uv",
+      "web":"https://radiocatolicadiosesamor.blogspot.com/",
+	  "categoria":"Mixta",
+      "logo":"radio_catolica_dios_es_amor"
+   },
+   {
+      "pais":"Honduras",
+      "nombre":"Radio Maria - Honduras",
+      "descripcion":"Radio Maria - Honduras",
+      "link":"https://dreamsiteradiocp2.com/proxy/rmhonduras2?mp=/stream",
+      "web":"https://www.radiomaria.hn/",
+	  "categoria":"Mixta",
+      "logo":"radiomaria"
+   },
+   {
+      "pais":"Nicaragua",
+      "nombre":"Radio Maria - Nicaragua",
+      "descripcion":"Radio Maria - Nicaragua",
+      "link":"https://dreamsiteradiocp4.com/proxy/rmnicaragua?mp=/stream",
+      "web":"https://radiomarianicaragua.org/",
+	  "categoria":"Mixta",
+      "logo":"radiomaria"
+   },
+   {
+      "pais":"Panamá",
+      "nombre":"Radio Maria - Panamá",
+      "descripcion":"Radio Maria - Panamá",
+      "link":"https://dreamsiteradiocp2.com/proxy/rmpanama2?mp=/stream",
+      "web":"https://radiomaria.pa/",
+	  "categoria":"Mixta",
+      "logo":"radiomaria"
+   },
+   {
+      "pais":"Cuba",
+      "nombre":"Red Católica Juvenil Cubana",
+      "descripcion":"Red Católica Juvenil Cubana - Cuba",
+      "link":"https://usa6.fastcast4u.com/proxy/aserranog/stream",
+      "web":"https://rcjcubana.com/",
+	  "categoria":"Mixta",
+      "logo":"red_catolica_juvenil_cubana"
+   },
+   {
+      "pais":"República Dominicana",
+      "nombre":"Radio Maria - República Dominicana",
+      "descripcion":"Radio Maria - República Dominicana",
+      "link":"https://dreamsiteradiocp4.com/proxy/rmrepdom?mp=/stream",
+      "web":"https://www.radiomaria.org.do/",
+	  "categoria":"Mixta",
+      "logo":"radiomaria"
+   },
+   {
+      "pais":"República Dominicana",
+      "nombre":"Radio Católica Internacional",
+      "descripcion":"Radio Católica Internacional - República Dominicana",
+      "link":"https://radiocatolicaint.radioca.st/",
+      "web":"radio_internacional_dominicana",
+	  "categoria":"Mixta",
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
+   },
+   {
+      "pais":"Argentina",
+      "nombre":"Radio Maria - Argentina",
+      "descripcion":"Radio Maria - Argentina",
+      "link":"https://dreamsiteradiocp6.com/proxy/argentinarm?mp=/stream",
+      "web":"https://radiomaria.org.ar/",
+	  "categoria":"Mixta",
+      "logo":"radiomaria"
+   },
+   {
+      "pais":"Bolivia",
+      "nombre":"Radio Maria - Bolivia",
+      "descripcion":"Radio Maria - Bolivia",
+      "link":"https://dreamsiteradiocp4.com/proxy/rmbolivia2?mp=/stream",
+      "web":"https://www.radiomaria.org.bo/",
+	  "categoria":"Mixta",
+      "logo":"radiomaria"
+   },
+   {
+      "pais":"Brasil",
+      "nombre":"Radio Maria - Brasil",
+      "descripcion":"Radio Maria - Brasil",
+      "link":"https://dreamsiteradiocp6.com/proxy/rmbrasile?mp=/stream",
+      "web":"https://www.radiomaria.org.br/",
+	  "categoria":"Mixta",
+      "logo":"radiomaria"
+   },
+   {
+      "pais":"Brasil",
+      "nombre":"Rede Católica de Web rádio",
+      "descripcion":"Rede Católica de Web rádio - Brasil",
+      "link":"https://stm2.streaminghd.net.br:7418/stream",
+      "web":"https://www.radiomaria.org.br/",
+	  "categoria":"Mixta",
+      "logo":"radiomaria"
+   },
+   {
+      "pais":"Chile",
+      "nombre":"Radio Maria - Chile",
+      "descripcion":"Radio Maria - Chile",
+      "link":"http://dreamsiteradiocp.com:8066/",
+      "web":"https://www.radiomaria.cl/",
+	  "categoria":"Mixta",
+      "logo":"radiomaria"
+   },
+   {
+      "pais":"Colombia",
+      "nombre":"Radio Maria - Colombia",
+      "descripcion":"Radio Maria - Colombia",
+      "link":"https://dreamsiteradiocp2.com/proxy/rmcolombia2?mp=/stream",
+      "web":"https://www.radiomariacol.org/",
+	  "categoria":"Mixta",
+      "logo":"radiomaria"
+   },
+   {
+      "pais":"Ecuador",
+      "nombre":"Radio Maria - Ecuador",
+      "descripcion":"Radio Maria - Ecuador",
+      "link":"https://dreamsiteradiocp4.com/proxy/rmequador2?mp=/stream",
+      "web":"https://radiomariaecuador.org/",
+	  "categoria":"Mixta",
+      "logo":"radiomaria"
+   },
+   {
+      "pais":"Ecuador",
+      "nombre":"Radio Talisman",
+      "descripcion":"Radio Talisman - Ecuador",
+      "link":"https://streaming.brol.tech/rtfmlounge",
+      "web":"https://radiotalisman.jimdofree.com/",
+	  "categoria":"Mixta",
+      "logo":"radio_talisman"
+   },
+   {
+      "pais":"Paraguay",
+      "nombre":"Radio Maria - Paraguay",
+      "descripcion":"Radio Maria - Paraguay",
+      "link":"https://dreamsiteradiocp2.com/proxy/rmparaguay2?mp=/stream",
+      "web":"https://www.radiomaria.org.py/",
+	  "categoria":"Mixta",
+      "logo":"radiomaria"
+   },
+   {
+      "pais":"Perú",
+      "nombre":"Radio Maria - Perú",
+      "descripcion":"Radio Maria - Perú",
+      "link":"https://dreamsiteradiocp6.com/proxy/rmperu?mp=/stream",
+      "web":"https://www.radiomariaperu.org/",
+	  "categoria":"Mixta",
+      "logo":"radiomaria"
+   },
+   {
+      "pais":"Perú",
+      "nombre":"Jesus Radio Vive",
+      "descripcion":"Jesús Vive radio, es una iniciativa de la Fraternidad Sacerdotal Jesús Vive deperú",
+      "link":"https://sh1.radioonlinehd.com:8060/stream",
+      "web":"https://www.facebook.com/jesusviveradio?locale=es_LA",
+	  "categoria":"Mixta",
+      "logo":"jesus_vive_radio_peru"
+   },
+   {
+      "pais":"Uruguay",
+      "nombre":"Radio Maria - Uruguay",
+      "descripcion":"Radio Maria - Uruguay",
+      "link":"https://dreamsiteradiocp2.com/proxy/rmuruguay2?mp=/stream",
+      "web":"https://www.radiomaria.org.uy/",
+	  "categoria":"Mixta",
+      "logo":"radiomaria"
+   },
+   {
+      "pais":"Uruguay",
+      "nombre":"Radio Católica Oriental 770 AM - Uruguay",
+      "descripcion":"Es un instrumento de la arquidiócesis de Montevideo para llevar y transmitir a la sociedad los valores cristianos",
+      "link":"https://radiolatina.live/7906/stream",
+      "web":"https://www.medios.gt/oriental770uy",
+	  "categoria":"Mixta",
+      "logo":"oriental770"
+   },
+   {
+      "pais":"Venezuela",
+      "nombre":"Radio Maria - Venezuela",
+      "descripcion":"Radio Maria - Venezuela",
+      "link":"https://dreamsiteradiocp2.com/proxy/rmvenezuela?mp=/stream",
+      "web":"https://radiomaria.com.ve/",
+	  "categoria":"Mixta",
+      "logo":"radiomaria"
+   },
+	{
+    "pais": "Venezuela",
+    "nombre": "Radio Pastoreña 89.7 FM - San Carlos, Venezuela",
+    "descripcion": "Perteneciente al Circuito Comunion Fm, del la Diócesis de El Vigía San Carlos del Zulia",
+    "link": "https://stream.zeno.fm/7ikd65htmwptv",
+	"web": "https://pastorenafm.com.ve/?i=1",
+	"categoria":"Mixta",
+	"logo": "pastorena"
+  },  
+	{
+    "pais": "Venezuela",
+    "nombre": "Radio El Salvador- Barquisimeto, Venezuela",
+    "descripcion": "La Radio Católica Oficial de la Arquidiócesis de Barquisimeto",
+    "link": "https://stream.zeno.fm/ompekcyad9suv",
+	"web": "https://pastorenafm.com.ve/?i=1",
+	"categoria":"Mixta",
+	"logo": "salvador"
+  },  
   {
-    "pais": "EEUU, Miami",
-    "nombre": "Radio Maria",
-    "descripcion": "Radio Maria - EEUU, Miami",
-    "link": "https://dreamsiteradiocp5.com/proxy/rmusami?mp=/stream"
-    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
-  },
-  {
-    "pais": "EEUU, Miami",
-    "nombre": "Radio Paz 830AM - Music",
-    "descripcion": "Radio Paz 830AM - Music - EEUU, Miami",
-    "link": "https://streaming6.locucionar.com:24006/stream"
-    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
-  },
-  {
-    "pais": "EEUU, Miami",
-    "nombre": "Radio Paz 830AM - En Vivo",
-    "descripcion": "Radio Paz 830AM - En Vivo - EEUU, Miami",
-    "link": "https://streaming6.locucionar.com:24004/stream"
-    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
-  },
-  {
-    "pais": "EEUU, Alabama",
-    "nombre": "EWTN Radio Católica Mundial",
-    "descripcion": "EWTN Radio Católica Mundial - EEUU, Alabama",
-    "link": "https://ewtn-sgrewind.streamguys1.com/sgrewind/spanish/playlist.m3u8"
-    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
-  },
-  {
-    "pais": "Puerto Rico",
-    "nombre": "WPUC-FM - Catolica Radio 88.9 FM",
-    "descripcion": "WPUC-FM - Catolica Radio 88.9 FM - Puerto Rico",
-    "link": "https://live.turadio.stream:7017/catolicaradiopr"
-    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
-  },
-  {
-    "pais": "México",
-    "nombre": "Radio Maria",
-    "descripcion": "Radio Maria - México",
-    "link": "https://dreamsiteradiocp6.com/proxy/rmmessico?mp=/stream"
-    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
-  },
-  {
-    "pais": "Costa Rica",
-    "nombre": "Radio Maria",
-    "descripcion": "Radio Maria - Costa Rica",
-    "link": "https://dreamsiteradiocp2.com/proxy/rmcostarica?mp=/stream"
-    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
-  },
-  {
-    "pais": "El Salvador",
-    "nombre": "Radio Maria",
-    "descripcion": "Radio Maria - El Salvador",
-    "link": "https://dreamsiteradiocp2.com/proxy/rmelsalvador2?mp=/stream"
-    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
-  },
-  {
-    "pais": "Guatemala",
-    "nombre": "Radio Maria",
-    "descripcion": "Radio Maria - Guatemala",
-    "link": "https://dreamsiteradiocp2.com/proxy/rmguatemala2?mp=/stream"
-    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
-  },
-  {
-    "pais": "Guatemala",
-    "nombre": "Radio Catolica - Dios es Amor",
-    "descripcion": "Radio Catolica - Dios es Amor - Guatemala",
-    "link": "https://stream.zenolive.com/ny8s998m9k0uv"
-    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
-  },
-  {
-    "pais": "Honduras",
-    "nombre": "Radio Maria",
-    "descripcion": "Radio Maria - Honduras",
-    "link": "https://dreamsiteradiocp2.com/proxy/rmhonduras2?mp=/stream"
-    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
-  },
-  {
-    "pais": "Nicaragua",
-    "nombre": "Radio Maria",
-    "descripcion": "Radio Maria - Nicaragua",
-    "link": "https://dreamsiteradiocp4.com/proxy/rmnicaragua?mp=/stream"
-    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
-  },
-  {
-    "pais": "Panamá",
-    "nombre": "Radio Maria",
-    "descripcion": "Radio Maria - Panamá",
-    "link": "https://dreamsiteradiocp2.com/proxy/rmpanama2?mp=/stream"
-    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
-  },
-  {
-    "pais": "Cuba",
-    "nombre": "Red Católica Juvenil Cubana",
-    "descripcion": "Red Católica Juvenil Cubana - Cuba",
-    "link": "https://usa6.fastcast4u.com/proxy/aserranog/stream"
-    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
-  },
-  {
-    "pais": "República Dominicana",
-    "nombre": "Radio Maria",
-    "descripcion": "Radio Maria - República Dominicana",
-    "link": "https://dreamsiteradiocp4.com/proxy/rmrepdom?mp=/stream"
-    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
-  },
-  {
-    "pais": "República Dominicana",
-    "nombre": "Radio Católica Internacional",
-    "descripcion": "Radio Católica Internacional - República Dominicana",
-    "link": "https://radiocatolicaint.radioca.st/"
-    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
-  },
-  {
-    "pais": "Argentina",
-    "nombre": "Radio Maria",
-    "descripcion": "Radio Maria - Argentina",
-    "link": "https://dreamsiteradiocp6.com/proxy/argentinarm?mp=/stream"
-    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
-  },
-  {
-    "pais": "Bolivia",
-    "nombre": "Radio Maria",
-    "descripcion": "Radio Maria - Bolivia",
-    "link": "https://dreamsiteradiocp4.com/proxy/rmbolivia2?mp=/stream"
-    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
-  },
-  {
-    "pais": "Brasil",
-    "nombre": "Radio Maria",
-    "descripcion": "Radio Maria - Brasil",
-    "link": "https://dreamsiteradiocp6.com/proxy/rmbrasile?mp=/stream"
-    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
-  },
-  {
-    "pais": "Brasil",
-    "nombre": "Rede Católica de Web rádio",
-    "descripcion": "Rede Católica de Web rádio - Brasil",
-    "link": "https://stm2.streaminghd.net.br:7418/stream"
-    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
-  },
-  {
-    "pais": "Chile",
-    "nombre": "Radio Maria",
-    "descripcion": "Radio Maria - Chile",
-    "link": "http://dreamsiteradiocp.com:8066/"
-    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
-  },
-  {
-    "pais": "Colombia",
-    "nombre": "Radio Maria",
-    "descripcion": "Radio Maria - Colombia",
-    "link": "https://dreamsiteradiocp2.com/proxy/rmcolombia2?mp=/stream"
-    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
-  },
-  {
-    "pais": "Ecuador",
-    "nombre": "Radio Maria",
-    "descripcion": "Radio Maria - Ecuador",
-    "link": "https://dreamsiteradiocp4.com/proxy/rmequador2?mp=/stream"
-    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
-  },
-  {
-    "pais": "Ecuador",
-    "nombre": "Radio Talisman",
-    "descripcion": "Radio Talisman - Ecuador",
-    "link": "https://streaming.brol.tech/rtfmlounge"
-    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
-  },
-  {
-    "pais": "Paraguay",
-    "nombre": "Radio Maria",
-    "descripcion": "Radio Maria - Paraguay",
-    "link": "https://dreamsiteradiocp2.com/proxy/rmparaguay2?mp=/stream"
-    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
-  },
-  {
-    "pais": "Perú",
-    "nombre": "Radio Maria",
-    "descripcion": "Radio Maria - Perú",
-    "link": "https://dreamsiteradiocp6.com/proxy/rmperu?mp=/stream"
-    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
-  },
-  {
-    "pais": "Uruguay",
-    "nombre": "Radio Maria",
-    "descripcion": "Radio Maria - Uruguay",
-    "link": "https://dreamsiteradiocp2.com/proxy/rmuruguay2?mp=/stream"
-    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
+    "pais": "Venezuela",
+    "nombre": "Radio Natividad - San Cristobal, Venezuela",
+    "descripcion": "Ofrece catequesis a través de la cultura, noticias y espacios para laicos junto a música de adoración",
+    "link": "https://server6.globalhostla.com:9222/stream",
+	"web": "https://www.radionatividadtv.com/",
+	"categoria":"Mixta",
+	"logo": "natividad"
   },
   {
     "pais": "Venezuela",
-    "nombre": "Radio Maria",
-    "descripcion": "Radio Maria - Venezuela",
-    "link": "https://dreamsiteradiocp2.com/proxy/rmvenezuela?mp=/stream"
-    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radio.png"
+    "nombre": "Radio Comunion 97. 5 Fm - El Vigia, Venezuela",
+    "descripcion": "Perteneciente al Circuito Comunion Fm, del la Diócesis de El Vigía San Carlos del Zulia",
+    "link": "https://stream-288.surfernetwork.com/bw6eb0frwmzuv?",
+	"web": "https://comunionfm.web.ve/975fmelvigia/",
+	"categoria":"Mixta",
+	"logo": "comunion"
   }
 ]
-
