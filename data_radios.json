@@ -1,12 +1,12 @@
 [
    {
       "pais":"EEUU",
-      "nombre":"Radio Maria - EEUU, Miami",
-      "descripcion":"Radio Maria - EEUU, Miami",
-      "link":"https://dreamsiteradiocp5.com/proxy/rmusami?mp=/stream",
-      "web":"https://www.radiomariasp.org/station/miami/",
+      "nombre":"EWTN Radio Católica Mundial",
+      "descripcion":"EWTN Radio Católica Mundial - EEUU, Alabama",
+      "link":"https://ewtn-sgrewind.streamguys1.com/sgrewind/spanish/playlist.m3u8",
+      "web":"https://www.ewtn.com/es/en-vivo/radio",
 	  "categoria":"Mixta",
-      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radiomaria.jpg"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/ewtn_radio_catolica_mundial.jpg"
    },
    {
       "pais":"EEUU",
@@ -16,6 +16,15 @@
       "web":"https://paxcc.org/",
 	  "categoria":"Mixta",
       "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radio_paz_830_miami.jpg"
+   },
+   {
+      "pais":"EEUU",
+      "nombre":"Radio Maria - EEUU, Miami",
+      "descripcion":"Radio Maria - EEUU, Miami",
+      "link":"https://dreamsiteradiocp5.com/proxy/rmusami?mp=/stream",
+      "web":"https://www.radiomariasp.org/station/miami/",
+	  "categoria":"Mixta",
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radiomaria.jpg"
    },
    {
       "pais":"EEUU",
@@ -142,15 +151,6 @@
       "web":"https://klassikradioplus.de/en",
 	  "categoria":"Musica",
       "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/bach.jpg"
-   },
-   {
-      "pais":"EEUU",
-      "nombre":"EWTN Radio Católica Mundial",
-      "descripcion":"EWTN Radio Católica Mundial - EEUU, Alabama",
-      "link":"https://ewtn-sgrewind.streamguys1.com/sgrewind/spanish/playlist.m3u8",
-      "web":"https://www.ewtn.com/es/en-vivo/radio",
-	  "categoria":"Mixta",
-      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/ewtn_radio_catolica_mundial.jpg"
    },
    {
       "pais":"Puerto Rico",
