@@ -6,7 +6,7 @@
       "link":"https://dreamsiteradiocp5.com/proxy/rmusami?mp=/stream",
       "web":"https://www.radiomariasp.org/station/miami/",
 	  "categoria":"Mixta",
-      "logo":"radiomaria"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radiomaria.jpg"
    },
    {
       "pais":"EEUU",
@@ -15,7 +15,7 @@
       "link":"https://streaming6.locucionar.com:24006/stream",
       "web":"https://paxcc.org/",
 	  "categoria":"Mixta",
-      "logo":"radio_paz_830_miami"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radio_paz_830_miami.jpg"
    },
    {
       "pais":"EEUU",
@@ -24,7 +24,7 @@
       "link":"https://streaming6.locucionar.com:24004/stream",
       "web":"https://paxcc.org/",
 	  "categoria":"Mixta",
-      "logo":"radio_paz_830_miami"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radio_paz_830_miami.jpg"
    },
    {
       "pais":"Alemania",
@@ -33,7 +33,7 @@
       "link":"https://stream.klassikradio.de/piano/aac-128/",
       "web":"https://klassikradioplus.de/en",
 	  "categoria":"Musica",
-      "logo":"solo_piano"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/solo_piano.jpg"
    },
    {
       "pais":"Alemania",
@@ -42,7 +42,7 @@
       "link":"https://stream.klassikradio.de/dreams/aac-128/",
       "web":"https://klassikradioplus.de/en",
 	  "categoria":"Musica",
-      "logo":"clasicos_suaves"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/clasicos_suaves.jpg"
    },
    {
       "pais":"Alemania",
@@ -51,7 +51,7 @@
       "link":"https://stream.klassikradio.de/christmas/aac-128/",
       "web":"https://klassikradioplus.de/en",
 	  "categoria":"Musica",
-      "logo":"navidad_clasica"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/navidad_clasica.jpg"
    },
 	{
       "pais":"Alemania",
@@ -60,7 +60,7 @@
       "link":"https://stream.klassikradio.de/meditation/aac-128/",
       "web":"https://klassikradioplus.de/en",
 	  "categoria":"Musica",
-      "logo":"meditacion"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/meditacion.lpg"
    },
    {
       "pais":"Alemania",
@@ -69,7 +69,7 @@
       "link":"https://stream.klassikradio.de/yoga/aac-128/",
       "web":"https://klassikradioplus.de/en",
 	  "categoria":"Musica",
-      "logo":"meditacion2"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/meditacion2.jpg"
    },
    {
       "pais":"Alemania",
@@ -78,7 +78,7 @@
       "link":"https://stream.klassikradio.de/newclassics/aac-128/",
       "web":"https://klassikradioplus.de/en",
 	  "categoria":"Musica",
-      "logo":"nuevos_clasicos"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/nuevos_clasicos.jpg"
    },
    {
       "pais":"Alemania",
@@ -87,7 +87,7 @@
       "link":"https://stream.klassikradio.de/freesender1/aac-128/",
       "web":"https://klassikradioplus.de/en",
 	  "categoria":"Musica",
-      "logo":"clasica_concentracion"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/clasica_concentracion.jpg"
    },
    {
       "pais":"Alemania",
@@ -96,7 +96,7 @@
       "link":"https://stream.klassikradio.de/pianonewclassics/aac-128/",
       "web":"https://klassikradioplus.de/en",
 	  "categoria":"Musica",
-      "logo":"piano_atmosfera"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/piano_atmosfera.jpg"
    },
    {
       "pais":"Alemania",
@@ -105,7 +105,7 @@
       "link":"https://stream.klassikradio.de/moviedreams/aac-128/",
       "web":"https://klassikradioplus.de/en",
 	  "categoria":"Musica",
-      "logo":"clasicos_pelicula"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/clasicos_pelicula.jpg"
    },
    {
       "pais":"Alemania",
@@ -114,7 +114,7 @@
       "link":"https://stream.klassikradio.de/Chilloutbeats/aac-128/",
       "web":"https://klassikradioplus.de/en",
 	  "categoria":"Musica",
-      "logo":"ritmos_relajantes"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/ritmos_relajantes.jpg"
    },
     {
       "pais":"Alemania",
@@ -123,7 +123,7 @@
       "link":"https://stream.klassikradio.de/mozart/aac-128/",
       "web":"https://klassikradioplus.de/en",
 	  "categoria":"Musica",
-      "logo":"mozart"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/mozart.jpg"
    },
    {
       "pais":"Alemania",
@@ -132,7 +132,7 @@
       "link":"https://stream.klassikradio.de/beethoven/aac-128/",
       "web":"https://klassikradioplus.de/en",
 	  "categoria":"Musica",
-      "logo":"beethoven"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/beethoven.jpg"
    },
    {
       "pais":"Alemania",
@@ -141,7 +141,7 @@
       "link":"https://stream.klassikradio.de/purebach/aac-128/",
       "web":"https://klassikradioplus.de/en",
 	  "categoria":"Musica",
-      "logo":"bach"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/bach.jpg"
    },
    {
       "pais":"EEUU",
@@ -150,7 +150,7 @@
       "link":"https://ewtn-sgrewind.streamguys1.com/sgrewind/spanish/playlist.m3u8",
       "web":"https://www.ewtn.com/es/en-vivo/radio",
 	  "categoria":"Mixta",
-      "logo":"ewtn_radio_catolica_mundial"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/ewtn_radio_catolica_mundial.jpg"
    },
    {
       "pais":"Puerto Rico",
@@ -159,7 +159,7 @@
       "link":"https://live.turadio.stream:7017/catolicaradiopr",
       "web":"https://catolicaradiopr.com/",
 	  "categoria":"Mixta",
-      "logo":"catolica_radio"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/catolica_radio.jpg"
    },
    {
       "pais":"México",
@@ -168,7 +168,7 @@
       "link":"https://dreamsiteradiocp6.com/proxy/rmmessico?mp=/stream",
       "web":"https://www.radiomaria.mx/",
 	  "categoria":"Mixta",
-      "logo":"radiomaria"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radiomaria.jpg"
    },
    {
       "pais":"Costa Rica",
@@ -177,7 +177,7 @@
       "link":"https://dreamsiteradiocp2.com/proxy/rmcostarica?mp=/stream",
       "web":"https://www.radiomaria.cr/",
 	  "categoria":"Mixta",
-      "logo":"radiomaria"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radiomaria.jpg"
    },
    {
       "pais":"El Salvador",
@@ -186,7 +186,7 @@
       "link":"https://dreamsiteradiocp2.com/proxy/rmelsalvador2?mp=/stream",
       "web":"https://www.radiomaria.org.sv/",
 	  "categoria":"Mixta",
-      "logo":"radiomaria"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radiomaria.jpg"
    },
    {
       "pais":"Guatemala",
@@ -195,7 +195,7 @@
       "link":"https://dreamsiteradiocp2.com/proxy/rmguatemala2?mp=/stream",
       "web":"https://www.radiomaria.org.gt/",
 	  "categoria":"Mixta",
-      "logo":"radiomaria"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radiomaria.jpg"
    },
    {
       "pais":"Guatemala",
@@ -204,7 +204,7 @@
       "link":"https://stream.zenolive.com/ny8s998m9k0uv",
       "web":"https://radiocatolicadiosesamor.blogspot.com/",
 	  "categoria":"Mixta",
-      "logo":"radio_catolica_dios_es_amor"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radio_catolica_dios_es_amor.jpg"
    },
    {
       "pais":"Honduras",
@@ -213,7 +213,7 @@
       "link":"https://dreamsiteradiocp2.com/proxy/rmhonduras2?mp=/stream",
       "web":"https://www.radiomaria.hn/",
 	  "categoria":"Mixta",
-      "logo":"radiomaria"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radiomaria.jpg"
    },
    {
       "pais":"Nicaragua",
@@ -222,7 +222,7 @@
       "link":"https://dreamsiteradiocp4.com/proxy/rmnicaragua?mp=/stream",
       "web":"https://radiomarianicaragua.org/",
 	  "categoria":"Mixta",
-      "logo":"radiomaria"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radiomaria.jpg"
    },
    {
       "pais":"Panamá",
@@ -231,7 +231,7 @@
       "link":"https://dreamsiteradiocp2.com/proxy/rmpanama2?mp=/stream",
       "web":"https://radiomaria.pa/",
 	  "categoria":"Mixta",
-      "logo":"radiomaria"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radiomaria.jpg"
    },
    {
       "pais":"Cuba",
@@ -240,7 +240,7 @@
       "link":"https://usa6.fastcast4u.com/proxy/aserranog/stream",
       "web":"https://rcjcubana.com/",
 	  "categoria":"Mixta",
-      "logo":"red_catolica_juvenil_cubana"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/red_catolica_juvenil_cubana.jpg"
    },
    {
       "pais":"República Dominicana",
@@ -249,7 +249,7 @@
       "link":"https://dreamsiteradiocp4.com/proxy/rmrepdom?mp=/stream",
       "web":"https://www.radiomaria.org.do/",
 	  "categoria":"Mixta",
-      "logo":"radiomaria"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radiomaria.jpg"
    },
    {
       "pais":"República Dominicana",
@@ -267,7 +267,7 @@
       "link":"https://dreamsiteradiocp6.com/proxy/argentinarm?mp=/stream",
       "web":"https://radiomaria.org.ar/",
 	  "categoria":"Mixta",
-      "logo":"radiomaria"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radiomaria.jpg"
    },
    {
       "pais":"Bolivia",
@@ -276,7 +276,7 @@
       "link":"https://dreamsiteradiocp4.com/proxy/rmbolivia2?mp=/stream",
       "web":"https://www.radiomaria.org.bo/",
 	  "categoria":"Mixta",
-      "logo":"radiomaria"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radiomaria.jpg"
    },
    {
       "pais":"Brasil",
@@ -285,7 +285,7 @@
       "link":"https://dreamsiteradiocp6.com/proxy/rmbrasile?mp=/stream",
       "web":"https://www.radiomaria.org.br/",
 	  "categoria":"Mixta",
-      "logo":"radiomaria"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radiomaria.jpg"
    },
    {
       "pais":"Brasil",
@@ -294,7 +294,7 @@
       "link":"https://stm2.streaminghd.net.br:7418/stream",
       "web":"https://www.radiomaria.org.br/",
 	  "categoria":"Mixta",
-      "logo":"radiomaria"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radiomaria.jpg"
    },
    {
       "pais":"Chile",
@@ -303,7 +303,7 @@
       "link":"http://dreamsiteradiocp.com:8066/",
       "web":"https://www.radiomaria.cl/",
 	  "categoria":"Mixta",
-      "logo":"radiomaria"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radiomaria.jpg"
    },
    {
       "pais":"Colombia",
@@ -312,7 +312,7 @@
       "link":"https://dreamsiteradiocp2.com/proxy/rmcolombia2?mp=/stream",
       "web":"https://www.radiomariacol.org/",
 	  "categoria":"Mixta",
-      "logo":"radiomaria"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radiomaria.jpg"
    },
    {
       "pais":"Ecuador",
@@ -321,7 +321,7 @@
       "link":"https://dreamsiteradiocp4.com/proxy/rmequador2?mp=/stream",
       "web":"https://radiomariaecuador.org/",
 	  "categoria":"Mixta",
-      "logo":"radiomaria"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radiomaria.jpg"
    },
    {
       "pais":"Ecuador",
@@ -330,7 +330,7 @@
       "link":"https://streaming.brol.tech/rtfmlounge",
       "web":"https://radiotalisman.jimdofree.com/",
 	  "categoria":"Mixta",
-      "logo":"radio_talisman"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radio_talisman.jpg"
    },
    {
       "pais":"Paraguay",
@@ -339,7 +339,7 @@
       "link":"https://dreamsiteradiocp2.com/proxy/rmparaguay2?mp=/stream",
       "web":"https://www.radiomaria.org.py/",
 	  "categoria":"Mixta",
-      "logo":"radiomaria"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radiomaria.jpg"
    },
    {
       "pais":"Perú",
@@ -348,7 +348,7 @@
       "link":"https://dreamsiteradiocp6.com/proxy/rmperu?mp=/stream",
       "web":"https://www.radiomariaperu.org/",
 	  "categoria":"Mixta",
-      "logo":"radiomaria"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radiomaria.jpg"
    },
    {
       "pais":"Perú",
@@ -357,7 +357,7 @@
       "link":"https://sh1.radioonlinehd.com:8060/stream",
       "web":"https://www.facebook.com/jesusviveradio?locale=es_LA",
 	  "categoria":"Mixta",
-      "logo":"jesus_vive_radio_peru"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/jesus_vive_radio_peru.jpg"
    },
    {
       "pais":"Uruguay",
@@ -366,7 +366,7 @@
       "link":"https://dreamsiteradiocp2.com/proxy/rmuruguay2?mp=/stream",
       "web":"https://www.radiomaria.org.uy/",
 	  "categoria":"Mixta",
-      "logo":"radiomaria"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radiomaria.jpg"
    },
    {
       "pais":"Uruguay",
@@ -375,7 +375,7 @@
       "link":"https://radiolatina.live/7906/stream",
       "web":"https://www.medios.gt/oriental770uy",
 	  "categoria":"Mixta",
-      "logo":"oriental770"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/oriental770.jpg"
    },
    {
       "pais":"Venezuela",
@@ -384,7 +384,7 @@
       "link":"https://dreamsiteradiocp2.com/proxy/rmvenezuela?mp=/stream",
       "web":"https://radiomaria.com.ve/",
 	  "categoria":"Mixta",
-      "logo":"radiomaria"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radiomaria.jpg"
    },
 	{
     "pais": "Venezuela",
@@ -393,7 +393,7 @@
     "link": "https://stream.zeno.fm/7ikd65htmwptv",
 	"web": "https://pastorenafm.com.ve/?i=1",
 	"categoria":"Mixta",
-	"logo": "pastorena"
+	"logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radiomaria.jpg"
   },  
 	{
     "pais": "Venezuela",
@@ -402,7 +402,7 @@
     "link": "https://stream.zeno.fm/ompekcyad9suv",
 	"web": "https://pastorenafm.com.ve/?i=1",
 	"categoria":"Mixta",
-	"logo": "salvador"
+	"logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/salvador.jpg"
   },  
   {
     "pais": "Venezuela",
@@ -411,7 +411,7 @@
     "link": "https://server6.globalhostla.com:9222/stream",
 	"web": "https://www.radionatividadtv.com/",
 	"categoria":"Mixta",
-	"logo": "natividad"
+	"logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/natividad.jpg"
   },
   {
     "pais": "Venezuela",
@@ -420,6 +420,6 @@
     "link": "https://stream-288.surfernetwork.com/bw6eb0frwmzuv?",
 	"web": "https://comunionfm.web.ve/975fmelvigia/",
 	"categoria":"Mixta",
-	"logo": "comunion"
+	"logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/comunion.jpg"
   }
 ]
