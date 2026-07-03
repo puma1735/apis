@@ -25,16 +25,16 @@
       "web":"https://www.radiomariasp.org/station/miami/",
 	  "categoria":"Mixta",
       "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radiomaria.jpg"
-   },
+   }, 
    {
       "pais":"EEUU",
-      "nombre":"Radio Paz 830AM - En Vivo",
-      "descripcion":"Radio Paz 830AM - En Vivo - EEUU, Miami",
-      "link":"https://streaming6.locucionar.com:24004/stream",
-      "web":"https://paxcc.org/",
+      "nombre":"Radio ESNE - Los Ángeles",
+      "descripcion":"KTYM 1460AM Radio ESNE Los Angeles - EEUU, Los Angeles",
+      "link":"https://s1.voscast.com:10601/xstream",
+      "web":"https://esneradio.com/",
 	  "categoria":"Mixta",
-      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radio_paz_830_miami.jpg"
-   },
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/ESNE_Los_Angeles.jpg"
+   },  
    {
       "pais":"Alemania",
       "nombre":"Solo Piano - Instrumental",
@@ -421,5 +421,14 @@
 	"web": "https://comunionfm.web.ve/975fmelvigia/",
 	"categoria":"Mixta",
 	"logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/comunion.jpg"
-  }
+  },
+   {
+      "pais":"EEUU",
+      "nombre":"Radio Paz 830AM - En Vivo",
+      "descripcion":"Radio Paz 830AM - En Vivo - EEUU, Miami",
+      "link":"https://streaming6.locucionar.com:24004/stream",
+      "web":"https://paxcc.org/",
+	  "categoria":"Mixta",
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radio_paz_830_miami.jpg"
+   },
 ]
