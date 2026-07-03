@@ -391,36 +391,36 @@
     "nombre": "Radio Pastoreña 89.7 FM - San Carlos, Venezuela",
     "descripcion": "Perteneciente al Circuito Comunion Fm, del la Diócesis de El Vigía San Carlos del Zulia",
     "link": "https://stream.zeno.fm/7ikd65htmwptv",
-	"web": "https://pastorenafm.com.ve/?i=1",
-	"categoria":"Mixta",
-	"logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/pastorena.jpg"
+    "web": "https://pastorenafm.com.ve/?i=1",
+    "categoria":"Mixta",
+    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/pastorena.jpg"
   },  
 	{
     "pais": "Venezuela",
     "nombre": "Radio El Salvador- Barquisimeto, Venezuela",
     "descripcion": "La Radio Católica Oficial de la Arquidiócesis de Barquisimeto",
     "link": "https://stream.zeno.fm/ompekcyad9suv",
-	"web": "https://pastorenafm.com.ve/?i=1",
-	"categoria":"Mixta",
-	"logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/salvador.jpg"
+    "web": "https://pastorenafm.com.ve/?i=1",
+    "categoria":"Mixta",
+    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/salvador.jpg"
   },  
   {
     "pais": "Venezuela",
     "nombre": "Radio Natividad - San Cristobal, Venezuela",
     "descripcion": "Ofrece catequesis a través de la cultura, noticias y espacios para laicos junto a música de adoración",
     "link": "https://server6.globalhostla.com:9222/stream",
-	"web": "https://www.radionatividadtv.com/",
-	"categoria":"Mixta",
-	"logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/natividad.jpg"
+    "web": "https://www.radionatividadtv.com/",
+    "categoria":"Mixta",
+    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/natividad.jpg"
   },
   {
     "pais": "Venezuela",
     "nombre": "Radio Comunion 97. 5 Fm - El Vigia, Venezuela",
     "descripcion": "Perteneciente al Circuito Comunion Fm, del la Diócesis de El Vigía San Carlos del Zulia",
     "link": "https://stream-288.surfernetwork.com/bw6eb0frwmzuv?",
-	"web": "https://comunionfm.web.ve/975fmelvigia/",
-	"categoria":"Mixta",
-	"logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/comunion.jpg"
+    "web": "https://comunionfm.web.ve/975fmelvigia/",
+    "categoria":"Mixta",
+    "logo": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/comunion.jpg"
   },
    {
       "pais":"EEUU",
@@ -430,5 +430,5 @@
       "web":"https://paxcc.org/",
 	  "categoria":"Mixta",
       "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radio_paz_830_miami.jpg"
-   },
+   }
 ]
