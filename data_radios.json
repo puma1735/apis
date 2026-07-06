@@ -1,5 +1,14 @@
 [
    {
+      "pais":"Venezuela",
+      "nombre":"Radio - Adorar a Dios",
+      "descripcion":"Alabanza y Adoración Contemporánea 24/7 - Mérida, Venezuela",
+      "link":"https://puma1735-radio-adorar-a-dios.hf.space/proxy/radio.mp38",
+      "web":"https://huggingface.co/spaces/puma1735/Adorar-a-Dios",
+	  "categoria":"Musica",
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/adorar_a_dios.jpg"
+   },
+   {
       "pais":"EEUU",
       "nombre":"EWTN Radio Católica Mundial",
       "descripcion":"EWTN Radio Católica Mundial - EEUU, Alabama",
