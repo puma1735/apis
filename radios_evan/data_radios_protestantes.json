@@ -135,13 +135,13 @@
       "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/catolica_radio.jpg"
    },
    {
-      "pais":"México",
-      "nombre":"Radio Maria- México",
-      "descripcion":"Radio Maria - México",
-      "link":"https://dreamsiteradiocp6.com/proxy/rmmessico?mp=/stream",
-      "web":"https://www.radiomaria.mx/",
-	  "categoria":"Mixta",
-      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radiomaria.jpg"
+      "pais": "México",
+      "nombre": "Radio Ondas de Vida",
+      "descripcion": "Radio Ondas de Vida - México, CDMX (1440 AM)",
+      "link": "https://14223.live.streamtheworld.com/XEESTAMAAC_SC",
+      "web": "https://ondasdevida1440.com",
+      "categoria": "Mixta",
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/ondas_de_vida.jpg"
    },
    {
       "pais":"Costa Rica",
@@ -172,12 +172,12 @@
    },
    {
       "pais":"Honduras",
-      "nombre":"Radio Maria - Honduras",
-      "descripcion":"Radio Maria - Honduras",
-      "link":"https://dreamsiteradiocp2.com/proxy/rmhonduras2?mp=/stream",
-      "web":"https://www.radiomaria.hn/",
+      "nombre":"HRVC Radio - Honduras",
+      "descripcion":"HRVC Radio  - Honduras",
+      "link":"https://stream.playerlive.info:10978/HRVC.aac",
+      "web":"https://hrvc.org/",
 	  "categoria":"Mixta",
-      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radiomaria.jpg"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/hrvc.jpg"
    },
    {
       "pais":"Nicaragua",
