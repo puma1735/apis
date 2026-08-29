@@ -1,5 +1,14 @@
 [
    {
+      "pais":"Mundial",
+      "nombre":"Radio - Red de Difusión Biblica",
+      "descripcion":"Cadena global. Transmite estudios bíblicos profundos, doctrina sana y música sacra tradicional",
+      "link":"https://audio-edge-es6pf.mia.g.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f",
+      "web":"https://bbn1.bbnradio.org/spanish/",
+	  "categoria": "Mixta",
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/bbn.jpg"
+   },
+   {
       "pais":"Venezuela",
       "nombre":"Radio - Adorar a Dios",
       "descripcion":"Alabanza y Adoración Contemporánea 24/7 - Mérida, Venezuela",
@@ -7,6 +16,24 @@
       "web":"https://huggingface.co/spaces/puma1735/Adorar-a-Dios",
 	  "categoria":"Musica",
       "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/adorar_a_dios.jpg"
+   },
+    {
+      "pais":"Bonaire",
+      "nombre":"Radio - TWR Bonaire 800 AM",
+      "descripcion":"Reflexiones bíblicas diarias, música y consejos prácticos para la vida cristiana",
+      "link":"https://cdn.instream.audio:9050/stream",
+      "web":"https://transmundial.org/que-brille",
+	  "categoria": "Mixta",
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/twr_bonaire.jpg"
+   },
+    {
+      "pais":"EEUU",
+      "nombre":"Radio - Moody",
+      "descripcion":"Escucha enseñanza bíblica sólida y música cristiana en español, inglés y portugués",
+      "link":"https://18493.live.streamtheworld.com/WMBIAM.mp3",
+      "web":"https://radiomoody.org/",
+	  "categoria": "Mixta",
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/moody.jpg"
    },
    {
       "pais":"Alemania",
@@ -127,16 +154,25 @@
    },
    {
       "pais":"Puerto Rico",
-      "nombre":"WPUC-FM - Catolica Radio 88.9 FM - Puerto Rico",
-      "descripcion":"WPUC-FM - Catolica Radio 88.9 FM - Puerto Rico",
-      "link":"https://live.turadio.stream:7017/catolicaradiopr",
-      "web":"https://catolicaradiopr.com/",
+      "nombre":"Redentor 104.3 FM - Puerto Rico",
+      "descripcion":"Redentor 104.3 FM  - Puerto Rico",
+      "link":"https://sp.unoredcdn.net/8048/stream",
+      "web":"https://www.redentor104fm.com/",
 	  "categoria":"Mixta",
-      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/catolica_radio.jpg"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/redentor.jpg"
+   },
+   {
+      "pais":"Puerto Rico",
+      "nombre":"Radio Nueva Vida - Puerto Rico",
+      "descripcion":"Radio Nueva Vida - Puerto Rico",
+      "link":"https://panel.streamenviron.com:8154/stream.mp3",
+      "web":"https://nuevavida.fm/",
+	  "categoria":"Mixta",
+      "logo":"https://github.com/puma1735/apis/blob/main/radios_evan/img/nueva_vida.jpg?raw=true"
    },
    {
       "pais": "México",
-      "nombre": "Radio Ondas de Vida",
+      "nombre": "Radio Ondas de Vida - México",
       "descripcion": "Radio Ondas de Vida - México, CDMX (1440 AM)",
       "link": "https://14223.live.streamtheworld.com/XEESTAMAAC_SC",
       "web": "https://ondasdevida1440.com",
@@ -144,31 +180,76 @@
       "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/ondas_de_vida.jpg"
    },
    {
+      "pais": "México",
+      "nombre": "Nuestra Radio - México",
+      "descripcion": "Nuestra Radio - México",
+      "link": "https://sonic01.zglobalhost.com/6024/stream",
+      "web": "https://nuestraradio.mx/",
+      "categoria": "Mixta",
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/nuestra.jpg"
+   },
+   {
       "pais":"Costa Rica",
-      "nombre":"Radio Maria - Costa Rica",
-      "descripcion":"Radio Maria - Costa Rica",
-      "link":"https://dreamsiteradiocp2.com/proxy/rmcostarica?mp=/stream",
-      "web":"https://www.radiomaria.cr/",
+      "nombre":"Radio Faro del Caribe - Costa Rica",
+      "descripcion":"Radio Faro del Caribe - Costa Rica",
+      "link":"https://sp.unoredcdn.net:8032/stream",
+      "web":"https://www.farodelcaribe.org/",
 	  "categoria":"Mixta",
-      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radiomaria.jpg"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/faro.jpg"
+   },
+   {
+      "pais":"Costa Rica",
+      "nombre":"Radio Estreo Visión - Costa Rica",
+      "descripcion":"Radio Estreo Visión  - Costa Rica",
+      "link":"https://live.turadio.stream:7009/stream?type=http&nocache=596",
+      "web":"https://www.estereovision.com/",
+	  "categoria":"Mixta",
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/estereo_vision.jpg"
+   },
+   {
+      "pais":"Costa Rica",
+      "nombre":"Radio Unción - Costa Rica",
+      "descripcion":"Radio Unción - Costa Rica",
+      "link":"https://centova.hostingtico.com:7016/;stream.mp3",
+      "web":"https://www.radios.hostingtico.com/radiouncion/",
+	  "categoria":"Mixta",
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/uncion.jpg"
    },
    {
       "pais":"El Salvador",
-      "nombre":"Radio Maria - El Salvador",
-      "descripcion":"Radio Maria - El Salvador",
-      "link":"https://dreamsiteradiocp2.com/proxy/rmelsalvador2?mp=/stream",
-      "web":"https://www.radiomaria.org.sv/",
+      "nombre":"Radio Bautista - El Salvador",
+      "descripcion":"Radio Bautista - El Salvador",
+      "link":"https://s2.radio.co/s3a7dc3d82/low",
+      "web":"https://tabernaculo.net/Radio/",
 	  "categoria":"Mixta",
-      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radiomaria.jpg"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/bautista.jpg"
+   },
+   {
+      "pais":"El Salvador",
+      "nombre":"Radio Ilumina 106.9 - El Salvador",
+      "descripcion":"Radio Ilumina 106.9 - El Salvador",
+      "link":"https://s5.radio.co/sa69499a1b/listen",
+      "web":"https://tabernaculo.net/radio-ilumina/",
+	  "categoria":"Mixta",
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/ilumina.jpg"
+   },
+   {
+      "pais":"El Salvador",
+      "nombre":"Radio Restauración 100.5 - El Salvador",
+      "descripcion":"Radio Restauración 100.5 - El Salvador",
+      "link":"https://ssl.rockhost.com/proxy/restauracion?mp=/mp3_64",
+      "web":"https://www.elim.org.sv/restauracion/",
+	  "categoria":"Mixta",
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/restauracion.jpg"
    },
    {
       "pais":"Guatemala",
-      "nombre":"Radio Catolica - Dios es Amor",
-      "descripcion":"Radio Catolica - Dios es Amor - Guatemala",
-      "link":"https://stream.zenolive.com/ny8s998m9k0uv",
-      "web":"https://radiocatolicadiosesamor.blogspot.com/",
+      "nombre":"Radio Cultural TGN - Guatemala",
+      "descripcion":"Radio Cultural TGN - Guatemala",
+      "link":"https://play14.tikast.com:20142/stream",
+      "web":"https://www.radioculturaltgn.tv/",
 	  "categoria":"Mixta",
-      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radio_catolica_dios_es_amor.jpg"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/cultura.jpg"
    },
    {
       "pais":"Honduras",
@@ -180,129 +261,264 @@
       "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/hrvc.jpg"
    },
    {
+      "pais":"Honduras",
+      "nombre":"Radio Estereo Luz - Honduras",
+      "descripcion":"Radio Estereo Luz - Honduras",
+      "link":"https://stream.playerlive.info:10952/envivo.aac",
+      "web":"https://stereoluz.com/",
+	  "categoria":"Mixta",
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/stereoluz.jpg"
+   },
+   {
+      "pais":"Honduras",
+      "nombre":"Radio Estereo Fe - Honduras",
+      "descripcion":"Radio Estereo Fe - Honduras",
+      "link":"https://cdn2.castx.live:2020/stream/stereofe",
+      "web":"https://www.stereofe.hn/",
+	  "categoria":"Mixta",
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/stereofe.jpg"
+   },
+   {
       "pais":"Nicaragua",
-      "nombre":"Radio Maria - Nicaragua",
-      "descripcion":"Radio Maria - Nicaragua",
-      "link":"https://dreamsiteradiocp4.com/proxy/rmnicaragua?mp=/stream",
-      "web":"https://radiomarianicaragua.org/",
+      "nombre":"Estereo Luz 94.9 FM - Nicaragua",
+      "descripcion":"Estereo Luz 94.9 FM - Desde Quilali, Nueva Segovia, Nicaragua",
+      "link":"https://aguila1.netkairos.com:8070/stream",
+      "web":"https://estereoluz.com/",
 	  "categoria":"Mixta",
       "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radiomaria.jpg"
+   },
+   {
+      "pais":"Nicaragua",
+      "nombre":"Radio Maranatha - Nicaragua",
+      "descripcion":"Radio Maranatha / Ríos de Agua Viva - Nicaragua",
+      "link":"https://stream5.305stream.com/6062/stream",
+      "web":"https://www.riosdeaguaviva.com.ni/",
+	  "categoria":"Mixta",
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/maranatha.jpg"
    },
    {
       "pais":"Panamá",
-      "nombre":"Radio Maria - Panamá",
-      "descripcion":"Radio Maria - Panamá",
-      "link":"https://dreamsiteradiocp2.com/proxy/rmpanama2?mp=/stream",
-      "web":"https://radiomaria.pa/",
+      "nombre":"Radio Hosanna Carismatica 94.9 - Panamá",
+      "descripcion":"Radio Hosanna Carismatica 94.9  - Panamá",
+      "link":"https://radios.host-pa.com:8002/;stream.mp3",
+      "web":"https://hosannavision.com/en-vivo/",
 	  "categoria":"Mixta",
-      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radiomaria.jpg"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/hosanna.jpg"
    },
    {
-      "pais":"Cuba",
-      "nombre":"Red Católica Juvenil Cubana",
-      "descripcion":"Red Católica Juvenil Cubana - Cuba",
-      "link":"https://usa6.fastcast4u.com/proxy/aserranog/stream",
-      "web":"https://rcjcubana.com/",
+      "pais":"Panamá",
+      "nombre":"Radio Hosanna Stereo 100.7 - Panamá",
+      "descripcion":"Radio Hosanna Stereo 100.7  - Panamá",
+      "link":"https://radios.host-pa.com:8050/stream?type=http&nocache=5",
+      "web":"https://hosannavision.com/en-vivo/",
 	  "categoria":"Mixta",
-      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/red_catolica_juvenil_cubana.jpg"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/hosanna.jpg"
+   },
+   {
+      "pais":"Panamá",
+      "nombre":"Radio Hosanna Capital 94.9 - Panamá",
+      "descripcion":"Radio Hosanna Capital 94.9  - Panamá",
+      "link":"https://radios.host-pa.com:8044/stream?type=http&nocache=90",
+      "web":"https://hosannavision.com/en-vivo/",
+	  "categoria":"Mixta",
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/hosanna.jpg"
    },
    {
       "pais":"República Dominicana",
-      "nombre":"Radio Católica Internacional",
-      "descripcion":"Radio Católica Internacional - República Dominicana",
-      "link":"https://radiocatolicaint.radioca.st/",
-      "web":"radio_internacional_dominicana",
+      "nombre":"Radio Eternidad - República Dominicana",
+      "descripcion":"Radio Eternidad - República Dominicana",
+      "link":"https://cast5.asurahosting.com/proxy/radioete/stream",
+      "web":"https://eternidadplus.com/radio-eternidad-streaming/",
 	  "categoria":"Mixta",
-      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radio_internacional_dominicana.jpg"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/eternidad.jpg"
+   },
+   {
+      "pais":"República Dominicana",
+      "nombre":"Radio Pura Vida - República Dominicana",
+      "descripcion":"Radio Pura Vida - República Dominicana",
+      "link":"https://cast10.plugstreaming.com/stream/pvsdq?type=http&nocache=35",
+      "web":"https://puravidafm.net/",
+	  "categoria":"Mixta",
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/puravida.jpg"
    },
    {
       "pais":"Argentina",
-      "nombre":"Radio Maria - Argentina",
-      "descripcion":"Radio Maria - Argentina",
-      "link":"https://dreamsiteradiocp6.com/proxy/argentinarm?mp=/stream",
-      "web":"https://radiomaria.org.ar/",
+      "nombre":"Radio Aviva Mardel FM 99.1 - Argentina",
+      "descripcion":"Radio Aviva Mardel FM 99.1 - Argentina",
+      "link":"http://173.255.205.241:7662/;?type=http&nocache=1",
+      "web":"https://www.visiondefemdp.org/radio-fm-99-1",
 	  "categoria":"Mixta",
-      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radiomaria.jpg"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/Aviva.jpg"
    },
    {
       "pais":"Bolivia",
-      "nombre":"Radio Maria - Bolivia",
-      "descripcion":"Radio Maria - Bolivia",
-      "link":"https://dreamsiteradiocp4.com/proxy/rmbolivia2?mp=/stream",
-      "web":"https://www.radiomaria.org.bo/",
+      "nombre":"Radio Bethel - Bolivia",
+      "descripcion":"Radio Bethel - Bolivia",
+      "link":"https://live.turadiotv.com/8120/stream",
+      "web":"https://radio-bethel.net/",
 	  "categoria":"Mixta",
-      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radiomaria.jpg"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/bethel.jpg"
+   },
+   {
+      "pais":"Bolivia",
+      "nombre":"Radio Bethel Oruro - Bolivia",
+      "descripcion":"Radio Bethel - Bolivia",
+      "link":"https://streamtotal.net:4079/stream",
+      "web":"https://www.bolivia.com/radio/bethel-radio-oruro-4186",
+	  "categoria":"Mixta",
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/bethel_oruro.jpg"
    },
    {
       "pais":"Brasil",
-      "nombre":"Rede Católica de Web rádio",
-      "descripcion":"Rede Católica de Web rádio - Brasil",
-      "link":"https://stm2.streaminghd.net.br:7418/stream",
-      "web":"https://www.radiomaria.org.br/",
+      "nombre":"Radio Novo Tempo - Brasil",
+      "descripcion":"Radio Novo Tempo - Brasil",
+      "link":"https://streamradio.novotempo.com/CDN-RADIO-PT/smil:radionovotempo.smil/playlist.m3u8",
+      "web":"https://www.novotempo.com/ao-vivo-radio-brasilia/",
 	  "categoria":"Mixta",
-      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radiomaria.jpg"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/nuevo_tiempo.jpg"
    },
    {
       "pais":"Chile",
-      "nombre":"Radio Maria - Chile",
-      "descripcion":"Radio Maria - Chile",
-      "link":"http://dreamsiteradiocp.com:8066/",
-      "web":"https://www.radiomaria.cl/",
+      "nombre":"Radio Armonia - Chile",
+      "descripcion":"Radio Armonia - Chile",
+      "link":"http://audio.armonia.cl:3032/1.mp3",
+      "web":"http://www.radioarmonia.cl/inicio/",
 	  "categoria":"Mixta",
-      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radiomaria.jpg"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/armonia.jpg"
+   },
+   {
+      "pais":"Chile",
+      "nombre":"Radio Nuevo Tiempo - Chile",
+      "descripcion":"Radio Nuevo Tiempo - Chile",
+      "link":"https://streamradio.novotempo.com/CDN-RADIO-ES/smil:radionuevotiempo.smil/playlist.m3u8",
+      "web":"https://www.nuevotiempo.org/envivo/radio/",
+	  "categoria":"Mixta",
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/nuevo_tiempo.jpg"
+   },
+   {
+      "pais":"Chile",
+      "nombre":"Radio MDV - Chile",
+      "descripcion":"Radio MDV - Chile",
+      "link":"https://audio3.tustreaming.cl/7080/stream",
+      "web":"https://radiomdv.cl/",
+	  "categoria":"Mixta",
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/MDV.jpg"
    },
    {
       "pais":"Colombia",
-      "nombre":"Radio Maria - Colombia",
-      "descripcion":"Radio Maria - Colombia",
-      "link":"https://dreamsiteradiocp2.com/proxy/rmcolombia2?mp=/stream",
-      "web":"https://www.radiomariacol.org/",
+      "nombre":"Radio Su Presencia - Colombia",
+      "descripcion":"Radio Su Presencia - Colombia",
+      "link":"https://supresenciaradio.out.airtime.pro/supresenciaradio_a",
+      "web":"https://supresenciaradio.com/",
 	  "categoria":"Mixta",
-      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radiomaria.jpg"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/su_presencia.jpg"
+   },
+   {
+      "pais":"Colombia",
+      "nombre":"Radio Cielos Abiertos - Colombia",
+      "descripcion":"Radio Cielos Abiertos - Colombia",
+      "link":"https://streaming.asilivehd.com/8218/stream",
+      "web":"https://cielosabiertosturadio.com/",
+	  "categoria":"Mixta",
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/cielos_abiertos.jpg"
+   },
+   {
+      "pais":"Colombia",
+      "nombre":"Radio Fuente de Vida - Colombia",
+      "descripcion":"Radio Fuente de Vida - Colombia",
+      "link":"https://radio30.virtualtronics.com/proxy/radiofuentedevida?mp=/stream",
+      "web":"https://www.icpfuentedevida.com/emisora",
+	  "categoria":"Mixta",
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/fuente_vida.jpg"
+   },
+   {
+      "pais":"Colombia",
+      "nombre":"Radio Auténtica  - Colombia",
+      "descripcion":"Cadena Radial Auténtica - Bogotá, Colombia",
+      "link":"https://radiolatina.info:10835/stream",
+      "web":"https://www.crabogota.com/",
+	  "categoria":"Mixta",
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/autentica.jpg"
    },
    {
       "pais":"Ecuador",
-      "nombre":"Radio Talisman",
-      "descripcion":"Radio Talisman - Ecuador",
-      "link":"https://streaming.brol.tech/rtfmlounge",
-      "web":"https://radiotalisman.jimdofree.com/",
+      "nombre":"HCJB (La Voz de los Andes) - Ecuador",
+      "descripcion":"HCJB (La Voz de los Andes) - Ecuador",
+      "link":"https://streamingecuador.net:8287/hcjb",
+      "web":"https://hcjb.org/hcjb-fm-en-vivo/",
 	  "categoria":"Mixta",
-      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radio_talisman.jpg"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/hcjb.jpg"
+   },
+   {
+      "pais":"Ecuador",
+      "nombre":"Radio VEA 1570 AM - Ecuador",
+      "descripcion":"Radio VEA 1570 AM - Ecuador",
+      "link":"https://ss.redradios.net:8052/stream?type=.mp3",
+      "web":"https://www.radiovea.org/",
+	  "categoria":"Mixta",
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/vea.jpg"
+   },
+   {
+      "pais":"Ecuador",
+      "nombre":"Radio Majestad - Ecuador",
+      "descripcion":"Radio Majestad - Ecuador",
+      "link":"https://sonicpanel.tmcreativos.com/8084/stream",
+      "web":"https://radiomajestad.com/",
+	  "categoria":"Mixta",
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/majestad.jpg"
    },
    {
       "pais":"Paraguay",
-      "nombre":"Radio Maria - Paraguay",
-      "descripcion":"Radio Maria - Paraguay",
-      "link":"https://dreamsiteradiocp2.com/proxy/rmparaguay2?mp=/stream",
-      "web":"https://www.radiomaria.org.py/",
+      "nombre":"Radio Obedira - Paraguay",
+      "descripcion":"Radio Obedira - Paraguay",
+      "link":"https://radio.wilohosting.com/8032/obedira",
+      "web":"https://www.obedira.com.py/",
 	  "categoria":"Mixta",
-      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/radiomaria.jpg"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/obedira.jpg"
    },
    {
       "pais":"Perú",
-      "nombre":"Jesus Radio Vive",
-      "descripcion":"Jesús Vive radio, es una iniciativa de la Fraternidad Sacerdotal Jesús Vive deperú",
-      "link":"https://sh1.radioonlinehd.com:8060/stream",
-      "web":"https://www.facebook.com/jesusviveradio?locale=es_LA",
+      "nombre":"Radio Nuevo Tiempo - Perú",
+      "descripcion":"Radio Nuevo Tiempo - Perú",
+      "link":"https://streamradio.novotempo.com/CDN-RADIO-ES/smil:rntLimaPE.smil/playlist.m3u8",
+      "web":"https://www.nuevotiempo.pe/radio-nuevo-tiempo-en-vivo",
 	  "categoria":"Mixta",
-      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/jesus_vive_radio_peru.jpg"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/nueevo_tiempo_peru.jpg"
+   },
+   {
+      "pais":"Perú",
+      "nombre":"Radio La Voz Cristiana - Perú",
+      "descripcion":"Radio La Voz Cristiana- Perú",
+      "link":"https://dattavolt.com:7042/stream",
+      "web":"https://www.vozcristianaperu.com/",
+	  "categoria":"Mixta",
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/voz_cirstiana.jpg"
    },
    {
       "pais":"Uruguay",
-      "nombre":"Radio Católica Oriental 770 AM - Uruguay",
-      "descripcion":"Es un instrumento de la arquidiócesis de Montevideo para llevar y transmitir a la sociedad los valores cristianos",
-      "link":"https://radiolatina.live/7906/stream",
-      "web":"https://www.medios.gt/oriental770uy",
+      "nombre":"Radio Zoe 91.5 - Uruguay",
+      "descripcion":"Radio Zoe 91.5 - Uruguay",
+      "link":"https://panel.lifestreammedia.net:8010/stream",
+      "web":"https://zoe.com.uy/",
 	  "categoria":"Mixta",
-      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/oriental770.jpg"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/zoe.jpg"
+   },
+   {
+      "pais":"Uruguay",
+      "nombre":"Radio Nuevo Tiempo - Uruguay",
+      "descripcion":"Radio Nuevo Tiempo - Uruguay",
+      "link":"https://streamradio.novotempo.com/CDN-RADIO-ES/smil:rntMontevideoUY.smil/playlist.m3u8",
+      "web":"https://www.nuevotiempo.org/en-vivo-radio-uruguay/",
+	  "categoria":"Mixta",
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/nuevo_tiempo.jpg"
    },
    {
       "pais":"EEUU",
-      "nombre":"Radio Católica Oriental 770 AM - EEUU",
-      "descripcion":"Es un instrumento de la arquidiócesis de Montevideo para llevar y transmitir a la sociedad los valores cristianos",
-      "link":"https://radiolatina.live/7906/stream",
-      "web":"https://www.medios.gt/oriental770uy",
+      "nombre":"Christian Power Praise - EEUU",
+      "descripcion":"Christian Power Praise - Springfield, Missouri, EEUU",
+      "link":"https://listen.christianrock.net/stream/13/",
+      "web":"https://www.christianpowerpraise.net/",
 	  "categoria":"Mixta",
-      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/oriental770.jpg"
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/power.jpg"
    }
 ]
