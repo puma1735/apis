@@ -53,15 +53,6 @@
 	  "categoria":"Musica",
       "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/clasicos_suaves.jpg"
    },
-   {
-      "pais":"Alemania",
-      "nombre":"Navidad Clasica - Instrumental",
-      "descripcion":"Klassik Radio Plus - Alemania",
-      "link":"https://stream.klassikradio.de/christmas/aac-128/",
-      "web":"https://klassikradioplus.de/en",
-	  "categoria":"Musica",
-      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/navidad_clasica.jpg"
-   },
 	{
       "pais":"Alemania",
       "nombre":"Meditación - Instrumental",
