@@ -36,114 +36,6 @@
       "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/moody.jpg"
    },
    {
-      "pais":"Alemania",
-      "nombre":"Solo Piano - Instrumental",
-      "descripcion":"Klassik Radio Plus - Alemania",
-      "link":"https://stream.klassikradio.de/piano/aac-128/",
-      "web":"https://klassikradioplus.de/en",
-	  "categoria":"Musica",
-      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/solo_piano.jpg"
-   },
-   {
-      "pais":"Alemania",
-      "nombre":"Clasicos suaves - Instrumental",
-      "descripcion":"Klassik Radio Plus - Alemania",
-      "link":"https://stream.klassikradio.de/dreams/aac-128/",
-      "web":"https://klassikradioplus.de/en",
-	  "categoria":"Musica",
-      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/clasicos_suaves.jpg"
-   },
-	{
-      "pais":"Alemania",
-      "nombre":"Meditación - Instrumental",
-      "descripcion":"Klassik Radio Plus - Alemania",
-      "link":"https://stream.klassikradio.de/meditation/aac-128/",
-      "web":"https://klassikradioplus.de/en",
-	  "categoria":"Musica",
-      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/meditacion.jpg"
-   },
-   {
-      "pais":"Alemania",
-      "nombre":"Meditación II - Musical, Instrumental",
-      "descripcion":"Klassik Radio Plus - Alemania",
-      "link":"https://stream.klassikradio.de/yoga/aac-128/",
-      "web":"https://klassikradioplus.de/en",
-	  "categoria":"Musica",
-      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/meditacion2.jpg"
-   },
-   {
-      "pais":"Alemania",
-      "nombre":"Nuevos Clasicos -  Instrumental",
-      "descripcion":"Klassik Radio Plus - Alemania",
-      "link":"https://stream.klassikradio.de/newclassics/aac-128/",
-      "web":"https://klassikradioplus.de/en",
-	  "categoria":"Musica",
-      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/nuevos_clasicos.jpg"
-   },
-   {
-      "pais":"Alemania",
-      "nombre":"Clasica de conscentración  -  Instrumental",
-      "descripcion":"Klassik Radio Plus - Alemania",
-      "link":"https://stream.klassikradio.de/freesender1/aac-128/",
-      "web":"https://klassikradioplus.de/en",
-	  "categoria":"Musica",
-      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/clasica_concentracion.jpg"
-   },
-   {
-      "pais":"Alemania",
-      "nombre":"Piano Atmosfera  -  Instrumental",
-      "descripcion":"Klassik Radio Plus - Alemania",
-      "link":"https://stream.klassikradio.de/pianonewclassics/aac-128/",
-      "web":"https://klassikradioplus.de/en",
-	  "categoria":"Musica",
-      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/piano_atmosfera.jpg"
-   },
-   {
-      "pais":"Alemania",
-      "nombre":"Clasicos de Pelicula - Instrumental",
-      "descripcion":"Klassik Radio Plus - Alemania",
-      "link":"https://stream.klassikradio.de/moviedreams/aac-128/",
-      "web":"https://klassikradioplus.de/en",
-	  "categoria":"Musica",
-      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/clasicos_pelicula.jpg"
-   },
-   {
-      "pais":"Alemania",
-      "nombre":"Ritmos Relajantes  -  Musical, Instrumental",
-      "descripcion":"Klassik Radio Plus - Alemania",
-      "link":"https://stream.klassikradio.de/Chilloutbeats/aac-128/",
-      "web":"https://klassikradioplus.de/en",
-	  "categoria":"Musica",
-      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/ritmos_relajantes.jpg"
-   },
-    {
-      "pais":"Alemania",
-      "nombre":"Mozart - Instrumental",
-      "descripcion":"Klassik Radio Plus - Alemania",
-      "link":"https://stream.klassikradio.de/mozart/aac-128/",
-      "web":"https://klassikradioplus.de/en",
-	  "categoria":"Musica",
-      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/mozart.jpg"
-   },
-   {
-      "pais":"Alemania",
-      "nombre":"Beethoven - Instrumental",
-      "descripcion":"Klassik Radio Plus - Alemania",
-      "link":"https://stream.klassikradio.de/beethoven/aac-128/",
-      "web":"https://klassikradioplus.de/en",
-	  "categoria":"Musica",
-      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/beethoven.jpg"
-   },
-   {
-      "pais":"Alemania",
-      "nombre":"Bach - Instrumental",
-      "descripcion":"Klassik Radio Plus - Alemania",
-      "link":"https://stream.klassikradio.de/purebach/aac-128/",
-      "web":"https://klassikradioplus.de/en",
-	  "categoria":"Musica",
-      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/bach.jpg"
-   },
-   {
       "pais":"Puerto Rico",
       "nombre":"Redentor 104.3 FM - Puerto Rico",
       "descripcion":"Redentor 104.3 FM  - Puerto Rico",
@@ -511,5 +403,113 @@
       "web":"https://www.christianpowerpraise.net/",
 	  "categoria":"Mixta",
       "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/radios_evan/img/power.jpg"
+   },
+   {
+      "pais":"Alemania",
+      "nombre":"Solo Piano - Instrumental",
+      "descripcion":"Klassik Radio Plus - Alemania",
+      "link":"https://stream.klassikradio.de/piano/aac-128/",
+      "web":"https://klassikradioplus.de/en",
+	  "categoria":"Musica",
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/solo_piano.jpg"
+   },
+   {
+      "pais":"Alemania",
+      "nombre":"Clasicos suaves - Instrumental",
+      "descripcion":"Klassik Radio Plus - Alemania",
+      "link":"https://stream.klassikradio.de/dreams/aac-128/",
+      "web":"https://klassikradioplus.de/en",
+	  "categoria":"Musica",
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/clasicos_suaves.jpg"
+   },
+	{
+      "pais":"Alemania",
+      "nombre":"Meditación - Instrumental",
+      "descripcion":"Klassik Radio Plus - Alemania",
+      "link":"https://stream.klassikradio.de/meditation/aac-128/",
+      "web":"https://klassikradioplus.de/en",
+	  "categoria":"Musica",
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/meditacion.jpg"
+   },
+   {
+      "pais":"Alemania",
+      "nombre":"Meditación II - Musical, Instrumental",
+      "descripcion":"Klassik Radio Plus - Alemania",
+      "link":"https://stream.klassikradio.de/yoga/aac-128/",
+      "web":"https://klassikradioplus.de/en",
+	  "categoria":"Musica",
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/meditacion2.jpg"
+   },
+   {
+      "pais":"Alemania",
+      "nombre":"Nuevos Clasicos -  Instrumental",
+      "descripcion":"Klassik Radio Plus - Alemania",
+      "link":"https://stream.klassikradio.de/newclassics/aac-128/",
+      "web":"https://klassikradioplus.de/en",
+	  "categoria":"Musica",
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/nuevos_clasicos.jpg"
+   },
+   {
+      "pais":"Alemania",
+      "nombre":"Clasica de conscentración  -  Instrumental",
+      "descripcion":"Klassik Radio Plus - Alemania",
+      "link":"https://stream.klassikradio.de/freesender1/aac-128/",
+      "web":"https://klassikradioplus.de/en",
+	  "categoria":"Musica",
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/clasica_concentracion.jpg"
+   },
+   {
+      "pais":"Alemania",
+      "nombre":"Piano Atmosfera  -  Instrumental",
+      "descripcion":"Klassik Radio Plus - Alemania",
+      "link":"https://stream.klassikradio.de/pianonewclassics/aac-128/",
+      "web":"https://klassikradioplus.de/en",
+	  "categoria":"Musica",
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/piano_atmosfera.jpg"
+   },
+   {
+      "pais":"Alemania",
+      "nombre":"Clasicos de Pelicula - Instrumental",
+      "descripcion":"Klassik Radio Plus - Alemania",
+      "link":"https://stream.klassikradio.de/moviedreams/aac-128/",
+      "web":"https://klassikradioplus.de/en",
+	  "categoria":"Musica",
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/clasicos_pelicula.jpg"
+   },
+   {
+      "pais":"Alemania",
+      "nombre":"Ritmos Relajantes  -  Musical, Instrumental",
+      "descripcion":"Klassik Radio Plus - Alemania",
+      "link":"https://stream.klassikradio.de/Chilloutbeats/aac-128/",
+      "web":"https://klassikradioplus.de/en",
+	  "categoria":"Musica",
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/ritmos_relajantes.jpg"
+   },
+    {
+      "pais":"Alemania",
+      "nombre":"Mozart - Instrumental",
+      "descripcion":"Klassik Radio Plus - Alemania",
+      "link":"https://stream.klassikradio.de/mozart/aac-128/",
+      "web":"https://klassikradioplus.de/en",
+	  "categoria":"Musica",
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/mozart.jpg"
+   },
+   {
+      "pais":"Alemania",
+      "nombre":"Beethoven - Instrumental",
+      "descripcion":"Klassik Radio Plus - Alemania",
+      "link":"https://stream.klassikradio.de/beethoven/aac-128/",
+      "web":"https://klassikradioplus.de/en",
+	  "categoria":"Musica",
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/beethoven.jpg"
+   },
+   {
+      "pais":"Alemania",
+      "nombre":"Bach - Instrumental",
+      "descripcion":"Klassik Radio Plus - Alemania",
+      "link":"https://stream.klassikradio.de/purebach/aac-128/",
+      "web":"https://klassikradioplus.de/en",
+	  "categoria":"Musica",
+      "logo":"https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/ya1/bach.jpg"
    }
 ]
