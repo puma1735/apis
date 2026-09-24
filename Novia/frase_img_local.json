@@ -1,0 +1,5666 @@
+[
+  {
+    "id": 1,
+    "texto": "Miro las estrellas y ahí estas tu, cierro los ojos y ahí estas tú, siento con el corazón y ahí estas tú.",
+    "etiquetas": [
+      "mirada",
+      "poética",
+      "amor",
+      "declaración",
+      "romántica"
+    ],
+    "imagen": "img1.jpg"
+  },
+  {
+    "id": 2,
+    "texto": "El amor se mide en la cantidad de veces que sonrío estúpidamente a solas.",
+    "etiquetas": [
+      "sonrisa",
+      "poética",
+      "amor",
+      "declaración",
+      "romántica"
+    ],
+    "imagen": "img2.jpg"
+  },
+  {
+    "id": 3,
+    "texto": "Si yo quiero contigo, no te preocupes de quien quiera conmigo.",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img3.jpg"
+  },
+  {
+    "id": 4,
+    "texto": "Que me perdone el tiempo... por querer detenerlo cuando te miro.",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img4.jpg"
+  },
+  {
+    "id": 5,
+    "texto": "Tú eres la historia más bella que el destino escribió en mi vida.",
+    "etiquetas": [
+      "destino",
+      "futuro",
+      "declaración",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img5.jpg"
+  },
+  {
+    "id": 6,
+    "texto": "Me tienes enamorado, de la cabeza a los pies.",
+    "etiquetas": [
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img6.jpg"
+  },
+  {
+    "id": 7,
+    "texto": "Eres el lugar al que siempre quiero volver.",
+    "etiquetas": [
+      "mirada",
+      "futuro",
+      "declaración",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img7.jpg"
+  },
+  {
+    "id": 8,
+    "texto": "Me enamoro mil veces al día, y todas son de ti.",
+    "etiquetas": [
+      "sueños",
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria"
+    ],
+    "imagen": "img8.jpg"
+  },
+  {
+    "id": 9,
+    "texto": "No sé hacia dónde vamos, solo sé que quiero ir contigo.",
+    "etiquetas": [
+      "poética",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img9.jpg"
+  },
+  {
+    "id": 10,
+    "texto": "Pensarte cada mañana, se ha convertido en mi momento favorito del día.",
+    "etiquetas": [
+      "mirada",
+      "sueños",
+      "declaración",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img10.jpg"
+  },
+  {
+    "id": 11,
+    "texto": "Mi mundo eres solamente tú.",
+    "etiquetas": [
+      "poética",
+      "futuro",
+      "declaración",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img11.jpg"
+  },
+  {
+    "id": 12,
+    "texto": "Tardé un minuto en conocerte, pero me tomará toda una vida poder llegar a olvidarte.",
+    "etiquetas": [
+      "futuro",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img12.jpg"
+  },
+  {
+    "id": 13,
+    "texto": "Tanto tiempo, tantas personas, tantas cosas y pensar que todo este tiempo yo solo te buscaba a ti.",
+    "etiquetas": [
+      "poética",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img13.jpg"
+  },
+  {
+    "id": 14,
+    "texto": "Y es que te amo tanto que no lo puedo ni explicar.",
+    "etiquetas": [
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img14.jpg"
+  },
+  {
+    "id": 15,
+    "texto": "Cada vez que me despido de ti, mi corazón pregunta cuándo te volveré a ver.",
+    "etiquetas": [
+      "mirada",
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria"
+    ],
+    "imagen": "img15.jpg"
+  },
+  {
+    "id": 16,
+    "texto": "Solo sé que haces de mi vida la más hermosa, te amo.",
+    "etiquetas": [
+      "poética",
+      "futuro",
+      "amor",
+      "romántica",
+      "dedicatoria"
+    ],
+    "imagen": "img16.jpg"
+  },
+  {
+    "id": 17,
+    "texto": "Eres ese fuego que calienta mi corazón.",
+    "etiquetas": [
+      "pasión",
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria"
+    ],
+    "imagen": "img17.jpg"
+  },
+  {
+    "id": 18,
+    "texto": "Tú eres tú y siempre me gustaras por como eres tú.",
+    "etiquetas": [
+      "futuro",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img18.jpg"
+  },
+  {
+    "id": 19,
+    "texto": "Creo que nací para encontrarme contigo.",
+    "etiquetas": [
+      "destino",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img19.jpg"
+  },
+  {
+    "id": 20,
+    "texto": "Ayer eras mi capricho. Hoy eres mi amor. Mañana serás mi vida.",
+    "etiquetas": [
+      "sueños",
+      "futuro",
+      "amor",
+      "declaración",
+      "romántica"
+    ],
+    "imagen": "img20.jpg"
+  },
+  {
+    "id": 21,
+    "texto": "Dime dónde y nos perdemos juntos.",
+    "etiquetas": [
+      "complicidad",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img21.jpg"
+  },
+  {
+    "id": 22,
+    "texto": "Toda mi realidad cambia cuando estoy contigo, lo que siento, lo que veo, todo es mejor.",
+    "etiquetas": [
+      "mirada",
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria"
+    ],
+    "imagen": "img22.jpg"
+  },
+  {
+    "id": 23,
+    "texto": "Fue fácil el que mis ojos te encontraran y difícil el que dejaran de mirarte.",
+    "etiquetas": [
+      "mirada",
+      "destino",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img23.jpg"
+  },
+  {
+    "id": 24,
+    "texto": "¿Cómo podré olvidarte algún día? Si eres mi sol y mi tierra.",
+    "etiquetas": [
+      "sueños",
+      "poética",
+      "futuro",
+      "declaración",
+      "romántica"
+    ],
+    "imagen": "img24.jpg"
+  },
+  {
+    "id": 25,
+    "texto": "Tu sonrisa es el paraíso.",
+    "etiquetas": [
+      "sonrisa",
+      "ternura",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img25.jpg"
+  },
+  {
+    "id": 26,
+    "texto": "Eres mi todo, mi más, mi siempre.",
+    "etiquetas": [
+      "futuro",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img26.jpg"
+  },
+  {
+    "id": 27,
+    "texto": "Yo no quiero ser tu otra mitad, quiere ser quien te recuerde que tú eres un todo.",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img27.jpg"
+  },
+  {
+    "id": 28,
+    "texto": "Eres un pedazo del cielo en esta tierra.",
+    "etiquetas": [
+      "poética",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img28.jpg"
+  },
+  {
+    "id": 29,
+    "texto": "Contigo no quiero intentarlo, contigo quiero lograrlo.",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img29.jpg"
+  },
+  {
+    "id": 30,
+    "texto": "Tengo mi sonrisa lista para cuando te vea.",
+    "etiquetas": [
+      "sonrisa",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img30.jpg"
+  },
+  {
+    "id": 31,
+    "texto": "Todavía me entran esos nervios antes de verte.",
+    "etiquetas": [
+      "mirada",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img31.jpg"
+  },
+  {
+    "id": 32,
+    "texto": "A la expresión «¿Y si me llamas?» le sobran dos eles.",
+    "etiquetas": [
+      "complicidad",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img32.jpg"
+  },
+  {
+    "id": 33,
+    "texto": "Se me hizo vicio ver tus ojos.",
+    "etiquetas": [
+      "mirada",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img33.jpg"
+  },
+  {
+    "id": 34,
+    "texto": "Quiero robarte todas tus sonrisas.",
+    "etiquetas": [
+      "sonrisa",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img34.jpg"
+  },
+  {
+    "id": 35,
+    "texto": "Díganle que me enamora cuando sonríe.",
+    "etiquetas": [
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img35.jpg"
+  },
+  {
+    "id": 36,
+    "texto": "Haces mi mundo más bonito aunque no lo sepas.",
+    "etiquetas": [
+      "futuro",
+      "ternura",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img36.jpg"
+  },
+  {
+    "id": 37,
+    "texto": "Quiero verte, no solo escribirte.",
+    "etiquetas": [
+      "mirada",
+      "poética",
+      "digital",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img37.jpg"
+  },
+  {
+    "id": 38,
+    "texto": "No eres google, pero tienes todo lo que busco.",
+    "etiquetas": [
+      "digital",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img38.jpg"
+  },
+  {
+    "id": 39,
+    "texto": "Yo sin ganas de enamorarme y vienes tú y me sonríes.",
+    "etiquetas": [
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img39.jpg"
+  },
+  {
+    "id": 40,
+    "texto": "A mí no me gustan como tú, a mí me gustas tú.",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img40.jpg"
+  },
+  {
+    "id": 41,
+    "texto": "Si lees esto; me debes un beso.",
+    "etiquetas": [
+      "besos",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img41.jpg"
+  },
+  {
+    "id": 42,
+    "texto": "En la vida hay mucho dolor, pero mis penas se alivian con tu amor.",
+    "etiquetas": [
+      "futuro",
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img42.jpg"
+  },
+  {
+    "id": 43,
+    "texto": "¿Tienes algún beso suelto por ahí para mi?.",
+    "etiquetas": [
+      "besos",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img43.jpg"
+  },
+  {
+    "id": 44,
+    "texto": "«Me gustas», ¿dónde te hablo click?.",
+    "etiquetas": [
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img44.jpg"
+  },
+  {
+    "id": 45,
+    "texto": "Yo siempre te abrazo a distancia, ¿no lo sientes?.",
+    "etiquetas": [
+      "abrazos",
+      "futuro",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img45.jpg"
+  },
+  {
+    "id": 46,
+    "texto": "Pasas muchas horas del día dentro de mi cabeza.",
+    "etiquetas": [
+      "sueños",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img46.jpg"
+  },
+  {
+    "id": 47,
+    "texto": "Si tuviera que elegir entre mi vida y tú, elegiría la vida, porque lo eres tú.",
+    "etiquetas": [
+      "futuro",
+      "complicidad",
+      "declaración",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img47.jpg"
+  },
+  {
+    "id": 48,
+    "texto": "Si los besos fuera gotas de lluvia, viviría dentro de una intensa tormenta constante.",
+    "etiquetas": [
+      "besos",
+      "refugio",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img48.jpg"
+  },
+  {
+    "id": 49,
+    "texto": "Mi motivo eres tú.",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img49.jpg"
+  },
+  {
+    "id": 50,
+    "texto": "Tiene café en la mirada, eso explica por qué me quita el sueño.",
+    "etiquetas": [
+      "mirada",
+      "sueños",
+      "declaración",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img50.jpg"
+  },
+  {
+    "id": 51,
+    "texto": "Eres eso que no es mío, pero que no quiero que sea de nadie más.",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img51.jpg"
+  },
+  {
+    "id": 52,
+    "texto": "Si supieras que cuando me escribes algo bonito, lo leo como veinte veces.",
+    "etiquetas": [
+      "ternura",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img52.jpg"
+  },
+  {
+    "id": 53,
+    "texto": "Me preguntaron sobre las drogas, y les hablé de tu sonrisa.",
+    "etiquetas": [
+      "sonrisa",
+      "piropo",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img53.jpg"
+  },
+  {
+    "id": 54,
+    "texto": "De las 24 horas del día, 16 pienso en ti, y las otras 8 sueño contigo.",
+    "etiquetas": [
+      "sueños",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img54.jpg"
+  },
+  {
+    "id": 55,
+    "texto": "Tu único defecto es no despertar a mi lado.",
+    "etiquetas": [
+      "sueños",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img55.jpg"
+  },
+  {
+    "id": 56,
+    "texto": "Esas ganas de besarte, que ni besándote se me quitan.",
+    "etiquetas": [
+      "besos",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img56.jpg"
+  },
+  {
+    "id": 57,
+    "texto": "Eres mis ganas de no estar con nadie más.",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img57.jpg"
+  },
+  {
+    "id": 58,
+    "texto": "Hay almas gemelas que quizás nunca dormirán juntas, sin embargo siempre se soñarán.",
+    "etiquetas": [
+      "sueños",
+      "futuro",
+      "amor",
+      "romántica",
+      "dedicatoria"
+    ],
+    "imagen": "img58.jpg"
+  },
+  {
+    "id": 59,
+    "texto": "Lo que yo vi en ti, no lo ves ni tú.",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img59.jpg"
+  },
+  {
+    "id": 60,
+    "texto": "Y si no soy el amor de tu vida, confúndeme con él",
+    "etiquetas": [
+      "futuro",
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img60.jpg"
+  },
+  {
+    "id": 61,
+    "texto": "Cada vez que te veo sonreír, no sé quien de los dos es más feliz.",
+    "etiquetas": [
+      "mirada",
+      "sonrisa",
+      "complicidad",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img61.jpg"
+  },
+  {
+    "id": 62,
+    "texto": "Si hablamos de paisajes hermosos, empecemos por tu sonrisa y tus ojos.",
+    "etiquetas": [
+      "mirada",
+      "sonrisa",
+      "ternura",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img62.jpg"
+  },
+  {
+    "id": 63,
+    "texto": "Que bonito detalle tuyo, ese de existir.",
+    "etiquetas": [
+      "ternura",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img63.jpg"
+  },
+  {
+    "id": 64,
+    "texto": "Siempre serás mi estrella favorita, aunque decidas iluminar otros cielos.",
+    "etiquetas": [
+      "poética",
+      "futuro",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img64.jpg"
+  },
+  {
+    "id": 65,
+    "texto": "El amor cuando es amor, fluye bonito.",
+    "etiquetas": [
+      "amor",
+      "ternura",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img65.jpg"
+  },
+  {
+    "id": 66,
+    "texto": "Hueles a felicidad, a risas, a hogar, a un «te quiero» al oído que causa un escalofrío en la espalda y mil terremotos en el corazón, a esos «5 minutos más» de todas las mañanas que aunque no lo parezca, ayudan.",
+    "etiquetas": [
+      "sonrisa",
+      "sueños",
+      "refugio",
+      "amor",
+      "romántica"
+    ],
+    "imagen": "img66.jpg"
+  },
+  {
+    "id": 67,
+    "texto": "Si me llegas a extrañar, vuelve, quizás todavía te espere, quizás todavía te quiera.",
+    "etiquetas": [
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img67.jpg"
+  },
+  {
+    "id": 68,
+    "texto": "Me encantaría que te volvieras rutina. Que tus labios me despertaran cada mañana. Y tus carcajadas acompañaran mis noches.",
+    "etiquetas": [
+      "sonrisa",
+      "besos",
+      "sueños",
+      "declaración",
+      "romántica"
+    ],
+    "imagen": "img68.jpg"
+  },
+  {
+    "id": 69,
+    "texto": "Qué bonito cuando alguien abraza tus tormentas y sujeta tu mano en plena tempestad.",
+    "etiquetas": [
+      "refugio",
+      "ternura",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img69.jpg"
+  },
+  {
+    "id": 70,
+    "texto": "Tengo antojo de que estés a mi lado.",
+    "etiquetas": [
+      "mirada",
+      "pasión",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img70.jpg"
+  },
+  {
+    "id": 71,
+    "texto": "No se trata de tener algo serio, sino de tener algo sano.",
+    "etiquetas": [
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img71.jpg"
+  },
+  {
+    "id": 72,
+    "texto": "Bésame, ya después nos preocupamos del resto.",
+    "etiquetas": [
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img72.jpg"
+  },
+  {
+    "id": 73,
+    "texto": "Cuando sonríes haces arte.",
+    "etiquetas": [
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img73.jpg"
+  },
+  {
+    "id": 74,
+    "texto": "Tú nunca fuiste una opción para mí, fuiste una elección.",
+    "etiquetas": [
+      "complicidad",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img74.jpg"
+  },
+  {
+    "id": 75,
+    "texto": "Reír con los ojos conectados es más bonito que hacer el amor.",
+    "etiquetas": [
+      "mirada",
+      "sonrisa",
+      "amor",
+      "ternura",
+      "complicidad"
+    ],
+    "imagen": "img75.jpg"
+  },
+  {
+    "id": 76,
+    "texto": "Que sexualmente te enloquezca y sentimentalmente te enamore. De eso se trata.",
+    "etiquetas": [
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img76.jpg"
+  },
+  {
+    "id": 77,
+    "texto": "No es cuando tu quieras, ni tampoco cuando yo quiera; es cuando ambos queramos.",
+    "etiquetas": [
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img77.jpg"
+  },
+  {
+    "id": 78,
+    "texto": "Y no dudes, si me dices abrázame, te abrazaré hasta la parte más pequeña de tu alma.",
+    "etiquetas": [
+      "abrazos",
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img78.jpg"
+  },
+  {
+    "id": 79,
+    "texto": "Para el amor no hay distancia que sea difícil de recorrer.",
+    "etiquetas": [
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img79.jpg"
+  },
+  {
+    "id": 80,
+    "texto": "Te amo como se aman las cosas imposibles, siempre al borde de la desesperación.",
+    "etiquetas": [
+      "futuro",
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img80.jpg"
+  },
+  {
+    "id": 81,
+    "texto": "Me gustaría vivirte, en lugar de escribirte.",
+    "etiquetas": [
+      "digital",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img81.jpg"
+  },
+  {
+    "id": 82,
+    "texto": "No sabía que te estaba esperando hasta que has aparecido. Y, entonces, ha desaparecido la inquietud.",
+    "etiquetas": [
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img82.jpg"
+  },
+  {
+    "id": 83,
+    "texto": "Si el universo supiera cuanto te amo, le daría vergüenza ser tan pequeño.",
+    "etiquetas": [
+      "mirada",
+      "poética",
+      "amor",
+      "romántica",
+      "dedicatoria"
+    ],
+    "imagen": "img83.jpg"
+  },
+  {
+    "id": 84,
+    "texto": "Ardemos cada uno en la boca del otro.",
+    "etiquetas": [
+      "besos",
+      "pasión",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img84.jpg"
+  },
+  {
+    "id": 85,
+    "texto": "Estás ahí, entre mis ganas de arriesgarme y el miedo a enamorarme.",
+    "etiquetas": [
+      "piropo",
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img85.jpg"
+  },
+  {
+    "id": 86,
+    "texto": "Me gusta la cerveza fría y tú cuando te ríes.",
+    "etiquetas": [
+      "piropo",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img86.jpg"
+  },
+  {
+    "id": 87,
+    "texto": "El alma que hablar puede con los ojos, también puede besar con la mirada.",
+    "etiquetas": [
+      "mirada",
+      "besos",
+      "amor",
+      "romántica",
+      "dedicatoria"
+    ],
+    "imagen": "img87.jpg"
+  },
+  {
+    "id": 88,
+    "texto": "No es que tenga insomnio, es que pienso en ti.",
+    "etiquetas": [
+      "sueños",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img88.jpg"
+  },
+  {
+    "id": 89,
+    "texto": "La parte favorita de mi día es verte.",
+    "etiquetas": [
+      "mirada",
+      "sueños",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img89.jpg"
+  },
+  {
+    "id": 90,
+    "texto": "Gracias por recordarme cómo siente tener mariposas en el estómago.",
+    "etiquetas": [
+      "ternura",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img90.jpg"
+  },
+  {
+    "id": 91,
+    "texto": "Eres la casualidad más bonita que llegó a mi vida.",
+    "etiquetas": [
+      "destino",
+      "futuro",
+      "declaración",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img91.jpg"
+  },
+  {
+    "id": 92,
+    "texto": "En un beso, sabrás todo lo que he callado.",
+    "etiquetas": [
+      "besos",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img92.jpg"
+  },
+  {
+    "id": 93,
+    "texto": "Hueles a algo que me recuerda a ese algo que me gusta.",
+    "etiquetas": [
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img93.jpg"
+  },
+  {
+    "id": 94,
+    "texto": "Una sonrisa no puede cambiar el mundo, pero tu sonrisa cambia el mío.",
+    "etiquetas": [
+      "sonrisa",
+      "futuro",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img94.jpg"
+  },
+  {
+    "id": 95,
+    "texto": "No existe nada más interesante que la conversación de dos amantes que permanecen callados.",
+    "etiquetas": [
+      "mirada",
+      "complicidad",
+      "declaración",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img95.jpg"
+  },
+  {
+    "id": 96,
+    "texto": "Me asustas y eso me encanta.",
+    "etiquetas": [
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img96.jpg"
+  },
+  {
+    "id": 97,
+    "texto": "Siempre serás mi debilidad.",
+    "etiquetas": [
+      "futuro",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img97.jpg"
+  },
+  {
+    "id": 98,
+    "texto": "Mi \"en línea\" extraña tu \"escribiendo\".",
+    "etiquetas": [
+      "digital",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img98.jpg"
+  },
+  {
+    "id": 99,
+    "texto": "Hay gente que te abraza y te reinicia.",
+    "etiquetas": [
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img99.jpg"
+  },
+  {
+    "id": 100,
+    "texto": "Que me gustes sin motivo ya es motivo suficiente.",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img100.jpg"
+  },
+  {
+    "id": 101,
+    "texto": "Querido Cupido, apunta bien la próxima vez.",
+    "etiquetas": [
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img101.jpg"
+  },
+  {
+    "id": 102,
+    "texto": "Eres mi notificación favorita.",
+    "etiquetas": [
+      "digital",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img102.jpg"
+  },
+  {
+    "id": 103,
+    "texto": "Quien sabe amar en secreto también sabe extrañar en silencio.",
+    "etiquetas": [
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img103.jpg"
+  },
+  {
+    "id": 104,
+    "texto": "Me delata la sonrisa al escuchar tu nombre.",
+    "etiquetas": [
+      "sonrisa",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img104.jpg"
+  },
+  {
+    "id": 105,
+    "texto": "Tu, yo, abrazados, película... piénsalo.",
+    "etiquetas": [
+      "complicidad",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img105.jpg"
+  },
+  {
+    "id": 106,
+    "texto": "El amor es un crimen que no puede realizarse sin cómplice.",
+    "etiquetas": [
+      "amor",
+      "complicidad",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img106.jpg"
+  },
+  {
+    "id": 107,
+    "texto": "Menos móvil, más miradas.",
+    "etiquetas": [
+      "mirada",
+      "digital",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img107.jpg"
+  },
+  {
+    "id": 108,
+    "texto": "Al principio todos los pensamientos pertenecen al amor. Después todo el amor pertenece a los pensamientos.",
+    "etiquetas": [
+      "amor",
+      "complicidad",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img108.jpg"
+  },
+  {
+    "id": 109,
+    "texto": "¿Cómo te amo? Déjame contarte las maneras. Te amo con la profundidad, la anchura y la altura que mi alma puede alcanzar.",
+    "etiquetas": [
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img109.jpg"
+  },
+  {
+    "id": 110,
+    "texto": "Ámame sin preguntas, que yo te amaré sin respuestas.",
+    "etiquetas": [
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img110.jpg"
+  },
+  {
+    "id": 111,
+    "texto": "Amar no es nada, ser amado es algo. Amar y ser amado lo es todo.",
+    "etiquetas": [
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img111.jpg"
+  },
+  {
+    "id": 112,
+    "texto": "Amor es solamente una palabra. Hasta que llega alguien para darle sentido.",
+    "etiquetas": [
+      "poética",
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria"
+    ],
+    "imagen": "img112.jpg"
+  },
+  {
+    "id": 113,
+    "texto": "Amor es solo una palabra, pero tú le das definición.",
+    "etiquetas": [
+      "poética",
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria"
+    ],
+    "imagen": "img113.jpg"
+  },
+  {
+    "id": 114,
+    "texto": "Amor es una palabra muy débil para describir lo que siento.",
+    "etiquetas": [
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img114.jpg"
+  },
+  {
+    "id": 115,
+    "texto": "Amor no es mirarse el uno al otro, sino mirar los dos en la misma dirección.",
+    "etiquetas": [
+      "mirada",
+      "amor",
+      "complicidad",
+      "romántica",
+      "dedicatoria"
+    ],
+    "imagen": "img115.jpg"
+  },
+  {
+    "id": 116,
+    "texto": "Anoche soñé contigo y esta mañana no quería despertar.",
+    "etiquetas": [
+      "sueños",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img116.jpg"
+  },
+  {
+    "id": 117,
+    "texto": "Aquí estaba yo... Pensando que la magia no existía y ahora es todo lo que veo cuando te miro.",
+    "etiquetas": [
+      "mirada",
+      "poética",
+      "ternura",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img117.jpg"
+  },
+  {
+    "id": 118,
+    "texto": "Cada mañana cuando despierto, tú eres la razón por la que sonrío; tú eres la razón por la que amo.",
+    "etiquetas": [
+      "sonrisa",
+      "sueños",
+      "declaración",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img118.jpg"
+  },
+  {
+    "id": 119,
+    "texto": "Contigo quiero una historia sin final.",
+    "etiquetas": [
+      "futuro",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img119.jpg"
+  },
+  {
+    "id": 120,
+    "texto": "Contigo siempre lo que con nadie nunca.",
+    "etiquetas": [
+      "futuro",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img120.jpg"
+  },
+  {
+    "id": 121,
+    "texto": "Crece a mi lado, lo mejor está aún por llegar.",
+    "etiquetas": [
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img121.jpg"
+  },
+  {
+    "id": 122,
+    "texto": "Cuando amas a alguien amas a la persona tal como es y no como te gustaría que fuera.",
+    "etiquetas": [
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img122.jpg"
+  },
+  {
+    "id": 123,
+    "texto": "Deberíamos darnos un tiempo. Tú me das tu presente, yo te doy mi futuro.",
+    "etiquetas": [
+      "futuro",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img123.jpg"
+  },
+  {
+    "id": 124,
+    "texto": "Dejé de buscar cuál era el significado de la vida en cuanto vi tu sonrisa.",
+    "etiquetas": [
+      "sonrisa",
+      "futuro",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img124.jpg"
+  },
+  {
+    "id": 125,
+    "texto": "Desde el primer momento en que te vi, supe que te quería a mi lado para siempre",
+    "etiquetas": [
+      "futuro",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img125.jpg"
+  },
+  {
+    "id": 126,
+    "texto": "Después de todo no estamos tan lejos... tú y yo vemos la misma luna, ¿cierto?",
+    "etiquetas": [
+      "poética",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img126.jpg"
+  },
+  {
+    "id": 127,
+    "texto": "Dicen que me brillan los ojos cuando hablo de ti.",
+    "etiquetas": [
+      "mirada",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img127.jpg"
+  },
+  {
+    "id": 128,
+    "texto": "El agua fluye por el río, hacia el mar, y yo fluyo para que tu corazón me deje entrar.",
+    "etiquetas": [
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img128.jpg"
+  },
+  {
+    "id": 129,
+    "texto": "El amor es como el viento: no se ve, pero se siente.",
+    "etiquetas": [
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img129.jpg"
+  },
+  {
+    "id": 130,
+    "texto": "El amor es una locura que solo los locos enamorados conocemos.",
+    "etiquetas": [
+      "poética",
+      "pasión",
+      "amor",
+      "complicidad",
+      "romántica"
+    ],
+    "imagen": "img130.jpg"
+  },
+  {
+    "id": 131,
+    "texto": "El amor no reclama posesiones sino que da libertad.",
+    "etiquetas": [
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img131.jpg"
+  },
+  {
+    "id": 132,
+    "texto": "El amor sucede accidentalmente, en un momento, en un solo instante.",
+    "etiquetas": [
+      "poética",
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img132.jpg"
+  },
+  {
+    "id": 133,
+    "texto": "El amor verdadero a menudo consiste en tratar de enseñarle a alguien cómo ser la mejor versión de sí mismo.",
+    "etiquetas": [
+      "mirada",
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img133.jpg"
+  },
+  {
+    "id": 134,
+    "texto": "El amor verdadero es cuando alguien acepta tu pasado sin juzgarte, tu presente sin cambiarte y tu futuro sin limitarte.",
+    "etiquetas": [
+      "mirada",
+      "futuro",
+      "amor",
+      "romántica",
+      "dedicatoria"
+    ],
+    "imagen": "img134.jpg"
+  },
+  {
+    "id": 135,
+    "texto": "El camino será largo, pero valdrá la pena recorrerlo junto a ti.",
+    "etiquetas": [
+      "destino",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img135.jpg"
+  },
+  {
+    "id": 136,
+    "texto": "El destino de nuestros labios es encontrarse.",
+    "etiquetas": [
+      "besos",
+      "destino",
+      "declaración",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img136.jpg"
+  },
+  {
+    "id": 137,
+    "texto": "El día más oscuro será aquel en que no pueda encontrarte, amor.",
+    "etiquetas": [
+      "sueños",
+      "destino",
+      "amor",
+      "romántica",
+      "dedicatoria"
+    ],
+    "imagen": "img137.jpg"
+  },
+  {
+    "id": 138,
+    "texto": "El más poderoso hechizo para ser amado es amar.",
+    "etiquetas": [
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img138.jpg"
+  },
+  {
+    "id": 139,
+    "texto": "El sol, la luna, las estrellas... Todo pierde sentido ante el cielo de tus ojos",
+    "etiquetas": [
+      "mirada",
+      "poética",
+      "declaración",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img139.jpg"
+  },
+  {
+    "id": 140,
+    "texto": "El sonido de tu voz es mi canción favorita.",
+    "etiquetas": [
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img140.jpg"
+  },
+  {
+    "id": 141,
+    "texto": "En las novelas románticas dicen que el amor es una locura y por eso estoy dispuesto a volverme loco por ti.",
+    "etiquetas": [
+      "mirada",
+      "pasión",
+      "amor",
+      "declaración",
+      "romántica"
+    ],
+    "imagen": "img141.jpg"
+  },
+  {
+    "id": 142,
+    "texto": "En medio de todo este silencio, tu risa me hace volver a vivir.",
+    "etiquetas": [
+      "mirada",
+      "sonrisa",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img142.jpg"
+  },
+  {
+    "id": 143,
+    "texto": "En resumen, eres mi todo.",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img143.jpg"
+  },
+  {
+    "id": 144,
+    "texto": "Entrégame el tiempo que te sobre, y lo gastaré en hacerte la persona más feliz del planeta.",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img144.jpg"
+  },
+  {
+    "id": 145,
+    "texto": "Eres el momento más bonito y el lugar preferido de mi vida.",
+    "etiquetas": [
+      "futuro",
+      "ternura",
+      "declaración",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img145.jpg"
+  },
+  {
+    "id": 146,
+    "texto": "Eres la forma más bonita que ha tenido la vida de enseñarme que vale la pena arriesgarse a amar.",
+    "etiquetas": [
+      "futuro",
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria"
+    ],
+    "imagen": "img146.jpg"
+  },
+  {
+    "id": 147,
+    "texto": "Eres la primera persona que conozco con dos corazones. El tuyo y el mío.",
+    "etiquetas": [
+      "complicidad",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img147.jpg"
+  },
+  {
+    "id": 148,
+    "texto": "Eres la única adicción que me permito tener.",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img148.jpg"
+  },
+  {
+    "id": 149,
+    "texto": "Eres lo único que veo entre la niebla, lo único que vale la pena.",
+    "etiquetas": [
+      "mirada",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img149.jpg"
+  },
+  {
+    "id": 150,
+    "texto": "Eres mi pedacito de magia.",
+    "etiquetas": [
+      "poética",
+      "ternura",
+      "declaración",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img150.jpg"
+  },
+  {
+    "id": 151,
+    "texto": "Eres tan dulce que haces que la miel parezca sal.",
+    "etiquetas": [
+      "piropo",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img151.jpg"
+  },
+  {
+    "id": 152,
+    "texto": "Escoge una persona que te mire como si fueras magia.",
+    "etiquetas": [
+      "poética",
+      "ternura",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img152.jpg"
+  },
+  {
+    "id": 153,
+    "texto": "Estábamos, estamos, estaremos juntos. A pedazos, a ratos, a párpados, a sueños.",
+    "etiquetas": [
+      "sueños",
+      "complicidad",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img153.jpg"
+  },
+  {
+    "id": 154,
+    "texto": "Estamos a nada de serlo todo.",
+    "etiquetas": [
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img154.jpg"
+  },
+  {
+    "id": 155,
+    "texto": "Estar o no estar contigo es la medida de mi tiempo",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img155.jpg"
+  },
+  {
+    "id": 156,
+    "texto": "Haces mi mundo más bonito, aunque no lo sepas.",
+    "etiquetas": [
+      "futuro",
+      "ternura",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img156.jpg"
+  },
+  {
+    "id": 157,
+    "texto": "Juntos es mi sitio favorito.",
+    "etiquetas": [
+      "complicidad",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img157.jpg"
+  },
+  {
+    "id": 158,
+    "texto": "La capacidad de reír juntos es nuestro amor.",
+    "etiquetas": [
+      "sonrisa",
+      "amor",
+      "complicidad",
+      "romántica",
+      "dedicatoria"
+    ],
+    "imagen": "img158.jpg"
+  },
+  {
+    "id": 159,
+    "texto": "La medida del amor es amar sin medida.",
+    "etiquetas": [
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img159.jpg"
+  },
+  {
+    "id": 160,
+    "texto": "La sonrisa es mía, pero el motivo eres tú.",
+    "etiquetas": [
+      "sonrisa",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img160.jpg"
+  },
+  {
+    "id": 161,
+    "texto": "La vida es bella, pero es aún más hermosa desde que estás a mi lado.",
+    "etiquetas": [
+      "futuro",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img161.jpg"
+  },
+  {
+    "id": 162,
+    "texto": "Las peronas se combinan, pero tú me complementas.",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img162.jpg"
+  },
+  {
+    "id": 163,
+    "texto": "Las verdaderas historias de amor nunca tienen un final.",
+    "etiquetas": [
+      "mirada",
+      "futuro",
+      "amor",
+      "declaración",
+      "romántica"
+    ],
+    "imagen": "img163.jpg"
+  },
+  {
+    "id": 164,
+    "texto": "Llevo tu sonrisa como bandera.",
+    "etiquetas": [
+      "sonrisa",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img164.jpg"
+  },
+  {
+    "id": 165,
+    "texto": "Los latidos dicen lo que callan las palabras.",
+    "etiquetas": [
+      "complicidad",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img165.jpg"
+  },
+  {
+    "id": 166,
+    "texto": "Me debes un beso por cada día sin vernos.",
+    "etiquetas": [
+      "mirada",
+      "besos",
+      "sueños",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img166.jpg"
+  },
+  {
+    "id": 167,
+    "texto": "Me duermo temprano para soñarte más tiempo.",
+    "etiquetas": [
+      "sueños",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img167.jpg"
+  },
+  {
+    "id": 168,
+    "texto": "Me encanta que me mires y sonrías sin ninguna explicación.",
+    "etiquetas": [
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img168.jpg"
+  },
+  {
+    "id": 169,
+    "texto": "Me gusta tu perfume, hueles al amor de mi vida.",
+    "etiquetas": [
+      "futuro",
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img169.jpg"
+  },
+  {
+    "id": 170,
+    "texto": "Me gustas muchísimo, tal como eres.",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img170.jpg"
+  },
+  {
+    "id": 171,
+    "texto": "Me he enamorado cientos de veces, todas de ti",
+    "etiquetas": [
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img171.jpg"
+  },
+  {
+    "id": 172,
+    "texto": "Me preguntan sobre la realidad y yo solo digo tu nombre.",
+    "etiquetas": [
+      "poética",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img172.jpg"
+  },
+  {
+    "id": 173,
+    "texto": "Me robó un beso y yo sentí que me robó mi alma.",
+    "etiquetas": [
+      "besos",
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img173.jpg"
+  },
+  {
+    "id": 174,
+    "texto": "Mi amor no mira con los ojos, sino con el alma.",
+    "etiquetas": [
+      "mirada",
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img174.jpg"
+  },
+  {
+    "id": 175,
+    "texto": "Mi café favorito siempre será el de tus ojos.",
+    "etiquetas": [
+      "mirada",
+      "futuro",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img175.jpg"
+  },
+  {
+    "id": 176,
+    "texto": "Mi corazón habla de ti sin parar.",
+    "etiquetas": [
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img176.jpg"
+  },
+  {
+    "id": 177,
+    "texto": "Mi corazón te pertenece.",
+    "etiquetas": [
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img177.jpg"
+  },
+  {
+    "id": 178,
+    "texto": "Mi felicidad tiene tu nombre.",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img178.jpg"
+  },
+  {
+    "id": 179,
+    "texto": "Mi lugar favorito en el mundo es a tu lado.",
+    "etiquetas": [
+      "futuro",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img179.jpg"
+  },
+  {
+    "id": 180,
+    "texto": "Mi lugar favorito en el mundo es en tus brazos.",
+    "etiquetas": [
+      "abrazos",
+      "futuro",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img180.jpg"
+  },
+  {
+    "id": 181,
+    "texto": "Mi vida comienza contigo.",
+    "etiquetas": [
+      "futuro",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img181.jpg"
+  },
+  {
+    "id": 182,
+    "texto": "Mis ojos nunca supieron guardarme todo el amor que siento por ti.",
+    "etiquetas": [
+      "mirada",
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria"
+    ],
+    "imagen": "img182.jpg"
+  },
+  {
+    "id": 183,
+    "texto": "Nada dura para siempre. ¿Quieres ser mi nada?",
+    "etiquetas": [
+      "futuro",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img183.jpg"
+  },
+  {
+    "id": 184,
+    "texto": "Nada más lindo que sorprenderme sonriendo al recordarte.",
+    "etiquetas": [
+      "ternura",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img184.jpg"
+  },
+  {
+    "id": 185,
+    "texto": "No creo que el amor sea ciego porque ha sido mirarte y volverme loco por ti.",
+    "etiquetas": [
+      "mirada",
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria"
+    ],
+    "imagen": "img185.jpg"
+  },
+  {
+    "id": 186,
+    "texto": "No eres Google, pero tienes todo lo que yo busco.",
+    "etiquetas": [
+      "digital",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img186.jpg"
+  },
+  {
+    "id": 187,
+    "texto": "No existen las palabras para poder decirte lo importante que eres en mi vida.",
+    "etiquetas": [
+      "futuro",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img187.jpg"
+  },
+  {
+    "id": 188,
+    "texto": "No existen límites para el poder del amor.",
+    "etiquetas": [
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img188.jpg"
+  },
+  {
+    "id": 189,
+    "texto": "No hay nada más bonito que una historia que empieza con una casualidad.",
+    "etiquetas": [
+      "destino",
+      "futuro",
+      "ternura",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img189.jpg"
+  },
+  {
+    "id": 190,
+    "texto": "No te quiero para mí, te quiero conmigo. Es diferente",
+    "etiquetas": [
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img190.jpg"
+  },
+  {
+    "id": 191,
+    "texto": "Nos conocimos una tarde, y ahora no podría olvidarte ni en un millón de años.",
+    "etiquetas": [
+      "futuro",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img191.jpg"
+  },
+  {
+    "id": 192,
+    "texto": "Nuestro amor será eterno.",
+    "etiquetas": [
+      "futuro",
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img192.jpg"
+  },
+  {
+    "id": 193,
+    "texto": "Nunca dudes que amo.",
+    "etiquetas": [
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img193.jpg"
+  },
+  {
+    "id": 194,
+    "texto": "Nunca terminaré de enamorarme de ti.",
+    "etiquetas": [
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img194.jpg"
+  },
+  {
+    "id": 195,
+    "texto": "Ojalá pierdas la calma y vengas a enloquecer conmigo.",
+    "etiquetas": [
+      "refugio",
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img195.jpg"
+  },
+  {
+    "id": 196,
+    "texto": "Para el mundo, tú eres una persona más; pero para mí, tú eres el mundo.",
+    "etiquetas": [
+      "futuro",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img196.jpg"
+  },
+  {
+    "id": 197,
+    "texto": "Para mí un pedacito de tus labios es un pedacito del cielo.",
+    "etiquetas": [
+      "besos",
+      "poética",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img197.jpg"
+  },
+  {
+    "id": 198,
+    "texto": "Pensando en mi felicidad, me acordé de ti.",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img198.jpg"
+  },
+  {
+    "id": 199,
+    "texto": "Porque sin buscarte te ando encontrando por todos lados, principalmente cuando cierro los ojos.",
+    "etiquetas": [
+      "mirada",
+      "complicidad",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img199.jpg"
+  },
+  {
+    "id": 200,
+    "texto": "Porque te amo más de lo que puedo expresar. Si pudiera decírtelo, te lo haría saber.",
+    "etiquetas": [
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img200.jpg"
+  },
+  {
+    "id": 201,
+    "texto": "Preferiría un minuto a tu lado que una vida sin ti.",
+    "etiquetas": [
+      "futuro",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img201.jpg"
+  },
+  {
+    "id": 202,
+    "texto": "Que la casualidad nos dure para siempre.",
+    "etiquetas": [
+      "destino",
+      "futuro",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img202.jpg"
+  },
+  {
+    "id": 203,
+    "texto": "Quédate con quien te bese el alma, la piel te la puede besar cualquiera.",
+    "etiquetas": [
+      "besos",
+      "abrazos",
+      "amor",
+      "romántica",
+      "dedicatoria"
+    ],
+    "imagen": "img203.jpg"
+  },
+  {
+    "id": 204,
+    "texto": "Quien no amó nunca, no ha vivido jamás.",
+    "etiquetas": [
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img204.jpg"
+  },
+  {
+    "id": 205,
+    "texto": "Quiero caer de las estrellas directo a tus brazos.",
+    "etiquetas": [
+      "abrazos",
+      "poética",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img205.jpg"
+  },
+  {
+    "id": 206,
+    "texto": "Quiero llenar mi boca con tu nombre.",
+    "etiquetas": [
+      "besos",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img206.jpg"
+  },
+  {
+    "id": 207,
+    "texto": "Quisiera darte todo lo que nunca hubieras tenido, y ni así sabrías la maravilla que es poder quererte.",
+    "etiquetas": [
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img207.jpg"
+  },
+  {
+    "id": 208,
+    "texto": "Reírse con otro es el mayor síntoma de amor.",
+    "etiquetas": [
+      "sonrisa",
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img208.jpg"
+  },
+  {
+    "id": 209,
+    "texto": "Sé que no puedo volar, pero alguien que me hace sentir que lo puedo lograr y esa persona eres tú.",
+    "etiquetas": [
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img209.jpg"
+  },
+  {
+    "id": 210,
+    "texto": "Si cuando amo soy feliz, entonces eres mi felicidad.",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img210.jpg"
+  },
+  {
+    "id": 211,
+    "texto": "Si lees esto: amo cuando sonríes.",
+    "etiquetas": [
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img211.jpg"
+  },
+  {
+    "id": 212,
+    "texto": "Si los latidos tuviesen nombre, los míos tendrían el tuyo.",
+    "etiquetas": [
+      "complicidad",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img212.jpg"
+  },
+  {
+    "id": 213,
+    "texto": "Si me dieran tres deseos, tres veces te pediría",
+    "etiquetas": [
+      "pasión",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img213.jpg"
+  },
+  {
+    "id": 214,
+    "texto": "Si no tardas mucho, te espero toda la vida.",
+    "etiquetas": [
+      "futuro",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img214.jpg"
+  },
+  {
+    "id": 215,
+    "texto": "Si quieres saber cuando te amo, solo cuenta las estrellas.",
+    "etiquetas": [
+      "poética",
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria"
+    ],
+    "imagen": "img215.jpg"
+  },
+  {
+    "id": 216,
+    "texto": "Si quieres ser mi estrella, prometo ser tu cielo.",
+    "etiquetas": [
+      "poética",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img216.jpg"
+  },
+  {
+    "id": 217,
+    "texto": "Si te caes, te levanto; y si no, me acuesto contigo.",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img217.jpg"
+  },
+  {
+    "id": 218,
+    "texto": "Si tú me amaras y yo te amase, ¡cómo nos amaríamos!",
+    "etiquetas": [
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img218.jpg"
+  },
+  {
+    "id": 219,
+    "texto": "Si tú me recuerdas, no me importará que el resto del mundo me olvide.",
+    "etiquetas": [
+      "futuro",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img219.jpg"
+  },
+  {
+    "id": 220,
+    "texto": "Si tuviera que volver a comenzar mi vida, intentaría encontrarte mucho antes.",
+    "etiquetas": [
+      "mirada",
+      "destino",
+      "futuro",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img220.jpg"
+  },
+  {
+    "id": 221,
+    "texto": "Solo hay dos momentos en que quiero estar contigo: Ahora y para Siempre",
+    "etiquetas": [
+      "poética",
+      "futuro",
+      "complicidad",
+      "declaración",
+      "romántica"
+    ],
+    "imagen": "img221.jpg"
+  },
+  {
+    "id": 222,
+    "texto": "Solo hay un remedio para el amor: amar más.",
+    "etiquetas": [
+      "poética",
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img222.jpg"
+  },
+  {
+    "id": 223,
+    "texto": "Solo sé, que haces de mi vida la más hermosa.",
+    "etiquetas": [
+      "poética",
+      "futuro",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img223.jpg"
+  },
+  {
+    "id": 224,
+    "texto": "Somos dos versos que riman sin rima.",
+    "etiquetas": [
+      "mirada",
+      "complicidad",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img224.jpg"
+  },
+  {
+    "id": 225,
+    "texto": "Somos una casualidad llena de intención.",
+    "etiquetas": [
+      "destino",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img225.jpg"
+  },
+  {
+    "id": 226,
+    "texto": "Soy lo que has hecho de mí. Toma mis elogios, toma mi culpa, toma todo el éxito, toma el fracaso, en resumen, tómame.",
+    "etiquetas": [
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img226.jpg"
+  },
+  {
+    "id": 227,
+    "texto": "Supe que ser amado no es nada. Que amar, en cambio, lo es todo.",
+    "etiquetas": [
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img227.jpg"
+  },
+  {
+    "id": 228,
+    "texto": "Sus ojos eran mi lectura favorita.",
+    "etiquetas": [
+      "mirada",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img228.jpg"
+  },
+  {
+    "id": 229,
+    "texto": "También creo en el amor a primera risa.",
+    "etiquetas": [
+      "sonrisa",
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img229.jpg"
+  },
+  {
+    "id": 230,
+    "texto": "Te amo en colores que aún no has visto.",
+    "etiquetas": [
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img230.jpg"
+  },
+  {
+    "id": 231,
+    "texto": "Te amo hoy más que ayer, pero no más de lo que te amaré mañana.",
+    "etiquetas": [
+      "sueños",
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img231.jpg"
+  },
+  {
+    "id": 232,
+    "texto": "Te amo más que a mi propia piel.",
+    "etiquetas": [
+      "abrazos",
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img232.jpg"
+  },
+  {
+    "id": 233,
+    "texto": "Te amo más que ayer y menos que mañana.",
+    "etiquetas": [
+      "sueños",
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img233.jpg"
+  },
+  {
+    "id": 234,
+    "texto": "Te callaría a besos, pero ni me hablas.",
+    "etiquetas": [
+      "besos",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img234.jpg"
+  },
+  {
+    "id": 235,
+    "texto": "Te cruzaste en mi camino y se me olvidó a dónde iba.",
+    "etiquetas": [
+      "destino",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img235.jpg"
+  },
+  {
+    "id": 236,
+    "texto": "Te quiero y te querré siempre, hasta después de la muerte, porque te quiero con toda mi alma, y el alma nunca muere.",
+    "etiquetas": [
+      "futuro",
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img236.jpg"
+  },
+  {
+    "id": 237,
+    "texto": "Te quiero, no por quien eres, sino por quien soy cuando estoy contigo.",
+    "etiquetas": [
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img237.jpg"
+  },
+  {
+    "id": 238,
+    "texto": "Tengo ganas de un futuro contigo.",
+    "etiquetas": [
+      "futuro",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img238.jpg"
+  },
+  {
+    "id": 239,
+    "texto": "Tengo los ojos llenos de ganas de verte",
+    "etiquetas": [
+      "mirada",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img239.jpg"
+  },
+  {
+    "id": 240,
+    "texto": "Todos los días de mi vida son perfectos porque comienzan y terminan amándote.",
+    "etiquetas": [
+      "sueños",
+      "futuro",
+      "complicidad",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img240.jpg"
+  },
+  {
+    "id": 241,
+    "texto": "Tu alma y la mía son imanes.",
+    "etiquetas": [
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img241.jpg"
+  },
+  {
+    "id": 242,
+    "texto": "Tu amor me inspira, tu ternura me conmueve y tus besos me enloquecen.",
+    "etiquetas": [
+      "besos",
+      "amor",
+      "ternura",
+      "romántica",
+      "dedicatoria"
+    ],
+    "imagen": "img242.jpg"
+  },
+  {
+    "id": 243,
+    "texto": "Tú eres el cielo. Todo lo demás es solo el clima.",
+    "etiquetas": [
+      "poética",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img243.jpg"
+  },
+  {
+    "id": 244,
+    "texto": "Tú eres la estrella de mi universo.",
+    "etiquetas": [
+      "mirada",
+      "poética",
+      "declaración",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img244.jpg"
+  },
+  {
+    "id": 245,
+    "texto": "Tú eres la historia más bonita que el destino escribió en mi vida.",
+    "etiquetas": [
+      "destino",
+      "futuro",
+      "declaración",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img245.jpg"
+  },
+  {
+    "id": 246,
+    "texto": "Tú eres siempre la respuesta cuando me preguntan que estoy pensando.",
+    "etiquetas": [
+      "futuro",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img246.jpg"
+  },
+  {
+    "id": 247,
+    "texto": "Tú haces que quiera ser mejor persona.",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img247.jpg"
+  },
+  {
+    "id": 248,
+    "texto": "Tú y yo; mi frase favorita.?",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img248.jpg"
+  },
+  {
+    "id": 249,
+    "texto": "Tus ojos están como para perderse en ellos.",
+    "etiquetas": [
+      "mirada",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img249.jpg"
+  },
+  {
+    "id": 250,
+    "texto": "Un suspiro dura unos segundos, un amor puro dura toda la vida.",
+    "etiquetas": [
+      "futuro",
+      "amor",
+      "complicidad",
+      "romántica",
+      "dedicatoria"
+    ],
+    "imagen": "img250.jpg"
+  },
+  {
+    "id": 251,
+    "texto": "Un suspiro es el aire que nos sobra por alguien que nos falta.",
+    "etiquetas": [
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img251.jpg"
+  },
+  {
+    "id": 252,
+    "texto": "Un tulipán sin agua vive pocos días, pero tu amor y el mío, si se unen, durarán toda la vida.",
+    "etiquetas": [
+      "sueños",
+      "futuro",
+      "amor",
+      "romántica",
+      "dedicatoria"
+    ],
+    "imagen": "img252.jpg"
+  },
+  {
+    "id": 253,
+    "texto": "Ven a dormir conmigo. No haremos el amor, el amor nos hará.",
+    "etiquetas": [
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img253.jpg"
+  },
+  {
+    "id": 254,
+    "texto": "Vivamos y que pase lo que tenga que pasar",
+    "etiquetas": [
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img254.jpg"
+  },
+  {
+    "id": 255,
+    "texto": "Yo me prometí no enamorarme, pero eran las 3 A.M., nos reíamos de todo y me sentí feliz por primera vez en mucho tiempo.",
+    "etiquetas": [
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img255.jpg"
+  },
+  {
+    "id": 256,
+    "texto": "Yo no me doy por vencido, yo quiero un mundo contigo.",
+    "etiquetas": [
+      "futuro",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img256.jpg"
+  },
+  {
+    "id": 257,
+    "texto": "Eres la luz que le da vida a mis días.",
+    "etiquetas": [
+      "sueños",
+      "futuro",
+      "declaración",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img257.jpg"
+  },
+  {
+    "id": 258,
+    "texto": "Encontré a la mujer más bella en lo profundo de tu alma.",
+    "etiquetas": [
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img258.jpg"
+  },
+  {
+    "id": 259,
+    "texto": "No sé si existe la felicidad completa, pero yo soy completamente feliz estando a tu lado.",
+    "etiquetas": [
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img259.jpg"
+  },
+  {
+    "id": 260,
+    "texto": "El sueño es mío y la realidad fuiste tú, bella.",
+    "etiquetas": [
+      "sueños",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img260.jpg"
+  },
+  {
+    "id": 261,
+    "texto": "Eres lo mejor que me ha pasado.",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img261.jpg"
+  },
+  {
+    "id": 262,
+    "texto": "Gracias por estar en mi vida, te quiero.",
+    "etiquetas": [
+      "futuro",
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img262.jpg"
+  },
+  {
+    "id": 263,
+    "texto": "Te quiero tanto que no hay palabras para describirlo.",
+    "etiquetas": [
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img263.jpg"
+  },
+  {
+    "id": 264,
+    "texto": "Eres lo mejor que tengo en mi vida. ¡Gracias por existir!",
+    "etiquetas": [
+      "futuro",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img264.jpg"
+  },
+  {
+    "id": 265,
+    "texto": "Cuando hablan de amor, lo primero que pienso es en ti.",
+    "etiquetas": [
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img265.jpg"
+  },
+  {
+    "id": 266,
+    "texto": "Mi corazón nunca va a dejar de pensarte y mi alma de quererte.",
+    "etiquetas": [
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img266.jpg"
+  },
+  {
+    "id": 267,
+    "texto": "Eres la mujer de mis sueños y el amor de mi vida.",
+    "etiquetas": [
+      "sueños",
+      "futuro",
+      "amor",
+      "declaración",
+      "romántica"
+    ],
+    "imagen": "img267.jpg"
+  },
+  {
+    "id": 268,
+    "texto": "Eres la princesa con la que siempre soñé y mi sueño se hizo realidad.",
+    "etiquetas": [
+      "sueños",
+      "futuro",
+      "declaración",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img268.jpg"
+  },
+  {
+    "id": 269,
+    "texto": "Eres imperfectamente perfecta para ser la sonrisa de todos mis días.",
+    "etiquetas": [
+      "sonrisa",
+      "sueños",
+      "complicidad",
+      "declaración",
+      "romántica"
+    ],
+    "imagen": "img269.jpg"
+  },
+  {
+    "id": 270,
+    "texto": "Me dijeron que fuera a buscar la rosa más linda y te encontré a ti.",
+    "etiquetas": [
+      "poética",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img270.jpg"
+  },
+  {
+    "id": 271,
+    "texto": "Mi felicidad no tiene precio, pero sí tiene grabado tu nombre.",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img271.jpg"
+  },
+  {
+    "id": 272,
+    "texto": "Entre tantos errores que he cometido, tú eres el acierto más hermoso que he tenido.",
+    "etiquetas": [
+      "ternura",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img272.jpg"
+  },
+  {
+    "id": 273,
+    "texto": "Vi el cielo y a cada estrella le di una razón de por qué te quiero, pero me faltaron estrellas.",
+    "etiquetas": [
+      "poética",
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img273.jpg"
+  },
+  {
+    "id": 274,
+    "texto": "No te amo por lo que tienes, te amo por lo que me haces sentir cuando estoy contigo.",
+    "etiquetas": [
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img274.jpg"
+  },
+  {
+    "id": 275,
+    "texto": "Eres cada pétalo que tiene una flor de nuestro jardín.",
+    "etiquetas": [
+      "poética",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img275.jpg"
+  },
+  {
+    "id": 276,
+    "texto": "Eres el significado de la palabra belleza y amor.",
+    "etiquetas": [
+      "piropo",
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria"
+    ],
+    "imagen": "img276.jpg"
+  },
+  {
+    "id": 277,
+    "texto": "Eres esa locura que necesita mi cordura.",
+    "etiquetas": [
+      "pasión",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img277.jpg"
+  },
+  {
+    "id": 278,
+    "texto": "Te amo más que a mi vida y te quiero siempre en mis días.",
+    "etiquetas": [
+      "sueños",
+      "futuro",
+      "amor",
+      "romántica",
+      "dedicatoria"
+    ],
+    "imagen": "img278.jpg"
+  },
+  {
+    "id": 279,
+    "texto": "Lo vacío de mis días se llena con tu hermosa sonrisa, hermosa.",
+    "etiquetas": [
+      "sonrisa",
+      "sueños",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img279.jpg"
+  },
+  {
+    "id": 280,
+    "texto": "Cada vez que te busco encuentro una nueva forma de ver la vida.",
+    "etiquetas": [
+      "mirada",
+      "futuro",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img280.jpg"
+  },
+  {
+    "id": 281,
+    "texto": "Te quiero en mis días, en los meses y en los años que me resten de vida.",
+    "etiquetas": [
+      "sueños",
+      "futuro",
+      "amor",
+      "romántica",
+      "dedicatoria"
+    ],
+    "imagen": "img281.jpg"
+  },
+  {
+    "id": 282,
+    "texto": "Te encontré sin siquiera buscarte, pero eres la casualidad más bonita que tengo en vida.",
+    "etiquetas": [
+      "destino",
+      "futuro",
+      "declaración",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img282.jpg"
+  },
+  {
+    "id": 283,
+    "texto": "Tus ojos son lo más bonito que veo antes de dormir.",
+    "etiquetas": [
+      "mirada",
+      "ternura",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img283.jpg"
+  },
+  {
+    "id": 284,
+    "texto": "Ver un mensaje tuyo en el celular es lo que llena de alegría mis días.",
+    "etiquetas": [
+      "mirada",
+      "sueños",
+      "digital",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img284.jpg"
+  },
+  {
+    "id": 285,
+    "texto": "Te amo de una manera incontrolable, porque eres quien ha robado un pedacito de mi corazón.",
+    "etiquetas": [
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img285.jpg"
+  },
+  {
+    "id": 286,
+    "texto": "Puede ser que no fueras la primera mujer de mi vida, pero estoy seguro de que eres la única con la que quiero pasar el resto de mi vida.",
+    "etiquetas": [
+      "futuro",
+      "refugio",
+      "declaración",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img286.jpg"
+  },
+  {
+    "id": 287,
+    "texto": "Para la mujer más espectacular que he conocido, quiero que sepas que eres el amor de mi vida.",
+    "etiquetas": [
+      "futuro",
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria"
+    ],
+    "imagen": "img287.jpg"
+  },
+  {
+    "id": 288,
+    "texto": "Si pudieses verte como te miro yo, entenderías por qué estoy tan perdidamente enamorado de ti.",
+    "etiquetas": [
+      "mirada",
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria"
+    ],
+    "imagen": "img288.jpg"
+  },
+  {
+    "id": 289,
+    "texto": "Cuando me preguntan sobre el significado de amar, solo puedo pensar en tu nombre.",
+    "etiquetas": [
+      "poética",
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img289.jpg"
+  },
+  {
+    "id": 290,
+    "texto": "Me da igual que en el mundo existan miles de personas, porque la única que me importa me ha entregado su corazón.",
+    "etiquetas": [
+      "futuro",
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img290.jpg"
+  },
+  {
+    "id": 291,
+    "texto": "Amor mío, te escribo estas palabras para que nunca olvides que siempre podrás contar conmigo.",
+    "etiquetas": [
+      "futuro",
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img291.jpg"
+  },
+  {
+    "id": 292,
+    "texto": "Juntos somos dos locos enamorados, perfectamente imperfectos.",
+    "etiquetas": [
+      "amor",
+      "complicidad",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img292.jpg"
+  },
+  {
+    "id": 293,
+    "texto": "Cuando te cruzas en mi cabeza solo puedo pensar en lo mucho que te quiero.",
+    "etiquetas": [
+      "poética",
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img293.jpg"
+  },
+  {
+    "id": 294,
+    "texto": "Te amo porque todo el universo conspiró para que nuestros caminos se cruzaran.",
+    "etiquetas": [
+      "mirada",
+      "poética",
+      "destino",
+      "amor",
+      "romántica"
+    ],
+    "imagen": "img294.jpg"
+  },
+  {
+    "id": 295,
+    "texto": "Mi corazón late más fuerte desde el día que te conocí.",
+    "etiquetas": [
+      "sueños",
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img295.jpg"
+  },
+  {
+    "id": 296,
+    "texto": "Amarte a ti, eso es lo único que necesito para ser feliz.",
+    "etiquetas": [
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img296.jpg"
+  },
+  {
+    "id": 297,
+    "texto": "Saber que estamos juntos, saber que eres la mujer que me acompaña en mi camino, es todo lo que puedo pedir.",
+    "etiquetas": [
+      "destino",
+      "complicidad",
+      "declaración",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img297.jpg"
+  },
+  {
+    "id": 298,
+    "texto": "Contigo hasta las cosas aburridas son mi plan favorito.",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img298.jpg"
+  },
+  {
+    "id": 299,
+    "texto": "No busco a alguien que me complete, busco a alguien con quien compartir los días, y esa eres tú.",
+    "etiquetas": [
+      "sueños",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img299.jpg"
+  },
+  {
+    "id": 300,
+    "texto": "Me gusta cómo cambias de opinión, cómo discutes, cómo te ríes; me gusta tu versión completa.",
+    "etiquetas": [
+      "mirada",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img300.jpg"
+  },
+  {
+    "id": 301,
+    "texto": "Si el amor fuera lógico, tú serías la única conclusión posible.",
+    "etiquetas": [
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img301.jpg"
+  },
+  {
+    "id": 302,
+    "texto": "Elijo tu caos por encima de cualquier calma sin ti.",
+    "etiquetas": [
+      "refugio",
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria"
+    ],
+    "imagen": "img302.jpg"
+  },
+  {
+    "id": 303,
+    "texto": "¿Sería muy egoísta pedirte solo para mí?",
+    "etiquetas": [
+      "poética",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img303.jpg"
+  },
+  {
+    "id": 304,
+    "texto": "Contigo puedo ser yo mismo, mi mejor versión.",
+    "etiquetas": [
+      "mirada",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img304.jpg"
+  },
+  {
+    "id": 305,
+    "texto": "Contigo no busco escapar de mi vida, busco quedarme más tiempo en ella.",
+    "etiquetas": [
+      "futuro",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img305.jpg"
+  },
+  {
+    "id": 306,
+    "texto": "Hay personas que llegan para acompañarte, tú llegaste para quedarte.",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img306.jpg"
+  },
+  {
+    "id": 307,
+    "texto": "Contigo aprendí que el amor también se demuestra estando de mal humor y quedándote igual.",
+    "etiquetas": [
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img307.jpg"
+  },
+  {
+    "id": 308,
+    "texto": "No te quiero para mí, te quiero conmigo.",
+    "etiquetas": [
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img308.jpg"
+  },
+  {
+    "id": 309,
+    "texto": "Solo hay dos momentos en que quiero estar contigo: ahora y para siempre.",
+    "etiquetas": [
+      "poética",
+      "futuro",
+      "complicidad",
+      "declaración",
+      "romántica"
+    ],
+    "imagen": "img309.jpg"
+  },
+  {
+    "id": 310,
+    "texto": "Te cruzaste en mi camino y se me olvidó dónde iba.",
+    "etiquetas": [
+      "destino",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img310.jpg"
+  },
+  {
+    "id": 311,
+    "texto": "Mi lugar favorito es estar entre tus brazos.",
+    "etiquetas": [
+      "abrazos",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img311.jpg"
+  },
+  {
+    "id": 312,
+    "texto": "No eres nada menos que mi todo.",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img312.jpg"
+  },
+  {
+    "id": 313,
+    "texto": "Tu nombre es mi palabra preferida.",
+    "etiquetas": [
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img313.jpg"
+  },
+  {
+    "id": 314,
+    "texto": "Eres la historia más bonita que el destino escribió en mi vida.",
+    "etiquetas": [
+      "destino",
+      "futuro",
+      "declaración",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img314.jpg"
+  },
+  {
+    "id": 315,
+    "texto": "Mirarte es como soplar las velas teniendo el deseo enfrente.",
+    "etiquetas": [
+      "mirada",
+      "pasión",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img315.jpg"
+  },
+  {
+    "id": 316,
+    "texto": "Sé que la perfección no existe, pero para mí eres perfecta.",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img316.jpg"
+  },
+  {
+    "id": 317,
+    "texto": "Ningún 'escribiendo...' me hace tan feliz como el tuyo.",
+    "etiquetas": [
+      "digital",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img317.jpg"
+  },
+  {
+    "id": 318,
+    "texto": "Contigo tengo ganas de vivirlo todo.",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img318.jpg"
+  },
+  {
+    "id": 319,
+    "texto": "Podría encender un fuego con lo que siento por ti.",
+    "etiquetas": [
+      "pasión",
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria"
+    ],
+    "imagen": "img319.jpg"
+  },
+  {
+    "id": 320,
+    "texto": "Soñar contigo me mantiene dormido, estar contigo me mantiene vivo.",
+    "etiquetas": [
+      "sueños",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img320.jpg"
+  },
+  {
+    "id": 321,
+    "texto": "Lo nuestro fue amor a primera vista, a todas las vistas posibles.",
+    "etiquetas": [
+      "mirada",
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img321.jpg"
+  },
+  {
+    "id": 322,
+    "texto": "Fuiste, eres y siempre serás mi más bonita casualidad.",
+    "etiquetas": [
+      "destino",
+      "futuro",
+      "declaración",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img322.jpg"
+  },
+  {
+    "id": 323,
+    "texto": "Te miro y veo el resto de mi vida frente a mis ojos.",
+    "etiquetas": [
+      "mirada",
+      "futuro",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img323.jpg"
+  },
+  {
+    "id": 324,
+    "texto": "Cuanto más te conozco más me quiero contigo.",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img324.jpg"
+  },
+  {
+    "id": 325,
+    "texto": "En tus días malos te voy a querer el triple.",
+    "etiquetas": [
+      "sueños",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img325.jpg"
+  },
+  {
+    "id": 326,
+    "texto": "Contigo descubrí que 'para siempre' no da miedo si es de tu mano.",
+    "etiquetas": [
+      "futuro",
+      "piropo",
+      "declaración",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img326.jpg"
+  },
+  {
+    "id": 327,
+    "texto": "Te elijo hoy, mañana y en todos los días que aún no hemos vivido.",
+    "etiquetas": [
+      "sueños",
+      "complicidad",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img327.jpg"
+  },
+  {
+    "id": 328,
+    "texto": "De las 24 horas que tiene el día, 16 pienso en ti y las otras 8 sueño contigo.",
+    "etiquetas": [
+      "sueños",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img328.jpg"
+  },
+  {
+    "id": 329,
+    "texto": "Te elegiría a ti en cien vidas.",
+    "etiquetas": [
+      "futuro",
+      "complicidad",
+      "declaración",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img329.jpg"
+  },
+  {
+    "id": 330,
+    "texto": "Iría por ti hasta donde nadie ha ido por mí.",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img330.jpg"
+  },
+  {
+    "id": 331,
+    "texto": "Te amaría de cualquier forma, en cualquier mundo, con cualquier pasado.",
+    "etiquetas": [
+      "futuro",
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img331.jpg"
+  },
+  {
+    "id": 332,
+    "texto": "Sin querer cambiar nada en mí, llegaste a cambiarlo todo.",
+    "etiquetas": [
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img332.jpg"
+  },
+  {
+    "id": 333,
+    "texto": "Te necesito como un corazón necesita un latido.",
+    "etiquetas": [
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img333.jpg"
+  },
+  {
+    "id": 334,
+    "texto": "Eres la primera persona que conozco con dos corazones: el tuyo y el mío.",
+    "etiquetas": [
+      "complicidad",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img334.jpg"
+  },
+  {
+    "id": 335,
+    "texto": "Eres una de esas formas que tiene la vida de decirme lo bonita que es.",
+    "etiquetas": [
+      "futuro",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img335.jpg"
+  },
+  {
+    "id": 336,
+    "texto": "Tu sonrisa me reconforta e ilumina mis días grises.",
+    "etiquetas": [
+      "sonrisa",
+      "sueños",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img336.jpg"
+  },
+  {
+    "id": 337,
+    "texto": "Buscándome a mí mismo, te encontré a ti y lo conseguí todo.",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img337.jpg"
+  },
+  {
+    "id": 338,
+    "texto": "Me haces sentir como te haría sentir el poema más hermoso.",
+    "etiquetas": [
+      "amor",
+      "ternura",
+      "declaración",
+      "romántica",
+      "dedicatoria"
+    ],
+    "imagen": "img338.jpg"
+  },
+  {
+    "id": 339,
+    "texto": "Eres el amor de todas mis mañanas, de todas mis noches y de mis tardes.",
+    "etiquetas": [
+      "sueños",
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria"
+    ],
+    "imagen": "img339.jpg"
+  },
+  {
+    "id": 340,
+    "texto": "¿Tienes un mapa? Porque me he perdido en la inmensidad de tus ojos.",
+    "etiquetas": [
+      "mirada",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img340.jpg"
+  },
+  {
+    "id": 341,
+    "texto": "Eres como la conexión Wi-Fi: siento una señal instantánea cada vez que te acercas.",
+    "etiquetas": [
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img341.jpg"
+  },
+  {
+    "id": 342,
+    "texto": "A ti te dicen préstamo bancario, porque tienes absolutamente todo mi interés.",
+    "etiquetas": [
+      "poética",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img342.jpg"
+  },
+  {
+    "id": 343,
+    "texto": "Eres mi lugar seguro, el espacio donde todas mis tormentas se vuelven paz.",
+    "etiquetas": [
+      "refugio",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img343.jpg"
+  },
+  {
+    "id": 344,
+    "texto": "Hablar contigo es como un ratito al sol: reconforta y deja con ganas de más.",
+    "etiquetas": [
+      "poética",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img344.jpg"
+  },
+  {
+    "id": 345,
+    "texto": "Eres la notificación que espero con más ansias todo el día.",
+    "etiquetas": [
+      "sueños",
+      "digital",
+      "declaración",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img345.jpg"
+  },
+  {
+    "id": 346,
+    "texto": "Si la belleza fuera tiempo, tú serías la eternidad.",
+    "etiquetas": [
+      "piropo",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img346.jpg"
+  },
+  {
+    "id": 347,
+    "texto": "Amarte es mi costumbre favorita.",
+    "etiquetas": [
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img347.jpg"
+  },
+  {
+    "id": 348,
+    "texto": "Tu mano y la mía: contrato infinito.",
+    "etiquetas": [
+      "complicidad",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img348.jpg"
+  },
+  {
+    "id": 349,
+    "texto": "Eres mi casa aun lejos de casa.",
+    "etiquetas": [
+      "refugio",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img349.jpg"
+  },
+  {
+    "id": 350,
+    "texto": "Conquistarte diario es mi hobby serio.",
+    "etiquetas": [
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img350.jpg"
+  },
+  {
+    "id": 351,
+    "texto": "Mi futuro está haciendo espacio para ti.",
+    "etiquetas": [
+      "futuro",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img351.jpg"
+  },
+  {
+    "id": 352,
+    "texto": "Eres mi milagro cotidiano.",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img352.jpg"
+  },
+  {
+    "id": 353,
+    "texto": "La suerte cambió de apellido cuando te conocí.",
+    "etiquetas": [
+      "destino",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img353.jpg"
+  },
+  {
+    "id": 354,
+    "texto": "Si dudas, miro tus ojos y me vuelvo valiente.",
+    "etiquetas": [
+      "mirada",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img354.jpg"
+  },
+  {
+    "id": 355,
+    "texto": "Tienes los ojos tan lindos que me pierdo cada vez que te miro.",
+    "etiquetas": [
+      "mirada",
+      "ternura",
+      "complicidad",
+      "declaración",
+      "romántica"
+    ],
+    "imagen": "img355.jpg"
+  },
+  {
+    "id": 356,
+    "texto": "Desde que te vi, supe que los sueños también se pueden vivir despierto.",
+    "etiquetas": [
+      "sueños",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img356.jpg"
+  },
+  {
+    "id": 357,
+    "texto": "Contigo no me hace falta el sol, porque tú iluminas mi día.",
+    "etiquetas": [
+      "sueños",
+      "poética",
+      "declaración",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img357.jpg"
+  },
+  {
+    "id": 358,
+    "texto": "No soy jardinero, pero puedo cuidar la flor más bella que eres tú.",
+    "etiquetas": [
+      "poética",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img358.jpg"
+  },
+  {
+    "id": 359,
+    "texto": "Dime cómo haces para estar en todos mis sueños sin invitación.",
+    "etiquetas": [
+      "sueños",
+      "complicidad",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img359.jpg"
+  },
+  {
+    "id": 360,
+    "texto": "Dicen que el paraíso está en el cielo, pero yo lo encontré en tu mirada.",
+    "etiquetas": [
+      "mirada",
+      "poética",
+      "ternura",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img360.jpg"
+  },
+  {
+    "id": 361,
+    "texto": "Cuando sonríes, todo mi mundo se llena de luz.",
+    "etiquetas": [
+      "futuro",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img361.jpg"
+  },
+  {
+    "id": 362,
+    "texto": "Eres el tipo de mujer por la que vale la pena perder la noción del tiempo.",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img362.jpg"
+  },
+  {
+    "id": 363,
+    "texto": "Si la felicidad tuviera forma, sin duda tendría tu sonrisa.",
+    "etiquetas": [
+      "sonrisa",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img363.jpg"
+  },
+  {
+    "id": 364,
+    "texto": "Si fueras un poema, serías el verso que nunca deja de rimar en mi corazón.",
+    "etiquetas": [
+      "mirada",
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img364.jpg"
+  },
+  {
+    "id": 365,
+    "texto": "Con esa sonrisa podrías conquistar el mundo, pero preferiría que conquistases mi corazón.",
+    "etiquetas": [
+      "sonrisa",
+      "futuro",
+      "amor",
+      "romántica",
+      "dedicatoria"
+    ],
+    "imagen": "img365.jpg"
+  },
+  {
+    "id": 366,
+    "texto": "No necesito estrellas en el cielo, porque tus ojos iluminan la noche con su brillo.",
+    "etiquetas": [
+      "mirada",
+      "sueños",
+      "poética",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img366.jpg"
+  },
+  {
+    "id": 367,
+    "texto": "Me gustaría ser tu reflejo para poder verte cada día.",
+    "etiquetas": [
+      "mirada",
+      "sueños",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img367.jpg"
+  },
+  {
+    "id": 368,
+    "texto": "Eres como un enigma que quiero resolver, pero cuanto más te conozco, más me fascinas.",
+    "etiquetas": [
+      "mirada",
+      "poética",
+      "declaración",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img368.jpg"
+  },
+  {
+    "id": 369,
+    "texto": "No soy poeta, pero contigo siempre encuentro inspiración.",
+    "etiquetas": [
+      "futuro",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img369.jpg"
+  },
+  {
+    "id": 370,
+    "texto": "No vivo en un castillo, pero quiero que seas mi reina.",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img370.jpg"
+  },
+  {
+    "id": 371,
+    "texto": "El amor será ciego, pero hay que ver lo mucho que alegras la vista.",
+    "etiquetas": [
+      "mirada",
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img371.jpg"
+  },
+  {
+    "id": 372,
+    "texto": "¡La pastelería ha evolucionado! Ahora fabrica bombones que caminan.",
+    "etiquetas": [
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img372.jpg"
+  },
+  {
+    "id": 373,
+    "texto": "¿Qué ha pasado en el cielo que están bajando los ángeles a la Tierra?",
+    "etiquetas": [
+      "poética",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img373.jpg"
+  },
+  {
+    "id": 374,
+    "texto": "¿Cómo es posible que no te hayan multado todavía por exceso de belleza?",
+    "etiquetas": [
+      "piropo",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img374.jpg"
+  },
+  {
+    "id": 375,
+    "texto": "Tú eres Coca Cola y yo un hielito, ¡no me toques que me derrito!",
+    "etiquetas": [
+      "pasión",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img375.jpg"
+  },
+  {
+    "id": 376,
+    "texto": "¿Te has hecho daño? Es que iba pasando por aquí y te vi caer del cielo.",
+    "etiquetas": [
+      "poética",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img376.jpg"
+  },
+  {
+    "id": 377,
+    "texto": "Eres como el chocolate caliente... me derrites solo con mirarte.",
+    "etiquetas": [
+      "mirada",
+      "poética",
+      "declaración",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img377.jpg"
+  },
+  {
+    "id": 378,
+    "texto": "Si fueras semáforo, siempre me saltaría la luz roja por ti.",
+    "etiquetas": [
+      "futuro",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img378.jpg"
+  },
+  {
+    "id": 379,
+    "texto": "Eres como mi café por la mañana: caliente, fuerte y me despiertas.",
+    "etiquetas": [
+      "sueños",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img379.jpg"
+  },
+  {
+    "id": 380,
+    "texto": "Eres como el sol en invierno: calientas hasta los días más fríos.",
+    "etiquetas": [
+      "sueños",
+      "poética",
+      "pasión",
+      "declaración",
+      "romántica"
+    ],
+    "imagen": "img380.jpg"
+  },
+  {
+    "id": 381,
+    "texto": "Me gustas más que dormir hasta tarde, y eso es decir mucho.",
+    "etiquetas": [
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img381.jpg"
+  },
+  {
+    "id": 382,
+    "texto": "Tu mirada es mi punto débil.",
+    "etiquetas": [
+      "mirada",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img382.jpg"
+  },
+  {
+    "id": 383,
+    "texto": "Tu risa es mi canción favorita.",
+    "etiquetas": [
+      "sonrisa",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img383.jpg"
+  },
+  {
+    "id": 384,
+    "texto": "¿Estudiaste arquitectura? Porque construiste un puente directo a mi corazón.",
+    "etiquetas": [
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img384.jpg"
+  },
+  {
+    "id": 385,
+    "texto": "¿Tienes un lápiz? Porque quiero tachar el pasado y escribir nuestro futuro juntos.",
+    "etiquetas": [
+      "futuro",
+      "complicidad",
+      "declaración",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img385.jpg"
+  },
+  {
+    "id": 386,
+    "texto": "¿Eres astronauta? Porque me llevas a la luna.",
+    "etiquetas": [
+      "poética",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img386.jpg"
+  },
+  {
+    "id": 387,
+    "texto": "Somos como calcetines, ¡hacemos un buen par!",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img387.jpg"
+  },
+  {
+    "id": 388,
+    "texto": "¿Tienes un corazón extra? Me robaste el mío.",
+    "etiquetas": [
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img388.jpg"
+  },
+  {
+    "id": 389,
+    "texto": "Tu presencia es como un abrazo cálido en un día frío.",
+    "etiquetas": [
+      "abrazos",
+      "sueños",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img389.jpg"
+  },
+  {
+    "id": 390,
+    "texto": "Eres tan interesante que podría escucharte hablar por horas.",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img390.jpg"
+  },
+  {
+    "id": 391,
+    "texto": "Tienes una chispa especial que te hace única.",
+    "etiquetas": [
+      "ternura",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img391.jpg"
+  },
+  {
+    "id": 392,
+    "texto": "Eres como un buen libro, siempre hay algo nuevo que descubrir en ti.",
+    "etiquetas": [
+      "futuro",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img392.jpg"
+  },
+  {
+    "id": 393,
+    "texto": "En el jardín de mi corazón, tú eres la flor más hermosa.",
+    "etiquetas": [
+      "poética",
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria"
+    ],
+    "imagen": "img393.jpg"
+  },
+  {
+    "id": 394,
+    "texto": "Cada latido de mi corazón susurra tu nombre.",
+    "etiquetas": [
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img394.jpg"
+  },
+  {
+    "id": 395,
+    "texto": "A tu lado, cada día es un nuevo comienzo.",
+    "etiquetas": [
+      "sueños",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img395.jpg"
+  },
+  {
+    "id": 396,
+    "texto": "Desearía que salieras de mis sueños porque te quiero en mi realidad.",
+    "etiquetas": [
+      "sueños",
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img396.jpg"
+  },
+  {
+    "id": 397,
+    "texto": "Si se me empieza a olvidar tu belleza, recuérdamela con tu sonrisa y el sabor de tus labios.",
+    "etiquetas": [
+      "sonrisa",
+      "besos",
+      "futuro",
+      "piropo",
+      "romántica"
+    ],
+    "imagen": "img397.jpg"
+  },
+  {
+    "id": 398,
+    "texto": "Con tus ojos mirándome, no necesito la luz del sol.",
+    "etiquetas": [
+      "mirada",
+      "poética",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img398.jpg"
+  },
+  {
+    "id": 399,
+    "texto": "En el día el sol brilla, en la noche la luna me ilumina y en mi corazón me deslumbras, mi niña.",
+    "etiquetas": [
+      "sueños",
+      "poética",
+      "amor",
+      "romántica",
+      "dedicatoria"
+    ],
+    "imagen": "img399.jpg"
+  },
+  {
+    "id": 400,
+    "texto": "Eres la melodía que alegra a mi guitarra.",
+    "etiquetas": [
+      "sueños",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img400.jpg"
+  },
+  {
+    "id": 401,
+    "texto": "Si quedara algo por descubrir del universo, buscaría tu amor en mil galaxias.",
+    "etiquetas": [
+      "mirada",
+      "poética",
+      "amor",
+      "romántica",
+      "dedicatoria"
+    ],
+    "imagen": "img401.jpg"
+  },
+  {
+    "id": 402,
+    "texto": "Tantas estrellas en el espacio y ninguna brilla igual que tú.",
+    "etiquetas": [
+      "poética",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img402.jpg"
+  },
+  {
+    "id": 403,
+    "texto": "De todas las curvas que veo, tu sonrisa es mi favorita.",
+    "etiquetas": [
+      "mirada",
+      "sonrisa",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img403.jpg"
+  },
+  {
+    "id": 404,
+    "texto": "Nunca he sido pirata, pero ya te encontré... tesoro.",
+    "etiquetas": [
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img404.jpg"
+  },
+  {
+    "id": 405,
+    "texto": "Si fueras mi esposa seguro me volvería ateo, porque no tendría nada más que pedirle a Dios.",
+    "etiquetas": [
+      "mirada",
+      "refugio",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img405.jpg"
+  },
+  {
+    "id": 406,
+    "texto": "Ni en mi clase de matemáticas me perdía tanto como en tu mirada.",
+    "etiquetas": [
+      "mirada",
+      "sueños",
+      "declaración",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img406.jpg"
+  },
+  {
+    "id": 407,
+    "texto": "Si tengo frío no salgo a tomar el sol, me acerco a ti y me derrito.",
+    "etiquetas": [
+      "poética",
+      "pasión",
+      "declaración",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img407.jpg"
+  },
+  {
+    "id": 408,
+    "texto": "Si lo bonito fuera pecado, tú nunca tendrías el perdón de Dios.",
+    "etiquetas": [
+      "pasión",
+      "ternura",
+      "declaración",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img408.jpg"
+  },
+  {
+    "id": 409,
+    "texto": "Si te multan por exceso de belleza, llámame, yo pago tu fianza.",
+    "etiquetas": [
+      "piropo",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img409.jpg"
+  },
+  {
+    "id": 410,
+    "texto": "¿Ya empezó la primavera?, ¡porque eres la primera flor que veo!",
+    "etiquetas": [
+      "mirada",
+      "poética",
+      "declaración",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img410.jpg"
+  },
+  {
+    "id": 411,
+    "texto": "Si ser sexy fuese un delito, te pasarías la vida en la cárcel.",
+    "etiquetas": [
+      "pasión",
+      "futuro",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img411.jpg"
+  },
+  {
+    "id": 412,
+    "texto": "Dicen que robar es malo, yo nunca lo haría; ¡pero un beso tuyo, con gusto lo robaría!",
+    "etiquetas": [
+      "besos",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img412.jpg"
+  },
+  {
+    "id": 413,
+    "texto": "¿Le importa si la miro durante un ratito? Quiero recordar su cara para mis sueños.",
+    "etiquetas": [
+      "sueños",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img413.jpg"
+  },
+  {
+    "id": 414,
+    "texto": "Las flores al verte, celosas están, no comprenden cómo una de ellas caminando va.",
+    "etiquetas": [
+      "mirada",
+      "poética",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img414.jpg"
+  },
+  {
+    "id": 415,
+    "texto": "Dime cómo te llamas y te pido para los Reyes.",
+    "etiquetas": [
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img415.jpg"
+  },
+  {
+    "id": 416,
+    "texto": "Desde que te he conocido, has vivido en mi corazón sin pagar alquiler.",
+    "etiquetas": [
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img416.jpg"
+  },
+  {
+    "id": 417,
+    "texto": "Me tienes que comprar un diccionario, porque desde que te vi me quedé sin palabras.",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img417.jpg"
+  },
+  {
+    "id": 418,
+    "texto": "¿Acaba de salir el sol, o me has sonreído?",
+    "etiquetas": [
+      "poética",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img418.jpg"
+  },
+  {
+    "id": 419,
+    "texto": "¿Qué hace una estrella volando tan bajo?",
+    "etiquetas": [
+      "poética",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img419.jpg"
+  },
+  {
+    "id": 420,
+    "texto": "¿Te puedo hacer una foto? Quiero enviarla a mis amigos y demostrarles que los ángeles existen.",
+    "etiquetas": [
+      "poética",
+      "digital",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img420.jpg"
+  },
+  {
+    "id": 421,
+    "texto": "Cuanto más lejos más te pienso, pero cuanto más te pienso más cerca te siento.",
+    "etiquetas": [
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img421.jpg"
+  },
+  {
+    "id": 422,
+    "texto": "Aquí te mando mi corazón que no quiere estar conmigo; le pregunté con quién quería estar y me dijo que contigo.",
+    "etiquetas": [
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img422.jpg"
+  },
+  {
+    "id": 423,
+    "texto": "Tus ojos son mi mañana, tu boca mi noche y tu cuerpo mi día entero.",
+    "etiquetas": [
+      "mirada",
+      "besos",
+      "abrazos",
+      "sueños",
+      "romántica"
+    ],
+    "imagen": "img423.jpg"
+  },
+  {
+    "id": 424,
+    "texto": "Por una noche en tus brazos todos mis secretos te diría, y por saber que me quieres hasta el cielo volaría.",
+    "etiquetas": [
+      "abrazos",
+      "sueños",
+      "poética",
+      "complicidad",
+      "declaración"
+    ],
+    "imagen": "img424.jpg"
+  },
+  {
+    "id": 425,
+    "texto": "Del rosal salen las rosas, de las rosas los perfumes, y de tus labios, vida mía, un amor que me consume.",
+    "etiquetas": [
+      "besos",
+      "poética",
+      "futuro",
+      "amor",
+      "romántica"
+    ],
+    "imagen": "img425.jpg"
+  },
+  {
+    "id": 426,
+    "texto": "Al nacer el día aparece el sol, al caer la noche aparece la luna, y se acelera mi corazón si aparece tu figura.",
+    "etiquetas": [
+      "sueños",
+      "poética",
+      "amor",
+      "romántica",
+      "dedicatoria"
+    ],
+    "imagen": "img426.jpg"
+  },
+  {
+    "id": 427,
+    "texto": "Ese fuego de tu piel y el calor de tu mirada me hacen sentir como el diablo en su morada.",
+    "etiquetas": [
+      "mirada",
+      "abrazos",
+      "pasión",
+      "amor",
+      "declaración"
+    ],
+    "imagen": "img427.jpg"
+  },
+  {
+    "id": 428,
+    "texto": "Quisiera ser caramelo para pegarme en tus labios y deshacerme en tu boca.",
+    "etiquetas": [
+      "besos",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img428.jpg"
+  },
+  {
+    "id": 429,
+    "texto": "No sabía que los ángeles también usaban ropa.",
+    "etiquetas": [
+      "poética",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img429.jpg"
+  },
+  {
+    "id": 430,
+    "texto": "A las nueve tuve sueño, a las once me dormí y a las seis de la mañana desperté pensando en ti.",
+    "etiquetas": [
+      "sueños",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img430.jpg"
+  },
+  {
+    "id": 431,
+    "texto": "Eres como la respuesta correcta en un examen.",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img431.jpg"
+  },
+  {
+    "id": 432,
+    "texto": "Es imposible no fijarse en lo guapa que estás.",
+    "etiquetas": [
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img432.jpg"
+  },
+  {
+    "id": 433,
+    "texto": "Qué suerte coincidir contigo.",
+    "etiquetas": [
+      "destino",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img433.jpg"
+  },
+  {
+    "id": 434,
+    "texto": "¿Eres mi canción favorita? Porque nunca me canso de escucharte.",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img434.jpg"
+  },
+  {
+    "id": 435,
+    "texto": "Tienes el mismo efecto que un café: me alegras las mañanas.",
+    "etiquetas": [
+      "sueños",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img435.jpg"
+  },
+  {
+    "id": 436,
+    "texto": "Eres tan dulce que mi glucómetro se ha puesto nervioso.",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img436.jpg"
+  },
+  {
+    "id": 437,
+    "texto": "Soy nuevo en la ciudad, ¿me puedes dar instrucciones de cómo llegar a tu corazón?",
+    "etiquetas": [
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img437.jpg"
+  },
+  {
+    "id": 438,
+    "texto": "Tengo que buscar un sinónimo de impresionante en Google, pero ninguno le haría justicia a lo guapa que estás hoy.",
+    "etiquetas": [
+      "digital",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img438.jpg"
+  },
+  {
+    "id": 439,
+    "texto": "Necesitas graduarte la vista: no estás viendo la falta que me haces.",
+    "etiquetas": [
+      "mirada",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img439.jpg"
+  },
+  {
+    "id": 440,
+    "texto": "Tu sonrisa ilumina más que cien estrellas en el cielo.",
+    "etiquetas": [
+      "sonrisa",
+      "poética",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img440.jpg"
+  },
+  {
+    "id": 441,
+    "texto": "Amo todo lo que eres y amo lo que soy cuando estoy a tu lado.",
+    "etiquetas": [
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img441.jpg"
+  },
+  {
+    "id": 442,
+    "texto": "Cada día a tu lado es una nueva aventura que estoy ansioso por vivir.",
+    "etiquetas": [
+      "sueños",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img442.jpg"
+  },
+  {
+    "id": 443,
+    "texto": "Sin importar lo que pase, quiero estar siempre junto a ti.",
+    "etiquetas": [
+      "futuro",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img443.jpg"
+  },
+  {
+    "id": 444,
+    "texto": "Por primera vez en mi vida creo que puedo lograr todo lo que me proponga; eso haces en mí, me haces brillar.",
+    "etiquetas": [
+      "futuro",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img444.jpg"
+  },
+  {
+    "id": 445,
+    "texto": "Lo mejor de mi día es cuando hablamos o te veo.",
+    "etiquetas": [
+      "mirada",
+      "sueños",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img445.jpg"
+  },
+  {
+    "id": 446,
+    "texto": "Tus ojos son el sitio más hermoso que nunca quiero perder.",
+    "etiquetas": [
+      "mirada",
+      "ternura",
+      "declaración",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img446.jpg"
+  },
+  {
+    "id": 447,
+    "texto": "Cualquier tormenta u obstáculo se hace menor a tu lado; junto a ti puedo vencer lo que venga.",
+    "etiquetas": [
+      "refugio",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img447.jpg"
+  },
+  {
+    "id": 448,
+    "texto": "Soy el más afortunado por estar a tu lado; gracias por llegar a mi vida.",
+    "etiquetas": [
+      "futuro",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img448.jpg"
+  },
+  {
+    "id": 449,
+    "texto": "Desde que llegaste a mi vida, cada día tiene un brillo diferente.",
+    "etiquetas": [
+      "sueños",
+      "futuro",
+      "declaración",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img449.jpg"
+  },
+  {
+    "id": 450,
+    "texto": "No hay distancia que pueda apagar el fuego que siento por ti.",
+    "etiquetas": [
+      "pasión",
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria"
+    ],
+    "imagen": "img450.jpg"
+  },
+  {
+    "id": 451,
+    "texto": "Eres mi capítulo favorito en la historia de mi vida.",
+    "etiquetas": [
+      "futuro",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img451.jpg"
+  },
+  {
+    "id": 452,
+    "texto": "En tus abrazos encontré el hogar que siempre busqué.",
+    "etiquetas": [
+      "abrazos",
+      "futuro",
+      "refugio",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img452.jpg"
+  },
+  {
+    "id": 453,
+    "texto": "Si tuviera que elegir de nuevo, te elegiría mil veces más.",
+    "etiquetas": [
+      "complicidad",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img453.jpg"
+  },
+  {
+    "id": 454,
+    "texto": "Mi corazón late al compás de tu risa.",
+    "etiquetas": [
+      "sonrisa",
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img454.jpg"
+  },
+  {
+    "id": 455,
+    "texto": "Abrazarte es como tocar las estrellas.",
+    "etiquetas": [
+      "abrazos",
+      "poética",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img455.jpg"
+  },
+  {
+    "id": 456,
+    "texto": "Y de repente, todas las canciones de amor hablan de ti.",
+    "etiquetas": [
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img456.jpg"
+  },
+  {
+    "id": 457,
+    "texto": "A ti te veo en todos mis planes, incluso en los que pensé que no invitaría a nadie.",
+    "etiquetas": [
+      "mirada",
+      "complicidad",
+      "declaración",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img457.jpg"
+  },
+  {
+    "id": 458,
+    "texto": "Si volviera a nacer, te volvería a elegir.",
+    "etiquetas": [
+      "mirada",
+      "complicidad",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img458.jpg"
+  },
+  {
+    "id": 459,
+    "texto": "Eres el universo al que siempre quiero volver.",
+    "etiquetas": [
+      "mirada",
+      "poética",
+      "futuro",
+      "declaración",
+      "romántica"
+    ],
+    "imagen": "img459.jpg"
+  },
+  {
+    "id": 460,
+    "texto": "Hagamos un trato: tú, yo y toda la vida.",
+    "etiquetas": [
+      "futuro",
+      "complicidad",
+      "declaración",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img460.jpg"
+  },
+  {
+    "id": 461,
+    "texto": "Tú lo llamas locura, pero yo lo llamo amor.",
+    "etiquetas": [
+      "pasión",
+      "amor",
+      "declaración",
+      "romántica",
+      "dedicatoria"
+    ],
+    "imagen": "img461.jpg"
+  },
+  {
+    "id": 462,
+    "texto": "Regálame tu risa, enséñame a soñar.",
+    "etiquetas": [
+      "sonrisa",
+      "sueños",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img462.jpg"
+  },
+  {
+    "id": 463,
+    "texto": "Solo sé que haces de mi vida la más hermosa.",
+    "etiquetas": [
+      "poética",
+      "futuro",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img463.jpg"
+  },
+  {
+    "id": 464,
+    "texto": "Si fueras una comida, serías mi plato preferido... y mi postre.",
+    "etiquetas": [
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img464.jpg"
+  },
+  {
+    "id": 465,
+    "texto": "Contigo todos los días son bellos, incluso esos en los que llueve.",
+    "etiquetas": [
+      "sueños",
+      "complicidad",
+      "declaración",
+      "romántica",
+      "amor"
+    ],
+    "imagen": "img465.jpg"
+  },
+  {
+    "id": 466,
+    "texto": "Quiero enseñarte el idioma que hablan mis ojos.",
+    "etiquetas": [
+      "mirada",
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img466.jpg"
+  },
+  {
+    "id": 467,
+    "texto": "Incluso si te obligasen a mudarte a otro planeta, yo te acompañaría.",
+    "etiquetas": [
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img467.jpg"
+  },
+  {
+    "id": 468,
+    "texto": "Verte es mi momento favorito del día.",
+    "etiquetas": [
+      "mirada",
+      "sueños",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img468.jpg"
+  },
+  {
+    "id": 469,
+    "texto": "Juntos somos dos versos que se complementan.",
+    "etiquetas": [
+      "mirada",
+      "complicidad",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img469.jpg"
+  },
+  {
+    "id": 470,
+    "texto": "Tus mensajes vienen con mi sonrisa incluida.",
+    "etiquetas": [
+      "sonrisa",
+      "digital",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img470.jpg"
+  },
+  {
+    "id": 471,
+    "texto": "Ojalá volver a nacer en la misma vida y amarte por siempre.",
+    "etiquetas": [
+      "mirada",
+      "futuro",
+      "amor",
+      "romántica",
+      "dedicatoria"
+    ],
+    "imagen": "img471.jpg"
+  },
+  {
+    "id": 472,
+    "texto": "Te amo. Así de simple. Así de siempre.",
+    "etiquetas": [
+      "futuro",
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva"
+    ],
+    "imagen": "img472.jpg"
+  }
+]
