@@ -3081,7 +3081,7 @@
       "afectiva",
       "enamorar"
     ],
-    "imagen": "img258.jpg"
+    "imagen": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/Novia/img258.jpg"
   },
   {
     "id": 259,
@@ -3093,7 +3093,7 @@
       "afectiva",
       "enamorar"
     ],
-    "imagen": "img259.jpg"
+    "imagen": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/Novia/img259.jpg"
   },
   {
     "id": 260,
@@ -3105,6 +3105,6 @@
       "amor",
       "dedicatoria"
     ],
-    "imagen": "img260.jpg"
+    "imagen": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/Novia/img260.jpg"
   }
 ]
