@@ -1,17 +1,5 @@
 [
   {
-    "id": 1,
-    "texto": "Miro las estrellas y ahí estas tu, cierro los ojos y ahí estas tú, siento con el corazón y ahí estas tú.",
-    "etiquetas": [
-      "mirada",
-      "poética",
-      "amor",
-      "declaración",
-      "romántica"
-    ],
-    "imagen": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/Novia/img1.jpg"
-  },
-  {
     "id": 2,
     "texto": "El amor se mide en la cantidad de veces que sonrío estúpidamente a solas.",
     "etiquetas": [
@@ -3070,5 +3058,53 @@
       "dedicatoria"
     ],
     "imagen": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/Novia/img256.jpg"
+  },
+  {
+    "id": 257,
+    "texto": "Miro las estrellas y ahí estas tu, cierro los ojos y ahí estas tú, siento con el corazón y ahí estas tú.",
+    "etiquetas": [
+      "mirada",
+      "poética",
+      "amor",
+      "declaración",
+      "romántica"
+    ],
+    "imagen": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/Novia/img1.jpg"
+  },
+  {
+    "id": 258,
+    "texto": "Encontré a la mujer más bella en lo profundo de tu alma.",
+    "etiquetas": [
+      "amor",
+      "romántica",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img258.jpg"
+  },
+  {
+    "id": 259,
+    "texto": "No sé si existe la felicidad completa, pero yo soy completamente feliz estando a tu lado.",
+    "etiquetas": [
+      "romántica",
+      "amor",
+      "dedicatoria",
+      "afectiva",
+      "enamorar"
+    ],
+    "imagen": "img259.jpg"
+  },
+  {
+    "id": 260,
+    "texto": "El sueño es mío y la realidad fuiste tú, bella.",
+    "etiquetas": [
+      "sueños",
+      "declaración",
+      "romántica",
+      "amor",
+      "dedicatoria"
+    ],
+    "imagen": "img260.jpg"
   }
 ]
