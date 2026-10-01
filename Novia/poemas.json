@@ -1,104 +1,332 @@
 [
   {
     "id": 1,
-    "titulo": "No pienses que me he ido",
-    "poema": "Si algún día visitas mi tumba no llores, solo imagina que estoy durmiendo\nTe visitaré con el alba, te abrazaré con el viento, te besaré con la lluvia y cantaré para ti en silencio\nNunca pienses que me he ido, porque entonces... entonces, si habré muerto.",
-    "autor": "Anónimo"
+    "titulo": "Me gustas cuando callas",
+    "poema": "Me gustas cuando callas porque estás como ausente,\ny me oyes desde lejos, y mi voz no te toca.\nParece que los ojos se te hubieran volado\ny parece que un beso te cerrara la boca.\n\nComo todas las cosas están llenas de mi alma\nemerges de las cosas, llena del alma mía.\nMariposa de sueño, te pareces a mi alma,\ny te pareces a la palabra melancolía.\n\nDéjame que te hable también con tu silencio\nclaro como una lámpara, simple como un anillo.\nEres como la noche, callada y constelada.\nTu silencio es de estrella, tan lejano y sencillo.\n\nMe gustas cuando callas porque estás como ausente.\nDistante y dolorosa como si hubieras muerto.\nUna palabra entonces, una sonrisa bastan.\nY estoy alegre, alegre de que no sea cierto.",
+    "autor": "Pablo Neruda"
   },
   {
     "id": 2,
-    "titulo": "Madre despues que te fuiste",
-    "poema": "Madre después que te fuiste, no ha pasado un día en que no vengas a visitarme en mi mente, no ha pasado un día en que deje de recordarte.\nDespués que te fuiste, comprendí que como tu amor no existe ninguno y como tú, no encontraré otra persona en este mundo, que me quiera igual.\nMe dejaste una vida de recuerdos llenos de amor, que me acompañarán toda la vida.\nSolo le pido a Dios que descanses en paz, allá en el cielo, porque yo aquí en la Tierra te recuerdo y no te olvido.",
-    "autor": "Anónimo"
+    "titulo": "¿Qué es poesía?",
+    "poema": "¿Qué es poesía?, dices mientras clavas\nen mi pupila tu pupila azul.\n¿Qué es poesía? ¿Y tú me lo preguntas?\nPoesía... eres tú.",
+    "autor": "Gustavo Adolfo Bécquer"
   },
   {
     "id": 3,
-    "titulo": "Madre te quiero y nunca te olvido",
-    "poema": "Hoy es un día muy triste para mí, porque recuerdo a mi Madre, que Dios se llevó muy lejos de aquí.\nHoy más que nunca le quiero y le extraño y no puedo olvidarla, aunque pase el tiempo, aunque pasen los años.\nY solo me queda venir una vez más, a este lugar solitario, triste y abandonado, a traerle a mi Madre una flor como regalo.\nY con esta flor pedirle al Señor, que la cuide y la proteja allá donde le tenga y por si acaso, por si ella pueda oírme, decirle bien bajito en su tumba: que le quiero mucho y que no me olvido de ella.",
-    "autor": "Anónimo"
+    "titulo": "El amor del poeta",
+    "poema": "Amor, devora el alma de tu esclavo,\ndevórala en un día;\no deja que mi pecho candoroso\nen torrentes se exhale de armonía.\n\nNo es más grata la fuente en el desierto,\nni en el jardín más bella es la palmera,\nque el grato sonreír de la ternura,\ny el mirar de la virgen hechicera.\n\nO virgen, me amarás, que yo te adoro,\ny a un destello no más de mi mirada,\na una gota tan solo de mi lloro\nsin querer te verás cual yo arrastrada.",
+    "autor": "Jacinto de Salas y Quiroga"
   },
   {
     "id": 4,
-    "titulo": "Seguir adelante",
-    "poema": "Puedes llorar porque se ha ido o reír porque ha vivido\nPuedes cerrar los ojos y rezar para que vuelva o puedes abrirlos y ver todo lo que ha dejado\nTu corazón puede estar vacío porque no lo puedes ver o puede estar lleno del amor que compartiste\nPuedes llorar cerrar tu mente, sentir el vacío y dar la espalda o puedes hacer lo que le gustaría a esa persona: sonreír, abrir los ojos, amar y seguir adelante.\n",
-    "autor": "David Harkins"
+    "titulo": "Amor",
+    "poema": "Mujer, yo hubiera sido tu hijo, por beberte\nla leche de los senos como de un manantial,\npor mirarte y sentirte a mi lado, y tenerte\nen la risa de oro y la voz de cristal.\n\nPor sentirte en mis venas como Dios en los ríos\ny adorarte en los tristes huesos de polvo y cal,\nporque tu ser pasara sin pena al lado mío\ny saliera en la estrofa --limpio de todo mal--.\n\n¡Cómo sabría amarte, mujer cómo sabría\namarte, amarte como nadie supo jamás!\nMorir y todavía\namarte más.",
+    "autor": "Pablo Neruda"
   },
   {
     "id": 5,
-    "titulo": "No he muerto",
-    "poema": "No he muerto, solo me fui antes y no quiero que me recuerden con lágrimas, como aquel que no tiene esperanzas\nNo he muerto, aunque mi cuerpo no esté, mi presencia se hará sentir\nSeré el silencio de nuestro hogar que tanto compartimos, seré la brisa que besará sus rostros, seré un recuerdo dulce que asista a su memoria, seré una página bonita de su historia\nPerdón a todos, tome únicamente uno de los trenes anteriores y se me olvidó decirles....\nNo he muerto, solo me fui antes.",
-    "autor": "Anónimo"
+    "titulo": "Madrigal apasionado",
+    "poema": "Quisiera estar en tus labios\npara apagarme en la nieve\nde tus dientes.\nQuisiera estar en tu pecho\npara en sangre deshacerme.\nQuisiera en tu cabellera\nde oro soñar para siempre.\n\nQue tu corazón se hiciera\ntumba del mío doliente.\nQue tu carne sea mi carne,\nque mi frente sea tu frente.\nQuisiera que toda mi alma\nentrara en tu cuerpo breve...",
+    "autor": "Federico García Lorca"
   },
   {
     "id": 6,
-    "titulo": "Un pedacito de cielo",
-    "poema": "Dicen que cuando tienes a alguien que amas en el cielo, tienes un pedacito de cielo en tu casa, para siempre\nYo te tengo a ti Madre en el cielo, pero una parte de ti vive conmigo, tu recuerdo sigue en mi hogar y está presente en mi vida\nTodo lo que me rodea tiene la huella de tu entrega, tu cariño y tu amor infinito\nAunque te fuiste, sigues conmigo Madre, aquí en mi corazón.",
-    "autor": "Anónimo"
+    "titulo": "El poeta a su amada",
+    "poema": "Amada, en esta noche tú te has crucificado\nsobre los dos maderos curvados de mi beso;\ny tu pena me ha dicho que Jesús ha llorado,\ny que hay un viernes santo más dulce que ese beso.\n\nEn esta noche clara que tanto me has mirado,\nla Muerte ha estado alegre y ha cantado en su hueso.\nEn esta noche de setiembre se ha oficiado\nmi segunda caída y el más humano beso.\n\nAmada, moriremos los dos juntos, muy juntos;\nse irá secando a pausas nuestra excelsa amargura;\ny habrán tocado a sombra nuestros labios difuntos.",
+    "autor": "César Vallejo"
   },
   {
     "id": 7,
-    "titulo": "Poema para mi Madre",
-    "poema": "Madre te fuiste, pero el rastro que dejó tu existencia, ha sido un regalo para los demás\nTu amor, tu bondad y tu cariño, ha hecho crecer y florecer la obra que sembraste\nSupiste aprovechar bien el tiempo que Dios te entregó, dándonos la vida y luchando para que nada le faltara a tu familia\nSiempre te recordaremos con orgullo y seguirás dentro de nuestros corazones, aunque estés allá en el cielo, donde podrás descansar en paz.",
-    "autor": "Anónimo"
+    "titulo": "Cuerpo de mujer",
+    "poema": "Cuerpo de mujer, blancas colinas, muslos blancos,\nte pareces al mundo en tu actitud de entrega.\nMi cuerpo de labriego salvaje te socava\ny hace saltar al hijo del fondo de la tierra.\n\nFui sólo como un túnel. De mí huían los pájaros,\ny en mí la noche entraba en su invasión poderosa.\nPara sobrevivirme te forjé como un arma,\ncomo una flecha en mi arco, como una piedra en mi honda.\n\nPero cae la hora de la venganza, y te amo.\nCuerpo de piel, de musgo, de leche ávida y firme.\n¡Ah los vasos del pecho! ¡Ah los ojos de ausencia!\n¡Ah las rosas del pubis! ¡Ah tu voz lenta y triste!",
+    "autor": "Pablo Neruda"
   },
   {
     "id": 8,
-    "titulo": "Madre yo sigo contigo",
-    "poema": "Madre estoy contigo a través del tiempo y a pesar de la muerte\nVives en mi mente cuando te pienso y en mi corazón, cada vez que late\nAunque duele, acepto tu partida y solo le pido a Dios que te permita descansar en paz, por toda la eternidad\nMadre, yo sigo contigo.",
-    "autor": "Anónimo"
+    "titulo": "El beso",
+    "poema": "Apareciste en la penumbra suave\nDel salón familiar, como una estrella\nQue con sus blondos pies el cielo huella\nY lo llena de encanto dulce y grave.\n\nMe divisaste: se espejó en tus ojos\nEl dulzor que en mi pecho florecía\nY en un tenue y dulcísimo ¡Buen día!\nSe dilató sobre tus labios rojos.\n\nEn un sincero arranque de cariño\nMe apoderé de tu nevada mano,\nY la besé con mi fervor más sano,\nAlegre y bullicioso como un niño.",
+    "autor": "Mayorino Ferraría"
   },
   {
     "id": 9,
-    "titulo": "Madre te quiero",
-    "poema": "Madre aunque ya te fuiste, aunque sé que es inevitable, sigues en mi recuerdo.\nTu presencia sigue conmigo y a veces pienso que me proteges, como si fueras mi ángel guardián\nTanto me quisiste, que sé que si fuera posible escaparías del cielo, para estar junto a mí.\nYo también te quise, aunque ahora mucho después es que realmente comprendo, cuanto aun te quiero, cuando me haces falta, cuanto te extraño y cuanto lo siento...\nCuanto siento no habértelo dicho cuando estabas en vida y dabas cualquier cosa, por un \"te quiero\".",
-    "autor": "Anónimo"
+    "titulo": "Infinito",
+    "poema": "Límpiame la arena de los párpados;\nquiero inclinarme hacia tu nombre.\nNo eres la orilla quieta,\nno esta postal azul.\nEres mar, amor.\n\nContinuidad cíclica, infinita, enardecida:\nagua, agua no halla límites en el contorno.\nMe envuelves, te retiras, expones restos,\nregresas a la filigrana de la roca,\naprendes la distancia.\nTu horizonte me llama\na sumergirme.",
+    "autor": "Teresa Puig Calatayud"
   },
   {
     "id": 10,
-    "titulo": "Aun te sigo queriendo",
-    "poema": "Como te quise un día, aun te sigo queriendo.\nDe la misma forma que te lo prometí, aun guardo tu recuerdo.\nY aunque la vida quiso que te fueras, no pudo arrancarte, ni borrarte de mi mente.\nHoy sigues viviendo dentro de mí, me acompañas en mis alegrías y en mis ratos tristes, como siempre lo hiciste, como tiene que ser, porque aun... te sigo queriendo.",
-    "autor": "Anónimo"
+    "titulo": "El primer ovillejo de la historia",
+    "poema": "¿Quién menoscaba mis bienes?\nDesdenes.\nY ¿quién aumenta mis duelos?\nLos celos.\nY ¿quién prueba mi paciencia?\nAusencia.\n\nDe ese modo, en mi dolencia\nningún remedio se alcanza,\npues me matan la esperanza\ndesdenes, celos y ausencia.",
+    "autor": "Miguel de Cervantes"
   },
   {
     "id": 11,
-    "titulo": "Quiere en vida",
-    "poema": "Si quieres hacer feliz a alguien que quieres mucho, díselo hoy, en vida hermano, en vida\nSi deseas dar una flor, no esperes a que muera, mándalo hoy con amor, en vida hermano, en vida\nSi deseas decir te quiero a la gente que quieres, al amigo, cerca o lejos, díselo ahora, en vida hermano, en vida\nNo esperes que muera la gente para quererla y hacerle sentir su afecto, en vida hermano, en vida\nNunca visites panteones ni llenes tumbas de flores, llena de amor los corazones, en vida hermano, en vida.",
-    "autor": "Ana María Rabatté y Cervi."
+    "titulo": "El amor nuevo",
+    "poema": "Todo amor nuevo que aparece\nnos ilumina la existencia,\nnos la perfuma y enflorece.\n\nEn la más lóbrega conciencia\ntodo amor nuevo que aparece\ncon su caricia nos consuela,\n\nsuena en la sombra como un ala,\ny con sus rosas nos señala\nel blanco rumbo donde vuela.",
+    "autor": "Amado Nervo"
   },
   {
     "id": 12,
-    "titulo": "Mañana",
-    "poema": "Mañana me vestirán con cenizas al alba,\nme llenarán la boca de flores.\nAprenderé a dormir\nen la memoria de un muro,\nen la respiración de un animal que sueña.\n\n",
-    "autor": "Alejandra Pizarnik."
+    "titulo": "Para mi corazón basta tu pecho",
+    "poema": "Para mi corazón basta tu pecho,\npara tu libertad bastan mis alas.\nDesde mi boca llegará hasta el cielo\nlo que estaba dormido sobre tu alma.\n\nEs en ti la ilusión de cada día.\nLlegas como el rocío a las corolas.\nSocavas el horizonte con tu ausencia.\nEternamente en fuga como la ola.\n\nHe dicho que cantabas en el viento\ncomo los pinos y como los mástiles.\nComo ellos eres alta y taciturna.\nY entristeces de pronto, como un viaje.",
+    "autor": "Pablo Neruda"
   },
   {
     "id": 13,
-    "titulo": "Seguirás conmigo",
-    "poema": "Siempre te recordaré, aunque pasen los años, aunque aparezcan otras personas en mi vida, seguirás en mi corazón guiándome, acompañándome y celebrando mis victorias, que también serán tuyas.",
-    "autor": "Anónimo"
+    "titulo": "Los suspiros son aire y van al aire",
+    "poema": "Los suspiros son aire y van al aire.\nLas lágrimas son agua y van al mar.\nDime, mujer, cuando el amor se olvida,\n¿sabes tú adónde va?",
+    "autor": "Gustavo Adolfo Bécquer"
   },
   {
     "id": 14,
-    "titulo": "Amor eterno el de una Madre",
-    "poema": "El AMOR de Madre es el más grande, sincero, delicado y el único eterno en la vida\nEl más grande, porque nunca se olvida\nEl más sincero, porque es el único verdadero\nEl más delicado, porque se rasguña y se lastima\nEl único eterno, porque jamás se marchita.",
-    "autor": "Anónimo"
+    "titulo": "Amor es lo esencial",
+    "poema": "Amor es lo esencial.\nSexo, mero accidente.\nPuede ser igual\nO diferente.\n\nEl hombre no es un animal:\nEs carne inteligente,\nAunque algunas veces enferma.",
+    "autor": "Fernando Pessoa"
   },
   {
     "id": 15,
-    "titulo": "La Madre un ser creado por Dios",
-    "poema": "Dios dijo:\n\"Crearé un ser que ame con toda su alma y que lo sacrifique todo.\nQue trasnoche, que pase hambre y sed si es necesario, que sonría desde el alma.\nQue enseñe valores y que siempre entregue lo mejor de sí.\nLe pondré de nombre: MAMÁ\".",
-    "autor": "Anónimo"
+    "titulo": "Tu dulzura",
+    "poema": "Camino lentamente por la senda de acacias,\nme perfuman las manos sus pétalos de nieve,\nmis cabellos se inquietan bajo la brisa leve\ny el alma tiene un perfume de graciosa ternura.\n\nHoy me mira la vida con una cara amable,\ntú me has dicho palabras que mi orgullo encendieron;\ntu dulzura en mi pecho de paloma que sufre\npuso un blanco capullo de sereno contento.",
+    "autor": "Alfonsina Storni"
   },
   {
     "id": 16,
-    "titulo": "El amor de una Madre.",
-    "poema": "Camino del patíbulo iba un hombre con las manos bien atadas,\ncustodiado por guardianes bien armados, que atentos vigilaban.\nLa frente del culpable iba abatida, abatidas las trágicas espaldas.\nEn sus pasos tardíos aquel hombre, infinito cansancio revelaba\ny de sus ojos de tristeza llenos, dos lagrimas rodaban.\n\n¡Es un ruin! ¡Un cobarde!\nSiguiéndole la turba le gritaba:\n¡Sanguinario! ¡Asesino! ¡Muera! ¡Muera!\nHombre lleno de oprobios y de infamia\n¡Al cadalso! ¡Al cadalso!\nAsí rugiendo al reo, la muchedumbre le increpaba...\nTodo era odio y horror, todo desprecio al criminal de vida depravada.\nY cuando más vibraba la anatema y cuando más la cólera estallaba,\nun grito resonó sublime, que detuvo en los labios las palabras:\n¡Es mi hijo! ¡Es mi hijo! se escuchó una voz de madre.\nÉl es el fruto de amor de mis entrañas y aunque asesino y todo, ¡es mi hijo!\n\nY entre la turba que quedó asombrada, abriose paso una mujer humilde,\nde faz rugosa y cabellera blanca.\nY sin ver, sin oír con arrebato, al asesino se quedó abrazada.\nY entre sollozos llenos de ternura, lo baño con sus lágrimas.\n\nY entre sollozos llenos de ternura se tapó la cara y dijo:\n¡Por qué lo quieres Señor!\nQue así taladre, el cruel destino al corazón humano.\n¡Es este hombre!, !mi propio hijo! y ustedes, ¡unos desgraciados!\n¡Oh Dios mío!, ¿por qué lo quieres así?\n¡Si cuando un hijo muere! ¡muere con él!\nel amor y la ternura, la dulzura y la bondad.\n\nSolo hay un gran amor, amor sublime,\nque detiene las borrascas, que ilumina la senda del destino:\n¡Es el amor de madre, que nos salva!\n",
-    "autor": "Miguel A. Hidalgo"
+    "titulo": "Soneto de la guirnalda de rosas",
+    "poema": "¡Esa guirnalda! ¡pronto! ¡que me muero!\n¡Teje deprisa! ¡canta! ¡gime! ¡canta!\nque la sombra me enturbia la garganta\ny otra vez viene y mil la luz de enero.\n\nEntre lo que me quieres y te quiero,\naire de estrellas y temblor de planta,\nespesura de anémonas levanta\ncon oscuro gemir un año entero.\n\nGoza el fresco paisaje de mi herida,\nquiebra juncos y arroyos delicados.\nBebe en muslo de miel sangre vertida.\n\nPero ¡pronto! Que unidos, enlazados,\nboca rota de amor y alma mordida,\nel tiempo nos encuentre destrozados.",
+    "autor": "Federico García Lorca"
   },
   {
     "id": 17,
-    "titulo": "Mamá que duermes",
-    "poema": "Mamá, aunque siempre duermes, tus ojitos me pueden mirar.\nDesde el cielo nunca me dejes de cuidar.",
-    "autor": "Anónimo"
+    "titulo": "Juegas todos los días con la luz del universo",
+    "poema": "Juegas todos los días con la luz del universo.\nSutil visitadora, llegas en la flor y en el agua.\nEres más que esta blanca cabecita que aprieto\ncomo un racimo entre mis manos cada día.\n\nA nadie te pareces desde que yo te amo.\nDéjame tenderte entre guirnaldas amarillas.\n¿Quién escribe tu nombre con letras de humo\nentre las estrellas del sur?\n\nQuiero hacer contigo\nlo que la primavera hace con los cerezos.",
+    "autor": "Pablo Neruda"
+  },
+  {
+    "id": 18,
+    "titulo": "Definición del amor",
+    "poema": "Desmayarse, atreverse, estar furioso,\náspero, tierno, liberal, esquivo,\nalentado, mortal, difunto, vivo,\nleal, traidor, cobarde y animoso;\n\nno hallar fuera del bien centro y reposo,\nmostrarse alegre, triste, humilde, altivo,\nenojado, valiente, fugitivo,\nsatisfecho, offendedor, receloso;\n\nhuir el medio y mirar al daño,\nbeber veneno por licor suave,\nolvidar el provecho, amar el daño;\n\ncreer que un cielo en un infierno cabe,\ndar la vida y el alma a un desengaño;\nesto es amor, quien lo probó lo sabe.",
+    "autor": "Lope de Vega"
+  },
+  {
+    "id": 19,
+    "titulo": "Amor constante más allá de la muerte",
+    "poema": "Cerrar podrá mis ojos la última\nsombra que me llevare el blanco día,\ny podrá desatar esta alma mía\nhora a su afán ansioso lisonjera;\n\nmas no, de esotra parte, en la ribera,\ndejará la memoria, en donde ardía:\nnadar sabe mi llama la agua fría,\ny perder el respeto a ley severa.\n\nAlma a quien todo un dios prisión ha sido,\nvenas que humor a tanto fuego han dado,\nmédulas que han gloriosamente ardido,\n\nsu cuerpo dejará, no su cuidado;\nserán ceniza, mas tendrá sentido;\npolvo serán, mas polvo enamorado.",
+    "autor": "Francisco de Quevedo"
+  },
+  {
+    "id": 20,
+    "titulo": "Para que tú me oigas",
+    "poema": "Para que tú me oigas\nmis palabras\nse adelgazan a veces\ncomo las huellas de las gaviotas en las playas.\n\nCollar, cascabel ebrio\npara tus manos suaves como las uvas.\n\nY las miro lejanas mis palabras.\nMás que mías son tuyas.\nVan trepando en mi viejo dolor como las yedras.\n\nPero se van tiñendo con tu amor mis palabras.\nTodo lo ocupas tú, todo lo ocupas.\nVoy haciendo de todas un collar infinito\npara tus blancas manos, suaves como las uvas.",
+    "autor": "Pablo Neruda"
+  },
+  {
+    "id": 21,
+    "titulo": "Madrigal de verano",
+    "poema": "Junta tu roja boca con la mía,\n¡Oh Estrella la gitana!\nBajo el oro solar del mediodía\nmorderé la manzana.\n\nEn el verde olivar de la colina\nhay una torre morena,\ndel color de tu carne campesina\nque sabe a miel y aurora.\n\nMe ofreces en tu cuerpo requemado,\nel divino alimento\nque da flores al cauce sosegado\ny luceros al viento.",
+    "autor": "Federico García Lorca"
+  },
+  {
+    "id": 22,
+    "titulo": "No te amo como si fueras rosa de sal",
+    "poema": "No te amo como si fueras rosa de sal, topacio\no flecha de claveles que propagan el fuego:\nte amo como se aman ciertas cosas oscuras,\nsecretamente, entre la sombra y el alma.\n\nTe amo como la planta que no florece y lleva\ndentro de sí, escondida, la luz de aquellas flores,\ny gracias a tu amor vive oscuro en mi cuerpo\nel apretado aroma que ascendió de la tierra.\n\nTe amo sin saber cómo, ni cuándo, ni de dónde,\nte amo directamente sin problemas ni orgullo:\nasí te amo porque no sé amar de otro modo,\n\nsino así de este modo en que no soy ni eres,\ntan cerca que tu mano sobre mi pecho es mía,\ntan cerca que se cierran tus ojos con mi sueño.",
+    "autor": "Pablo Neruda"
+  },
+  {
+    "id": 23,
+    "titulo": "La gitana preciosa defiende su libertad en el amor",
+    "poema": "En esta empresa amorosa,\ndonde el amor entretengo,\npor mayor ventura tengo\nser honesta que hermosa.\n\nLa que es más humilde planta,\nsi la subida endereza,\npor gracia o naturaleza\na los cielos se levanta.\n\nEn este mi bajo cobre,\nsiendo honestidad su esmalte,\nno hay buen deseo que falte\nni riqueza que no sobre.",
+    "autor": "Miguel de Cervantes"
+  },
+  {
+    "id": 24,
+    "titulo": "Aquí te amo",
+    "poema": "Aquí te amo.\nEn los oscuros pinos se desenreda el viento.\nFosforece la luna sobre las aguas errantes.\nAndan días iguales persiguiéndose.\n\nSe desciñe la niebla en danzantes figuras.\nUna gaviota de plata se descuelga del ocaso.\nA veces una vela. Altas, altas estrellas.\n\nAquí te amo y en vano te oculta el horizonte.\nTe estoy amando aún entre estas frías cosas.\nA veces van mis besos en esos barcos graves,\nque corren por el mar hacia donde no llegan.",
+    "autor": "Pablo Neruda"
+  },
+  {
+    "id": 25,
+    "titulo": "Soneto de la dulce queja",
+    "poema": "Tengo miedo a perder la maravilla\nde tus ojos de estatua, y el acento\nque de noche me pone en la mejilla\nla solitaria rosa de tu aliento.\n\nTengo pena de ser en esta orilla\ntronco sin ramas; y lo que más siento\nes no tener la flor, pulpa o arcilla,\npara el gusano de mi sufrimiento.\n\nSi tú eres el tesoro oculto mío,\nsi eres mi cruz y mi dolor mojado,\nsi soy el perro de tu señorío,\n\nno me dejes perder lo que he ganado\ny decora las aguas de tu río\ncon hojas de mi otoño enajenado.",
+    "autor": "Federico García Lorca"
+  },
+  {
+    "id": 26,
+    "titulo": "Hagamos un trato",
+    "poema": "Compañera\nusted sabe\nque puede contar\nconmigo\nno hasta dos\no hasta diez\nsino contar\nconmigo.\n\nSi alguna vez\nadvierte\nque la miro a los ojos\ny una banda de amor\nreconoce en los míos\nno alerte sus fusiles\nni piense qué delirio\na pesar de la banda\no tal vez porque existe\nusted puede contar\nconmigo.",
+    "autor": "Mario Benedetti"
+  },
+  {
+    "id": 27,
+    "titulo": "Táctica y estrategia",
+    "poema": "Mi táctica es\nmirarte\naprender como eres\nquererte como eres.\n\nMi táctica es\nhablarte\ny escucharte\nconstruir con palabras\nun puente indestructible.\n\nMi táctica es\nquedarme en tu recuerdo\nno sé cómo ni sé\ncon qué pretexto\npero quedarme en vos.\n\nMi estrategia es\nen cambio\nmás profunda y más\nsimple.\n\nMi estrategia es\nque un día cualquiera\nno sé cómo ni sé\ncon qué pretexto\npor fin me necesites.",
+    "autor": "Mario Benedetti"
+  },
+  {
+    "id": 28,
+    "titulo": "Me tienes en tus manos",
+    "poema": "Me tienes en tus manos\ny me lees lo mismo que un libro.\nSabes lo que yo ignoro\ny me dices las cosas que no me digo.\n\nTe me confieso con la ternura con que te deseo\ny tu boca me sabe a la fruta que aún no he probado.\nMe tienes en tus manos\ny eres la única persona en el mundo que sabe que existo.",
+    "autor": "Jaime Sabines"
+  },
+  {
+    "id": 29,
+    "titulo": "Toco tu boca",
+    "poema": "Toco tu boca, con un dedo toco el borde de tu boca,\nvoy dibujándola como si saliera de mi mano,\ncomo si por primera vez tu boca se abriera,\ny me basta cerrar los ojos para deshacerlo todo y recomenzar...\n\nMe miras, de cerca me miras, cada vez más de cerca\ny jugamos al agua y a la luna, nos miramos con los ojos,\nlas manos se buscan, se aprietan,\ny cuando las bocas se encuentran en un beso,\nel mundo se derrumba suavemente.",
+    "autor": "Julio Cortázar"
+  },
+  {
+    "id": 30,
+    "titulo": "Epigrama",
+    "poema": "Al perderte yo a ti tú y yo hemos perdido:\nyo porque tú eras lo que yo más amaba\ny tú porque yo era el que te amaba más.\n\nPero de los dos tú pierdes más que yo:\nporque yo podré amar a otras como te amaba a ti\npero a ti no te amarán como te amaba yo.",
+    "autor": "Ernesto Cardenal"
+  },
+  {
+    "id": 31,
+    "titulo": "Quiero contigo",
+    "poema": "Quiero contigo todas las cosas que no quise con nadie.\nQuiero los domingos lentos,\nlas mañanas con café y desorden,\nlos viajes sin rumbo\ny la certeza de saberme a salvo en tu abrazo.\n\nNo quiero un amor perfecto,\nquiero este amor tuyo que me rescata,\nque me enseña que amar\nes simplemente volver a casa.",
+    "autor": "Elvira Sastre"
+  },
+  {
+    "id": 32,
+    "titulo": "Uno no escoge",
+    "poema": "Uno no escoge el país donde nace,\npero ama el país donde ha nacido.\nUno no escoge el tiempo para venir al mundo,\npero adecúa su tiempo a sus miradas.\n\nY te miro a ti,\nlibre en tu arquitectura de agua y luz,\ny sé que en este tiempo de sombras\ntú eres la claridad a la que me entrego.",
+    "autor": "Gioconda Belli"
+  },
+  {
+    "id": 33,
+    "titulo": "El enamorado",
+    "poema": "Lunas, marfiles, instrumentos, rosas,\nlámparas y la línea de Durero,\ntantas cosas y en vano repetidas.\n\nDebo fechar la galaxia que te pertenece,\ndebo fingir que existen las cosas.\nSólo tú eres. Tú, mi desorden y mi paz.",
+    "autor": "Jorge Luis Borges"
+  },
+  {
+    "id": 34,
+    "titulo": "Tus ojos",
+    "poema": "Tus ojos son la patria del relámpago y de la lágrima,\nsilencio que habla,\ntempestades sin viento, mar sin olas,\npájaros presos, doradas fieras adormecidas,\ntopacios impíos como la verdad.",
+    "autor": "Octavio Paz"
+  },
+  {
+    "id": 35,
+    "titulo": "Asombro",
+    "poema": "Te llamaré por tu nombre en la sombra,\ncuando la ciudad duerma y solo queden\nlos semáforos amarillos y el frío en los portales.\n\nTe buscaré sin prisas,\nsabiendo que encontrarte es el único modo\nde que la vida tenga algún sentido.",
+    "autor": "Luis García Montero"
+  },
+  {
+    "id": 36,
+    "titulo": "Encuentro",
+    "poema": "Tú eliges el lugar de la herida\ndonde libramos la batalla.\nTú pones las palabras\ny yo pongo la noche,\ntú me das la mirada\ny yo me habito en ella.",
+    "autor": "Alejandra Pizarnik"
+  },
+  {
+    "id": 37,
+    "titulo": "Ya que",
+    "poema": "Ya que la vida es esto,\nya que no hay otra cosa,\nte busco en la penumbra\ncon mis manos desnudas.\n\nTe nombro sin voz,\nte amo en la distancia\ny dejo que tu recuerdo\nme sostenga la noche.",
+    "autor": "Idea Vilariño"
+  },
+  {
+    "id": 38,
+    "titulo": "Corazón coraza",
+    "poema": "Porque te tengo y no\nporque te pienso\nporque la noche está con los ojos abiertos\nporque la noche pasa y digo amor\nporque has venido a recoger tu imagen\ny eres mejor que todas tus imágenes\nporque eres linda desde el pie hasta el alma\nporque eres buena desde el alma a mí\nporque te escondes dulce en el orgullo\npara que sin saber que te persigo\nyo te busque por todas partes.",
+    "autor": "Mario Benedetti"
+  },
+  {
+    "id": 39,
+    "titulo": "Espero curarme de ti",
+    "poema": "Espero curarme de ti en unos días.\nTengo que dejar de fumarte, de beberte, de pensarte.\nEs posible. Siguiendo las prescripciones de la moral en turno.\nMe receto tiempo, abstinencia, soledad.\n\n¿Te parece bien que te quiera nada más una semana?\nNo es mucho, ni es poco, es bastante.\nEn una semana se pueden reunir todas las palabras de amor\nque se han dicho en la tierra y se les puede prender fuego.",
+    "autor": "Jaime Sabines"
+  },
+  {
+    "id": 40,
+    "titulo": "Los amantes",
+    "poema": "No sé. Ya te digo. Se aman.\nNo se puede mirar esa desnudez sin temblar.\nSe aman como la primera vez,\ncomo la última vez,\nsin tiempo, sin memoria,\nsolo la carne y el aliento.\n\nSaben que al despertar el mundo seguirá allí,\npero en este instante de penumbra y piel,\nnada importa más que el pulso de sus manos.",
+    "autor": "Julio Cortázar"
+  },
+  {
+    "id": 41,
+    "titulo": "Sostenerte",
+    "poema": "Te busco en el verso que aún no he escrito,\nen la risa que se escapa sin permiso,\nen el abrazo que calma el ruido del mundo.\n\nEres la quietud que no sabía que necesitaba,\nla luz que entra sin pedir permiso\ny se queda a habitar en cada rincón.",
+    "autor": "Elvira Sastre"
+  },
+  {
+    "id": 42,
+    "titulo": "Amor de tarde",
+    "poema": "Te amo en la luz suave de la tarde,\ncuando el mundo se apaga un poco\ny solo queda el murmullo de tu voz.\n\nEres el refugio de mis días más largos,\nla certeza de que siempre hay un lugar\nadonde regresar.",
+    "autor": "Gioconda Belli"
+  },
+  {
+    "id": 43,
+    "titulo": "Muchachas que algún día leáis estos versos",
+    "poema": "Muchachas que algún día leáis emocionadas estos versos\ny sepáis que fueron hechos para una como vosotras,\nsabed que también a vosotras os amo\ny que la belleza que tenéis la aprendisteis de estos versos.",
+    "autor": "Ernesto Cardenal"
+  },
+  {
+    "id": 44,
+    "titulo": "Dos cuerpos",
+    "poema": "Dos cuerpos frente a frente\nson a veces dos olas\ny la noche es océano.\n\nDos cuerpos frente a frente\nson a veces dos piedras\ny la noche desierto.\n\nDos cuerpos frente a frente\nson a veces raíces\nen la noche enlazadas.\n\nDos cuerpos frente a frente\nson a veces navajas\ny la noche relámpago.\n\nDos cuerpos frente a frente\nson dos estrellas que caen\nen un cielo desierto.",
+    "autor": "Octavio Paz"
+  },
+  {
+    "id": 45,
+    "titulo": "A una mujer",
+    "poema": "No te habrán de salvar de mi mano los días,\nno te habrán de salvar las tristes sombras,\nno te habrá de salvar mi propio olvido,\nno te habrá de salvar lo que no me dices.\n\nEn cada gesto tuyo hay un rastro de luz,\nuna memoria que se niega a apagarse.",
+    "autor": "Jorge Luis Borges"
+  },
+  {
+    "id": 46,
+    "titulo": "Complicidad",
+    "poema": "Me gusta cuando me miras sin decir nada,\ncuando compartimos el mismo silencio en la habitación.\n\nHay una forma de estar juntos\nque no requiere palabras,\nsolo la certeza de que estamos en el mismo bando.",
+    "autor": "Luis García Montero"
+  },
+  {
+    "id": 47,
+    "titulo": "Acompañamiento",
+    "poema": "Esta mirada desvelada\nque busca tu rostro\nen medio de la noche.\n\nSaber que estás cerca\nes la única quietud\nque mi alma reconoce.",
+    "autor": "Alejandra Pizarnik"
+  },
+  {
+    "id": 48,
+    "titulo": "Amor",
+    "poema": "Un amor como un árbol,\nque da sombra y da fruto,\nque se clava en la tierra\ny no le teme al viento.\n\nUn amor como tu mano en mi mano,\nsimple, verdadero, cotidiano.",
+    "autor": "Idea Vilariño"
+  },
+  {
+    "id": 49,
+    "titulo": "Si tú me olvidas",
+    "poema": "Quiero que sepas una cosa.\nTú sabes cómo es esto:\nsi miro la luna de cristal, la rama roja\ndel lento otoño en mi ventana,\nsi toco junto al fuego la impalpable ceniza\no el arrugado cuerpo de la leña,\ntodo me lleva a ti,\ncomo si todo lo que existe,\naromas, luces, cosas,\nfueran pequeños barcos que navegan\nhacia las islas tuyas que me aguardan.",
+    "autor": "Pablo Neruda"
+  },
+  {
+    "id": 50,
+    "titulo": "El amor",
+    "poema": "El amor no es solo una palabra,\nes la manera en que la luz entra por la ventana\ncuando estás cerca.\n\nEs el rumor de la lluvia en el tejado\ny el silencio dulce de dos personas\nque se conocen de memoria.",
+    "autor": "Eugenio Montejo"
+  },
+  {
+    "id": 51,
+    "titulo": "Invocación",
+    "poema": "Si me llamas, acudo.\nNo pregunto la hora ni el camino.\n\nMe basta saber que en algún lugar\ntus manos están esperándome\ny que al llegar habré encontrado mi sitio.",
+    "autor": "Cristina Peri Rossi"
+  },
+  {
+    "id": 52,
+    "titulo": "Refugio",
+    "poema": "No quiero tenerte para llenar mis vacíos.\nQuiero estar llena por mí misma.\nQuiero estar tan completa que pueda iluminar la ciudad entera.\n\nY luego quiero tenerte a ti,\nporque los dos juntos podríamos encender el mundo.",
+    "autor": "Rupi Kaur"
+  },
+  {
+    "id": 53,
+    "titulo": "Viceversa",
+    "poema": "Tengo miedo de verte\nnecesidad de verte\naspiración de verte\ndescomposición de verte.\n\nTengo ganas de hallarte\npreocupación de hallarte\ncertidumbre de hallarte\ndudas de hallarte.\n\nTengo un dolor de verte\nque es el dolor de verte\ny una alegría de verte\nque es el dolor de verte.",
+    "autor": "Mario Benedetti"
+  },
+  {
+    "id": 54,
+    "titulo": "Los amorosos",
+    "poema": "Los amorosos callan.\nEl amor es el silencio más fino,\nel más tembloroso, el más insoportable.\n\nLos amorosos buscan,\nlos amorosos son los que abandonan,\nson los que cambian, los que olvidan.\n\nSu corazón les dice que han encontrado el amor,\npero ellos saben que no es verdad\ny siguen buscando.",
+    "autor": "Jaime Sabines"
+  },
+  {
+    "id": 55,
+    "titulo": "Te quiero",
+    "poema": "Si te quiero es porque sos\nmi amor mi cómplice y todo\ny en la calle codo a codo\nsomos mucho más que dos.\n\nTus manos son mi caricia\nmis acordes cotidianos\nte quiero porque tus manos\ntrabajan por la justicia.\n\nSi te quiero es porque sos\nmi amor mi cómplice y todo\ny en la calle codo a codo\nsomos mucho más que dos.",
+    "autor": "Mario Benedetti"
   }
 ]
