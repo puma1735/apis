@@ -691,7 +691,7 @@
     "texto": "Siempre serás mi estrella favorita, aunque decidas iluminar otros cielos.",
     "etiquetas": [
       "poética",
-      "futuro",º
+      "futuro",
       "romántica",
       "dedicatoria"
     ],
@@ -2288,7 +2288,7 @@
     "etiquetas": [
       "romántica",
       "dedicatoria",
-      "afectiva",
+      "afectiva",
       "enar"
     ],
     "imagen": "https://raw.githubusercontent.com/puma1735/apis/refs/heads/main/Novia_/images/img207.jpg"
@@ -2307,8 +2307,7 @@
   {
     "id": 209,
     "texto": "Sé que no puedo volar, pero alguien que me hace sentir que lo puedo lograr y esa persona eres tú.",
-    "etiquetas": [
-      
+    "etiquetas": [      
       "declaración",
       "romántica",
       "dedicatoria",
